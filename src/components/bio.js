@@ -8,6 +8,8 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faTwitter } from "@fortawesome/free-brands-svg-icons"
 
 import { rhythm } from "../utils/typography"
 
@@ -25,6 +27,7 @@ const Bio = () => {
         siteMetadata {
           author {
             name
+            name_en
             summary
           }
           social {
@@ -57,11 +60,16 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+        <strong>Author</strong>: {author.name}
+        <a
+          href={`https://twitter.com/${social.twitter}`}
+          target={`_blank`}
+          style={{ margin: 5 }}
+        >
+          <FontAwesomeIcon icon={faTwitter} />@{social.twitter}
         </a>
+        <br />
+        {author.summary}
       </p>
     </div>
   )

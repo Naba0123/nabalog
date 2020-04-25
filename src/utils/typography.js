@@ -11,6 +11,23 @@ Wordpress2016.overrideThemeStyles = () => {
 
 delete Wordpress2016.googleFonts
 
+Wordpress2016.headerFontFamily = [
+  "Hiragino Kaku Gothic Pro",
+  "ヒラギノ角ゴ Pro W3",
+  "メイリオ",
+  "Meiryo",
+  "ＭＳ Ｐゴシック",
+  "sans-serif",
+]
+Wordpress2016.bodyFontFamily = [
+  "Hiragino Kaku Gothic Pro",
+  "ヒラギノ角ゴ Pro W3",
+  "メイリオ",
+  "Meiryo",
+  "ＭＳ Ｐゴシック",
+  "sans-serif",
+]
+
 const typography = new Typography(Wordpress2016)
 
 // Hot reload typography in development.

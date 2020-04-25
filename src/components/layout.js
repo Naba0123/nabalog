@@ -31,7 +31,6 @@ const Layout = ({ location, title, children }) => {
     header = (
       <h3
         style={{
-          fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
         }}
       >
@@ -61,7 +60,16 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <a href="https://www.gatsbyjs.org" target="_blank">
+          Gatsby
+        </a>
+        , Hosted on{" "}
+        <a
+          href="https://help.github.com/ja/github/working-with-github-pages/about-github-pages"
+          target="_blank"
+        >
+          GitHub Pages
+        </a>
       </footer>
     </div>
   )

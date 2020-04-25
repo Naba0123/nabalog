@@ -1,10 +1,11 @@
 module.exports = {
   pathPrefix: `/blog`,
   siteMetadata: {
-    title: `なばろぐ`,
+    title: `なばろぐ（仮）`,
     author: {
-      name: `Naba`,
-      summary: `Programming, Compose piano music, etc`,
+      name: `ナーバ`,
+      name_en: `Naba`,
+      summary: `PHP / Laravel / 競技プログラミング / Piano / DTM / StaffPad / 天体観測`,
     },
     description: `プログラミング系ネタ、作曲活動、雑記など`,
     siteUrl: `https://naba0123.net/blog/`,
