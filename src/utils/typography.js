@@ -1,34 +1,25 @@
 import Typography from "typography"
-import Wordpress2016 from "typography-theme-wordpress-2016"
+import theme from "typography-theme-japanese-tofu"
 
-Wordpress2016.overrideThemeStyles = () => {
-  return {
-    "a.gatsby-resp-image-link": {
-      boxShadow: `none`,
-    },
-  }
-}
+// theme.headerFontFamily = [
+//   "Hiragino Kaku Gothic Pro",
+//   "ヒラギノ角ゴ Pro W3",
+//   "メイリオ",
+//   "Meiryo",
+//   "ＭＳ Ｐゴシック",
+//   "sans-serif",
+// ]
+// theme.bodyFontFamily = [
+//   "Hiragino Kaku Gothic Pro",
+//   "ヒラギノ角ゴ Pro W3",
+//   "メイリオ",
+//   "Meiryo",
+//   "ＭＳ Ｐゴシック",
+//   "sans-serif",
+// ]
 
-delete Wordpress2016.googleFonts
-
-Wordpress2016.headerFontFamily = [
-  "Hiragino Kaku Gothic Pro",
-  "ヒラギノ角ゴ Pro W3",
-  "メイリオ",
-  "Meiryo",
-  "ＭＳ Ｐゴシック",
-  "sans-serif",
-]
-Wordpress2016.bodyFontFamily = [
-  "Hiragino Kaku Gothic Pro",
-  "ヒラギノ角ゴ Pro W3",
-  "メイリオ",
-  "Meiryo",
-  "ＭＳ Ｐゴシック",
-  "sans-serif",
-]
-
-const typography = new Typography(Wordpress2016)
+// const typography = new Typography(Wordpress2016)
+const typography = new Typography(theme)
 
 // Hot reload typography in development.
 if (process.env.NODE_ENV !== `production`) {

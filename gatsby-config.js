@@ -5,7 +5,7 @@ module.exports = {
     author: {
       name: `ナーバ`,
       name_en: `Naba`,
-      summary: `PHP / Laravel / 競技プログラミング / Piano / DTM / StaffPad / 天体観測`,
+      summary: `PHP / Laravel / Piano / DTM / StaffPad / 天体観測`,
     },
     description: `プログラミング系ネタ、作曲活動、雑記など`,
     siteUrl: `https://naba0123.net/blog/`,

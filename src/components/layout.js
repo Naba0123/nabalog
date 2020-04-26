@@ -60,13 +60,13 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://www.gatsbyjs.org" target="_blank">
+        <a href="https://www.gatsbyjs.org" target={`_blank`}>
           Gatsby
         </a>
         , Hosted on{" "}
         <a
           href="https://help.github.com/ja/github/working-with-github-pages/about-github-pages"
-          target="_blank"
+          target={`_blank`}
         >
           GitHub Pages
         </a>
