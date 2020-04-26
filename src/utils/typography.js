@@ -1,22 +1,24 @@
 import Typography from "typography"
 import theme from "typography-theme-japanese-tofu"
 
-// theme.headerFontFamily = [
-//   "Hiragino Kaku Gothic Pro",
-//   "ヒラギノ角ゴ Pro W3",
-//   "メイリオ",
-//   "Meiryo",
-//   "ＭＳ Ｐゴシック",
-//   "sans-serif",
-// ]
-// theme.bodyFontFamily = [
-//   "Hiragino Kaku Gothic Pro",
-//   "ヒラギノ角ゴ Pro W3",
-//   "メイリオ",
-//   "Meiryo",
-//   "ＭＳ Ｐゴシック",
-//   "sans-serif",
-// ]
+theme.headerFontFamily = [
+  "Helvetica Neue",
+  "Arial",
+  "Hiragino Sans",
+  "Hiragino Kak Gothic ProN",
+  "BIZ UDPGothic",
+  "Meiryo",
+  "sans-serif",
+]
+theme.bodyFontFamily = [
+  "Helvetica Neue",
+  "Arial",
+  "Hiragino Sans",
+  "Hiragino Kak Gothic ProN",
+  "BIZ UDPGothic",
+  "Meiryo",
+  "sans-serif",
+]
 
 // const typography = new Typography(Wordpress2016)
 const typography = new Typography(theme)
