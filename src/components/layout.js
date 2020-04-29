@@ -1,70 +1,93 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import { rhythm, scale } from "../utils/typography"
-
+import Bio from "../components/bio"
+import { rhythm } from "../utils/typography"
 import "./layout.css"
 
-const Layout = ({ location, title, children }) => {
+const Layout = ({ location, title, children, description }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
+
+  const headerBackgroundColor = 'radial-gradient(#2b80d5, #1d558d)';
+  const headerTextColor = 'white';
 
   if (location.pathname === rootPath) {
     header = (
       <h1
         style={{
-          ...scale(1.5),
-          marginBottom: rhythm(1.5),
-          marginTop: 0,
+          color: `${headerTextColor}`,
+          background: `${headerBackgroundColor}`,
+          padding: `0.7em`,
+          margin: 0,
         }}
       >
         <Link
           style={{
             boxShadow: `none`,
             color: `inherit`,
+            textDecorationLine: `none`,
           }}
           to={`/`}
         >
           {title}
         </Link>
+        <br/>
+        <span style={{fontSize: `0.3em`}}>{description}</span>
       </h1>
     )
   } else {
     header = (
       <h3
         style={{
-          marginTop: 0,
+          color: `${headerTextColor}`,
+          background: `${headerBackgroundColor}`,
+          padding: `0.7em`,
+          margin: 0,
         }}
       >
         <Link
           style={{
             boxShadow: `none`,
             color: `inherit`,
+            textDecorationLine: `none`,
           }}
           to={`/`}
         >
           {title}
         </Link>
+        <br/>
+        <span style={{fontSize: `0.3em`}}>{description}</span>
       </h3>
     )
   }
   return (
-    <div
-      style={{
-        marginLeft: `auto`,
-        marginRight: `auto`,
-        maxWidth: rhythm(24),
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-      }}
-    >
-      <header>{header}</header>
-      <main>{children}</main>
-      <hr
+    <div>
+      <header style={{textAlign: `center`}}>{header}</header>
+      <div
         style={{
-          marginBottom: rhythm(1),
+          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          backgroundColor: `white`,
+          boxShadow: `0 1px 5px black`,
         }}
-      />
-      <footer>
+      >
+        <main>{children}</main>
+      </div>
+      <div style={{
+        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        background: `${headerBackgroundColor}`,
+        color: `${headerTextColor}`,
+        boxShadow: `0 1px 5px black`,
+      }}>
+        <Bio />
+      </div>
+      <footer
+      style={{
+        marginTop: `1em`,
+        marginBottom: `1em`,
+        textAlign: `center`,
+        fontSize: `0.8em`,
+      }}>
         © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://www.gatsbyjs.org" target={`_blank`}>

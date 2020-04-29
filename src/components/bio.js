@@ -61,13 +61,15 @@ const Bio = () => {
       />
       <p>
         <strong>Author</strong>: {author.name}
+        &nbsp;(
         <a
           href={`https://twitter.com/${social.twitter}`}
           target={`_blank`}
-          style={{ margin: 5 }}
+          style={{ margin: 5, textDecorationLine: `none`, color: `white` }}
         >
-          <FontAwesomeIcon icon={faTwitter} />@{social.twitter}
+          <FontAwesomeIcon icon={faTwitter} /> @<span style={{ textDecorationLine: `underline`}}>{social.twitter}</span>
         </a>
+        )
         <br />
         {author.summary}
       </p>
