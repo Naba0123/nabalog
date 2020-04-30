@@ -3,9 +3,11 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Share from '../components/share'
 import { rhythm, scale } from "../utils/typography"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
+  const { slug } = pageContext;
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const siteDescription = data.site.siteMetadata.description
@@ -49,6 +51,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           }}
         />
       </article>
+
+      <Share postPath={slug} postNode={post} />
 
       <nav>
         <ul

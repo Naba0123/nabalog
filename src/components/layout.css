@@ -2,3 +2,7 @@ html {
   letter-spacing: 0.03em;
   background-color: whitesmoke;
 }
+
+img.gatsby-resp-image-image {
+  box-shadow: 0 0 10px gray;
+}
