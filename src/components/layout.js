@@ -9,7 +9,7 @@ const Layout = ({ location, title, children, description }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   let header
 
-  const headerBackgroundColor = 'radial-gradient(#2b80d5, #1d558d)';
+  const headerBackgroundColor = 'radial-gradient(#2257a1, #1d4b8c)';
   const headerTextColor = 'white';
 
   if (location.pathname === rootPath) {
@@ -18,7 +18,7 @@ const Layout = ({ location, title, children, description }) => {
         style={{
           color: `${headerTextColor}`,
           background: `${headerBackgroundColor}`,
-          padding: `0.7em`,
+          padding: `0.7em  5%`,
           margin: 0,
         }}
       >
@@ -42,7 +42,7 @@ const Layout = ({ location, title, children, description }) => {
         style={{
           color: `${headerTextColor}`,
           background: `${headerBackgroundColor}`,
-          padding: `0.7em`,
+          padding: `0.7em  5%`,
           margin: 0,
         }}
       >
@@ -66,7 +66,7 @@ const Layout = ({ location, title, children, description }) => {
       <header style={{textAlign: `center`}}>{header}</header>
       <div
         style={{
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          padding: `${rhythm(1.5)} 5%`,
           backgroundColor: `white`,
           boxShadow: `0 1px 5px black`,
         }}
@@ -74,7 +74,7 @@ const Layout = ({ location, title, children, description }) => {
         <main>{children}</main>
       </div>
       <div style={{
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        padding: `${rhythm(1.5)} 5%`,
         background: `${headerBackgroundColor}`,
         color: `${headerTextColor}`,
         boxShadow: `0 1px 5px black`,
