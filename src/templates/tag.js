@@ -3,10 +3,9 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Tags from "../components/tags"
 import { rhythm } from "../utils/typography"
 
-const BlogIndex = ({ data, location }) => {
+const TagPage = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title
   const siteDescription = data.site.siteMetadata.description
   const posts = data.allMarkdownRemark.edges
@@ -14,22 +13,24 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle} description={siteDescription}>
       <SEO title="TOP" />
+      <h1>
+        {pageContext.tag} ({data.allMarkdownRemark.totalCount}件)
+      </h1>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
           <article key={node.fields.slug}>
             <header>
-              <p style={{ margin:0 }}><small>{node.frontmatter.date}</small></p>
               <h3
                 style={{
-                  marginBottom: rhythm(1 / 2),
+                  marginBottom: rhythm(1 / 4),
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
                   {title}
                 </Link>
               </h3>
-              <Tags tags={node.frontmatter.tags} />
+              <small>{node.frontmatter.date}</small>
             </header>
             <section>
               <p
@@ -38,7 +39,6 @@ const BlogIndex = ({ data, location }) => {
                 }}
               />
             </section>
-            <hr/>
           </article>
         )
       })}
@@ -46,17 +46,22 @@ const BlogIndex = ({ data, location }) => {
   )
 }
 
-export default BlogIndex
+export default TagPage
 
 export const pageQuery = graphql`
-  query {
+  query($tag: String) {
     site {
       siteMetadata {
         title
         description
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      limit: 1000
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: {tags: {in:[$tag]}}}
+    ) {
+      totalCount
       edges {
         node {
           excerpt(truncate: true)
