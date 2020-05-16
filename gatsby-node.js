@@ -57,7 +57,6 @@ exports.createPages = async ({ graphql, actions }) => {
     })
 
     const tags = result.data.tags.group
-    console.log(tags)
     tags.forEach(tag => {
       createPage({
         path: `/tags/${lodash.kebabCase(tag.tag)}/`,
