@@ -6,6 +6,37 @@ import SEO from "../components/seo"
 import Tags from "../components/tags"
 import { rhythm } from "../utils/typography"
 
+export const pageQuery = graphql`
+  query($skip: Int!, $limit: Int!) {
+    site {
+      siteMetadata {
+        title
+        description
+      }
+    }
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      skip: $skip
+      limit: $limit
+    ) {
+      edges {
+        node {
+          excerpt(truncate: true)
+          fields {
+            slug
+          }
+          frontmatter {
+            date(formatString: "YYYY/MM/DD HH:mm")
+            title
+            description
+            tags
+          }
+        }
+      }
+    }
+  }
+`
+
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const siteDescription = data.site.siteMetadata.description
@@ -19,7 +50,9 @@ const BlogIndex = ({ data, location }) => {
         return (
           <article key={node.fields.slug}>
             <header>
-              <p style={{ margin:0 }}><small>{node.frontmatter.date}</small></p>
+              <p style={{ margin: 0 }}>
+                <small>{node.frontmatter.date}</small>
+              </p>
               <h3
                 style={{
                   marginBottom: rhythm(1 / 2),
@@ -38,7 +71,7 @@ const BlogIndex = ({ data, location }) => {
                 }}
               />
             </section>
-            <hr/>
+            <hr />
           </article>
         )
       })}
@@ -48,29 +81,3 @@ const BlogIndex = ({ data, location }) => {
 
 export default BlogIndex
 
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-        description
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      edges {
-        node {
-          excerpt(truncate: true)
-          fields {
-            slug
-          }
-          frontmatter {
-            date(formatString: "YYYY/MM/DD HH:mm")
-            title
-            description
-            tags
-          }
-        }
-      }
-    }
-  }
-`

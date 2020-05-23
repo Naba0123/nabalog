@@ -1,12 +1,14 @@
 const path = require(`path`)
 const lodash = require(`lodash`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
+const { paginate } = require(`gatsby-awesome-pagination`)
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
   const tagTemplate = path.resolve(`./src/templates/tag.js`)
+  const bloglistTemplate = path.resolve(`./src/templates/index.js`)
   const result = await graphql(
     `
       {
@@ -42,6 +44,16 @@ exports.createPages = async ({ graphql, actions }) => {
   // Create blog posts pages.
   const posts = result.data.allMarkdownRemark.edges
 
+  // index
+  paginate({
+    createPage,
+    items: posts,
+    itemsPerPage: 10,
+    pathPrefix: ({ pageNumber }) => (pageNumber === 0 ? "/" : "/page"),
+    component: bloglistTemplate,
+  })
+
+  // detail
   posts.forEach((post, index) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node
     const next = index === 0 ? null : posts[index - 1].node
@@ -62,7 +74,7 @@ exports.createPages = async ({ graphql, actions }) => {
         path: `/tags/${lodash.kebabCase(tag.tag)}/`,
         component: tagTemplate,
         context: {
-          tag: tag.tag
+          tag: tag.tag,
         },
       })
     })
