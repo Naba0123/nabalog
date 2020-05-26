@@ -25,3 +25,12 @@ jobs:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           # Additional arguments that get passed to `gatsby build`.
           gatsby-args: --prefix-paths
+      - name: Checkout naba0123.net
+        uses: actions/checkout@v2
+        with:
+          repository: Naba0123/naba0123.net
+          path: naba0123.net
+      - name: commit naba0123.net
+        run: |
+          echo `pwd`
+          ls
