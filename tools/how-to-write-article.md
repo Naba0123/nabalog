@@ -8,21 +8,11 @@
 - &lt;script&gt; 行は削除して貼り付け
 
 ```
-<blockquote class="twitter-tweet" data-lang="ja">
-  <p lang="ja" dir="ltr">
-    最近忙しかったのでアレですが、ブログ更新しました。<br><br>
-    Reactで構造化データマークアップ（JSON-LD対応）
-    <a href="https://t.co/7V49VqH9WI">https://t.co/7V49VqH9WI</a>
-    <a href="https://twitter.com/inouetakumon?ref_src=twsrc%5Etfw">@inouetakumon</a>さんから
-  </p>
-  &mdash;
-  takumontakumon (@inouetakumon)
-  <a href="https://twitter.com/inouetakumon/status/1046062825037344770?ref_src=twsrc%5Etfw">2018年9月29日</a>
-</blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Surfaceに特化した、手書きの楽譜入力ソフトStaffPad、日本語の情報が皆無なんだけど、もっと評価されるべき。こんなに認識能力高いのに <a href="https://t.co/HrzMBdBXSX">pic.twitter.com/HrzMBdBXSX</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/690882267950940160?ref_src=twsrc%5Etfw">January 23, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ```
 
 ### YouTube
 
 ```
-`youtube:https://www.youtube.com/embed/z8Kt1gXL_2M`
+`youtube:https://www.youtube.com/embed/VlkaBEF6WZ4`
 ```
