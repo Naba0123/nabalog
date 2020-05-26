@@ -36,9 +36,12 @@ jobs:
           path: naba0123.net
       - name: commit naba0123.net
         run: |
-          rm -fr naba0123.net/blog
-          mv public naba0123.net/blog
           cd naba0123.net
+          git branch
+          git log
+          git pull
+          rm -fr blog
+          mv ../public blog
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Build By GitHub Actions" -a
