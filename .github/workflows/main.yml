@@ -30,16 +30,15 @@ jobs:
       - run: npm install
       - run: node_modules/gatsby/dist/bin/gatsby.js build --prefix-paths
       - name: Checkout naba0123.net
-        uses: actions/checkout@v2
+        uses: actions/checkout@master
         with:
           repository: Naba0123/naba0123.net
           path: naba0123.net
+          persist-credentials: false
+          fetch-depth: 0
       - name: commit naba0123.net
         run: |
           cd naba0123.net
-          git branch
-          git log
-          git pull
           rm -fr blog
           mv ../public blog
           git config --local user.email "action@github.com"
