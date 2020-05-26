@@ -36,5 +36,12 @@ jobs:
           path: naba0123.net
       - name: commit naba0123.net
         run: |
-          echo `pwd`
+          rm -fr naba0123.net/blog
+          mv public naba0123.net/blog
+          cd naba0123.net
+          git remote set-url origin https://Naba0123:${{ secrets.PASSWORD }}@github.com/Naba0123/naba0123.net
+          git config user.name "GitHub Actions"
+          git add .
+          git commit -m "Build By GitHub Actions"
+          git push
           ls
