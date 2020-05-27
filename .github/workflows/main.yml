@@ -48,5 +48,5 @@ jobs:
           git log
       - name: Push naba0123.net
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        run: git push https://x-access-token:${ACCESS_TOKEN}@github.com/Naba0123/naba0123.net master
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: git push https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/Naba0123/naba0123.net.git master
