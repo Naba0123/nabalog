@@ -46,7 +46,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -m "Build By GitHub Actions" -a
           git log
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push naba0123.net
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: git push https://x-access-token:${ACCESS_TOKEN}@github.com/Naba0123/naba0123.net master
