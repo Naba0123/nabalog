@@ -39,6 +39,7 @@ jobs:
       - name: commit naba0123.net
         run: |
           cd naba0123.net
+          git pull origin master
           rm -fr blog
           mv ../public blog
           git config --local user.email "action@github.com"
