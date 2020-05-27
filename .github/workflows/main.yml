@@ -50,5 +50,5 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          directory: ./naba0123.net
+          # directory: ./naba0123.net
           repository: Naba0123/naba0123.net
