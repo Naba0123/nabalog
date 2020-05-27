@@ -47,6 +47,7 @@ jobs:
           git commit -m "Build By GitHub Actions" -a
           git log
       - name: Push naba0123.net
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: git push https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/Naba0123/naba0123.net.git master
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          repository: naba0123.net
