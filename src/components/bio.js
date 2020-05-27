@@ -10,7 +10,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faTwitter } from "@fortawesome/free-brands-svg-icons"
-import { faPen } from "@fortawesome/free-solid-svg-icons"
+import { faUser } from "@fortawesome/free-solid-svg-icons"
 
 import { rhythm } from "../utils/typography"
 
@@ -66,7 +66,7 @@ const Bio = () => {
         }}
       >
         <strong>
-          <FontAwesomeIcon icon={faPen} /> Author
+          <FontAwesomeIcon icon={faUser} /> Author
         </strong>
         <br />
         {author.name}

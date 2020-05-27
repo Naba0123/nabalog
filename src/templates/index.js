@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Tags from "../components/tags"
 import { rhythm } from "../utils/typography"
+import Pagination from "../components/pagination"
 
 export const pageQuery = graphql`
   query($skip: Int!, $limit: Int!) {
@@ -37,14 +38,16 @@ export const pageQuery = graphql`
   }
 `
 
-const BlogIndex = ({ data, location }) => {
+const BlogIndex = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title
   const siteDescription = data.site.siteMetadata.description
   const posts = data.allMarkdownRemark.edges
 
   return (
     <Layout location={location} title={siteTitle} description={siteDescription}>
+      <Pagination context = {pageContext} />
       <SEO title="TOP" />
+      <hr />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
@@ -75,6 +78,7 @@ const BlogIndex = ({ data, location }) => {
           </article>
         )
       })}
+      <Pagination context = {pageContext} />
     </Layout>
   )
 }
