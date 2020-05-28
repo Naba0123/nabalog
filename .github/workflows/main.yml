@@ -30,6 +30,5 @@ jobs:
       - name: nom install
         run: npm install
       - name: build && push
-        run: gatsby build && gh-pages -d public -b gh-pages -r https://$ACCESS_TOKEN@github.com/Naba0123/nabalog.git
-        with:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: gatsby build && gh-pages -d public -b gh-pages -r https://${{ secrets.ACCESS_TOKEN }}@github.com/Naba0123/nabalog.git
+
