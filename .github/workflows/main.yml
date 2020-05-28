@@ -30,5 +30,8 @@ jobs:
       - name: npm install
         run: npm install
       - name: build && push
-        run: node_modules/gatsby/dist/bin/gatsby.js build && node_modules/gh-pages/bin/gh-pages.js -d public -b gh-pages -r https://${{ secrets.ACCESS_TOKEN }}@github.com/Naba0123/nabalog.git
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          node_modules/gatsby/dist/bin/gatsby.js build && node_modules/gh-pages/bin/gh-pages.js -d public -b gh-pages -r https://${{ secrets.ACCESS_TOKEN }}@github.com/Naba0123/nabalog.git
 
