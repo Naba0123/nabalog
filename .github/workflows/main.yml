@@ -27,8 +27,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - name: nom install
+      - name: npm install
         run: npm install
       - name: build && push
-        run: gatsby build && gh-pages -d public -b gh-pages -r https://${{ secrets.ACCESS_TOKEN }}@github.com/Naba0123/nabalog.git
+        run: node_modules/gatsby/dist/bin/gatsby.js build && node_modules/gh-pages/bin/gh-pages.js -d public -b gh-pages -r https://${{ secrets.ACCESS_TOKEN }}@github.com/Naba0123/nabalog.git
 
