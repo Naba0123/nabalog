@@ -15,13 +15,21 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        node-version: [12.x]
+
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/checkout@v1
-      - name: Gatsby Publish
-        uses: enriikke/gatsby-gh-pages-action@v2.1.1
+      - name: Checkout nabalog
+        uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
         with:
-          # A personal access token needed to push your site after it has been built.
-          access-token: ${{ secrets.ACCESS_TOKEN }}
-          # The branch expected by GitHub to have the static files needed for your site.
-          deploy-branch: gh-pages
+          node-version: ${{ matrix.node-version }}
+      - name: nom install
+        run: npm install
+      - name: build && push
+        run: gatsby build && gh-pages -d public -b gh-pages -r https://$ACCESS_TOKEN@github.com/Naba0123/nabalog.git
+        with:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
