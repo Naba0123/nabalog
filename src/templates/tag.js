@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
+import Pagination from "../components/pagination"
 
 const TagPage = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -39,9 +40,11 @@ const TagPage = ({ data, location, pageContext }) => {
                 }}
               />
             </section>
+            <hr/>
           </article>
         )
       })}
+      <Pagination context = {pageContext} />
     </Layout>
   )
 }
@@ -49,7 +52,7 @@ const TagPage = ({ data, location, pageContext }) => {
 export default TagPage
 
 export const pageQuery = graphql`
-  query($tag: String) {
+  query($skip: Int!, $limit: Int!, $tag: String) {
     site {
       siteMetadata {
         title
@@ -57,9 +60,10 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      limit: 1000
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: {tags: {in:[$tag]}}}
+      skip: $skip
+      limit: $limit
     ) {
       totalCount
       edges {
