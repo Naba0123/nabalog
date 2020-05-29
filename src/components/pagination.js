@@ -9,30 +9,28 @@ const Page = ({ context }) => {
     numberOfPages,
   } = context
   return (
-    <div className="container">
-      <nav className="pagination">
-        <ul>
+    <div className={`pagination`}>
+      <p style={{marginBottom: 0}}>
+        <span>
+          Page {humanPageNumber} of {numberOfPages}
+        </span>
+      </p>
+      <ul>
+        
+          <li>
           {previousPagePath && (
-            <p>
-              <Link to={previousPagePath} className="newer-posts">
-                Prev
-              </Link>
-            </p>
-          )}
-          <p>
-            <span className="page-number">
-              Page {humanPageNumber} of {numberOfPages}
-            </span>
-          </p>
-          {nextPagePath && (
-            <p>
-              <Link to={nextPagePath} className="older-posts">
-                Next
-              </Link>
-            </p>
-          )}
-        </ul>
-      </nav>
+            <Link to={previousPagePath} className={`pagination-before`}>前のページ</Link>
+            )}
+          </li>
+        
+        {nextPagePath && (
+          <li>
+            <Link to={nextPagePath} className={`pagination-after`}>
+              次のページ
+            </Link>
+          </li>
+        )}
+      </ul>
     </div>
   )
 }

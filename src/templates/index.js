@@ -7,37 +7,6 @@ import Tags from "../components/tags"
 import { rhythm } from "../utils/typography"
 import Pagination from "../components/pagination"
 
-export const pageQuery = graphql`
-  query($skip: Int!, $limit: Int!) {
-    site {
-      siteMetadata {
-        title
-        description
-      }
-    }
-    allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
-      skip: $skip
-      limit: $limit
-    ) {
-      edges {
-        node {
-          excerpt(truncate: true)
-          fields {
-            slug
-          }
-          frontmatter {
-            date(formatString: "YYYY/MM/DD HH:mm")
-            title
-            description
-            tags
-          }
-        }
-      }
-    }
-  }
-`
-
 const BlogIndex = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title
   const siteDescription = data.site.siteMetadata.description
@@ -45,9 +14,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
 
   return (
     <Layout location={location} title={siteTitle} description={siteDescription}>
-      <Pagination context = {pageContext} />
       <SEO title="TOP" />
-      <hr />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
@@ -85,3 +52,33 @@ const BlogIndex = ({ data, location, pageContext }) => {
 
 export default BlogIndex
 
+export const pageQuery = graphql`
+  query($skip: Int!, $limit: Int!) {
+    site {
+      siteMetadata {
+        title
+        description
+      }
+    }
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      skip: $skip
+      limit: $limit
+    ) {
+      edges {
+        node {
+          excerpt(truncate: true)
+          fields {
+            slug
+          }
+          frontmatter {
+            date(formatString: "YYYY/MM/DD HH:mm")
+            title
+            description
+            tags
+          }
+        }
+      }
+    }
+  }
+`

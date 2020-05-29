@@ -68,19 +68,26 @@ exports.createPages = async ({ graphql, actions }) => {
       },
     })
 
-    const tags = result.data.tags.group
-    tags.forEach(tag => {
-      createPage({
-        path: `/tags/${lodash.kebabCase(tag.tag)}/`,
-        component: tagTemplate,
-        context: {
-          tag: tag.tag,
-        },
-      })
-    })
-
     return null
   })
+
+  // tags
+  const tags = result.data.tags.group
+  tags.forEach(tag => {
+    paginate({
+      items: Array(tag.totalCount),  // 中でtotalCountとしてlengthを使っている（itemsの中身は何でも良い）
+      createPage,
+      itemsPerPage: 10,
+      pathPrefix: ({ pageNumber }) =>
+        `/tags/${lodash.kebabCase(tag.tag)}` +
+        (pageNumber === 0 ? "/" : "/page"),
+      component: tagTemplate,
+      context: {
+        tag: tag.tag,
+      },
+    })
+  })
+
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
