@@ -1,10 +1,9 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Tags from "../components/tags"
-import { rhythm } from "../utils/typography"
+import Article from "../components/article"
 import Pagination from "../components/pagination"
 
 const BlogIndex = ({ data, location, pageContext }) => {
@@ -18,31 +17,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
-          <article key={node.fields.slug}>
-            <header>
-              <p style={{ margin: 0 }}>
-                <small>{node.frontmatter.date}</small>
-              </p>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 2),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <Tags tags={node.frontmatter.tags} />
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-            </section>
-            <hr />
-          </article>
+          <Article node={node} title={title} />
         )
       })}
       <Pagination context = {pageContext} />
