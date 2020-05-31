@@ -12,9 +12,7 @@ exports.createPages = async ({ graphql, actions }) => {
   const result = await graphql(
     `
       {
-        allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: DESC }
-        ) {
+        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
           edges {
             node {
               fields {
@@ -22,6 +20,7 @@ exports.createPages = async ({ graphql, actions }) => {
               }
               frontmatter {
                 title
+                tags
               }
             }
           }
@@ -54,16 +53,12 @@ exports.createPages = async ({ graphql, actions }) => {
 
   // detail
   posts.forEach((post, index) => {
-    const previous = index === posts.length - 1 ? null : posts[index + 1].node
-    const next = index === 0 ? null : posts[index - 1].node
-
     createPage({
       path: post.node.fields.slug,
       component: blogPost,
       context: {
         slug: post.node.fields.slug,
-        previous,
-        next,
+        tags: post.node.frontmatter.tags ? post.node.frontmatter.tags : ["_____"],
       },
     })
 
@@ -74,7 +69,7 @@ exports.createPages = async ({ graphql, actions }) => {
   const tags = result.data.tags.group
   tags.forEach(tag => {
     paginate({
-      items: Array(tag.totalCount),  // 中でtotalCountとしてlengthを使っている（itemsの中身は何でも良い）
+      items: Array(tag.totalCount), // 中でtotalCountとしてlengthを使っている（itemsの中身は何でも良い）
       createPage,
       itemsPerPage: 10,
       pathPrefix: ({ pageNumber }) =>
@@ -86,7 +81,6 @@ exports.createPages = async ({ graphql, actions }) => {
       },
     })
   })
-
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {

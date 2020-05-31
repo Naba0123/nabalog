@@ -1,18 +1,22 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
+import Article from "../components/article"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Share from '../components/share'
+import Share from "../components/share"
 import Tags from "../components/tags"
 import { rhythm, scale } from "../utils/typography"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
-  const { slug } = pageContext;
+  const { slug } = pageContext
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const siteDescription = data.site.siteMetadata.description
-  const { previous, next } = pageContext
+
+  const relatedPosts = data.relatedPosts.edges.filter(
+    _post => _post.node.id != post.id
+  )
 
   return (
     <Layout location={location} title={siteTitle} description={siteDescription}>
@@ -21,9 +25,11 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         description={post.frontmatter.description || post.excerpt}
       />
       <article>
-        <header style={{
-          marginBottom: rhythm(1),
-        }}>
+        <header
+          style={{
+            marginBottom: rhythm(1),
+          }}
+        >
           <p
             style={{
               ...scale(-1 / 5),
@@ -34,10 +40,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           >
             {post.frontmatter.date}
           </p>
-          <h1 >
-            {post.frontmatter.title}
-          </h1>
-          <Tags tags={post.frontmatter.tags}/>
+          <h1>{post.frontmatter.title}</h1>
+          <Tags tags={post.frontmatter.tags} />
         </header>
         <hr
           style={{
@@ -52,34 +56,18 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
       </article>
 
-      <Share postPath={slug} postNode={post} />
+      <div style={{
+        padding: `1em`,
+        border: `1px solid lightgray`,
+        marginBottom: `1em`
+      }}>
+        <h3>関連する記事</h3>
+        {relatedPosts.map(({ node }) => {
+          return <Article node={node} title={node.frontmatter.title} />
+        })}
+      </div>
 
-      <nav>
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
+      <Share postPath={slug} postNode={post} />
     </Layout>
   )
 }
@@ -87,7 +75,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 export default BlogPostTemplate
 
 export const pageQuery = graphql`
-  query BlogPostBySlug($slug: String!) {
+  query BlogPostBySlug($slug: String!, $tags: [String]!) {
     site {
       siteMetadata {
         title
@@ -101,6 +89,27 @@ export const pageQuery = graphql`
         date(formatString: "YYYY/MM/DD HH:mm")
         description
         tags
+      }
+      id
+    }
+    relatedPosts: allMarkdownRemark(
+      filter: { frontmatter: { tags: { in: $tags } } }
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 5
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date(formatString: "YYYY/MM/DD HH:mm")
+            description
+            tags
+          }
+          id
+        }
       }
     }
   }

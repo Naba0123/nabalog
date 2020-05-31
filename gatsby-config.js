@@ -4,10 +4,10 @@ module.exports = {
     author: {
       name: `ナーバ`,
       name_en: `Naba`,
-      summary: `バックエンドエンジニア。 同人活動ではソロピアノ曲の作曲・演奏など。 PHP(Laravel) / JavaScript(React/Gatsby) / C++(競プロ) / Piano / DTM / プロ生 / StaffPad / ドライブ / 天体観測`,
+      summary: `バックエンドエンジニア。ソロピアノ曲の作曲・演奏など。 PHP(Laravel) / JavaScript(React/Gatsby) / C++(競プロ) / Piano / DTM / プロ生 / StaffPad / ドライブ / 天体観測`,
     },
     description: `プログラミング系ネタ、作曲活動、雑記など`,
-    siteUrl: `https://naba0123.net/blog/`,
+    siteUrl: `https://blog.naba0123.net/`,
     social: {
       twitter: `Naba0123`,
     },
