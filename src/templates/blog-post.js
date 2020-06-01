@@ -15,7 +15,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const siteDescription = data.site.siteMetadata.description
 
   const relatedPosts = data.relatedPosts.edges.filter(
-    _post => _post.node.id != post.id
+    _post => _post.node.id !== post.id
   )
 
   return (
