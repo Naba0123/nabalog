@@ -10,7 +10,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faTwitter } from "@fortawesome/free-brands-svg-icons"
-import { faUser } from "@fortawesome/free-solid-svg-icons"
+import { faUser, faHome } from "@fortawesome/free-solid-svg-icons"
 
 import { rhythm } from "../utils/typography"
 
@@ -19,7 +19,7 @@ const Bio = () => {
     query BioQuery {
       avatar: file(absolutePath: { regex: "/naba.jpg/" }) {
         childImageSharp {
-          fixed(width: 80, height: 80) {
+          fixed(width: 100, height: 100, quality: 100) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -52,12 +52,12 @@ const Bio = () => {
         alt={author.name}
         style={{
           marginRight: rhythm(1 / 2),
-          minWidth: 50,
-          borderRadius: `100%`,
         }}
         imgStyle={{
-          borderRadius: `50%`,
           marginBottom: 0,
+          width: `auto`,
+          height: `auto`,
+          borderRadius: `50%`,
         }}
       />
       <p
@@ -66,20 +66,36 @@ const Bio = () => {
         }}
       >
         <strong>
-          <FontAwesomeIcon icon={faUser} /> Author
+          <FontAwesomeIcon icon={faUser} /> Author&nbsp;&nbsp;{author.name}
         </strong>
         <br />
-        {author.name}
-        &nbsp;
+        <a
+          href={`https://naba0123.net/`}
+          style={{
+            textDecorationLine: `none`,
+            color: `white`,
+            backgroundColor: `#333`,
+            padding: `0.3em`,
+            borderRadius: `0.2em`,
+            textDecoration: `none`,
+          }}
+        >
+          <FontAwesomeIcon icon={faHome} style={{ marginRight: `0.3em` }} />
+          About me
+        </a>
         <a
           href={`https://twitter.com/${social.twitter}`}
-          target={`_blank`}
-          style={{ margin: 5, textDecorationLine: `none`, color: `white` }}
+          style={{
+            margin: `0.5em`,
+            textDecorationLine: `none`,
+            color: `white`,
+            backgroundColor: `#1DA1F2`,
+            padding: `0.3em`,
+            borderRadius: `0.2em`,
+            textDecoration: `none`,
+          }}
         >
-          <FontAwesomeIcon icon={faTwitter} /> @
-          <span style={{ textDecorationLine: `underline` }}>
-            {social.twitter}
-          </span>
+          <FontAwesomeIcon icon={faTwitter} /> @{social.twitter}
         </a>
         <br />
         <span
