@@ -60,52 +60,53 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p
-        style={{
-          marginBottom: 0,
-        }}
-      >
-        <strong>
-          <FontAwesomeIcon icon={faUser} /> Author&nbsp;&nbsp;{author.name}
-        </strong>
-        <br />
-        <a
-          href={`https://naba0123.net/`}
+      <div>
+        <p
           style={{
-            textDecorationLine: `none`,
-            color: `white`,
-            backgroundColor: `#333`,
-            padding: `0.3em`,
-            borderRadius: `0.2em`,
-            textDecoration: `none`,
+            marginBottom: 0,
           }}
         >
-          <FontAwesomeIcon icon={faHome} style={{ marginRight: `0.3em` }} />
-          About me
-        </a>
-        <a
-          href={`https://twitter.com/${social.twitter}`}
-          style={{
-            margin: `0.5em`,
-            textDecorationLine: `none`,
-            color: `white`,
-            backgroundColor: `#1DA1F2`,
-            padding: `0.3em`,
-            borderRadius: `0.2em`,
-            textDecoration: `none`,
-          }}
-        >
-          <FontAwesomeIcon icon={faTwitter} /> @{social.twitter}
-        </a>
-        <br />
-        <span
+          <strong>
+            <FontAwesomeIcon icon={faUser} /> Author&nbsp;&nbsp;{author.name}
+          </strong>
+          <br />
+          <a
+            href={`https://naba0123.net/`}
+            style={{
+              textDecorationLine: `none`,
+              color: `white`,
+              backgroundColor: `#333`,
+              padding: `0.3em`,
+              borderRadius: `0.2em`,
+              textDecoration: `none`,
+            }}
+          >
+            <FontAwesomeIcon icon={faHome} style={{ marginRight: `0.3em` }} />
+            About me
+          </a>
+          <a
+            href={`https://twitter.com/${social.twitter}`}
+            style={{
+              margin: `0.5em`,
+              textDecorationLine: `none`,
+              color: `white`,
+              backgroundColor: `#1DA1F2`,
+              padding: `0.3em`,
+              borderRadius: `0.2em`,
+              textDecoration: `none`,
+            }}
+          >
+            <FontAwesomeIcon icon={faTwitter} /> @{social.twitter}
+          </a>
+        </p>
+        <p
           style={{
             fontSize: `0.8em`,
+            marginTop: `0.8em`,
           }}
-        >
-          {author.summary}
-        </span>
-      </p>
+          dangerouslySetInnerHTML={{ __html: author.summary }}
+        />
+      </div>
     </div>
   )
 }

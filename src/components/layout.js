@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, useStaticQuery, graphql } from "gatsby"
+import { Link, useStaticQuery, graphql, withPrefix } from "gatsby"
 import kebabCase from "lodash/kebabCase"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faTags } from "@fortawesome/free-solid-svg-icons"
@@ -26,9 +26,9 @@ const Layout = ({ title, children, description }) => {
     <h1
       style={{
         color: `${headerTextColor}`,
-        background: `${headerBackgroundColor}`,
-        padding: `0.7em  5%`,
+        padding: `0.7em 0.3em`,
         margin: 0,
+        textShadow: `0 0 5px black`,
       }}
     >
       <Link
@@ -48,12 +48,23 @@ const Layout = ({ title, children, description }) => {
 
   return (
     <div>
-      <header style={{ textAlign: `center` }}>{header}</header>
+      <header
+        className="title-header"
+        style={{
+          backgroundImage: `url(${withPrefix("/images/header.jpg")})`,
+          position: `relative`,
+          textAlign: `center`,
+          boxShadow: `0 0 5px gray`,
+          backgroundSize: `cover`,
+          backgroundPosition: `center`,
+        }}
+      >
+        {header}
+      </header>
       <div
         style={{
           padding: `${rhythm(1.5)} 5%`,
           backgroundColor: `white`,
-          boxShadow: `0 1px 5px black`,
         }}
       >
         <main>{children}</main>
@@ -63,7 +74,7 @@ const Layout = ({ title, children, description }) => {
           padding: `${rhythm(1.5)} 5%`,
           background: `${headerBackgroundColor}`,
           color: `${headerTextColor}`,
-          boxShadow: `0 1px 5px black`,
+          boxShadow: `0 0 5px gray`,
         }}
       >
         <Bio />

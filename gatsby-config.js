@@ -4,9 +4,9 @@ module.exports = {
     author: {
       name: `ナーバ`,
       name_en: `Naba`,
-      summary: `バックエンドエンジニア / ピアノ作曲・演奏 / StaffPad / DTM / ドライブ`,
+      summary: `バックエンドエンジニア / ピアノ作曲・演奏 / StaffPad / DTM / ドライブ<br>PHP(Laravel) / JavaScript(React/Gatsby) / C++`,
     },
-    description: `プログラミング系ネタ、作曲活動、雑記など`,
+    description: `プログラミング、作曲、雑記`,
     siteUrl: `https://blog.naba0123.net/`,
     social: {
       twitter: `Naba0123`,
