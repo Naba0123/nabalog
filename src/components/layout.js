@@ -2,7 +2,7 @@ import React from "react"
 import { Link, useStaticQuery, graphql, withPrefix } from "gatsby"
 import kebabCase from "lodash/kebabCase"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faTags } from "@fortawesome/free-solid-svg-icons"
+import { faTag } from "@fortawesome/free-solid-svg-icons"
 import Bio from "../components/bio"
 import { rhythm } from "../utils/typography"
 import "./layout.css"
@@ -89,7 +89,7 @@ const Layout = ({ title, children, description }) => {
                     textDecoration: `none`,
                   }}
                 >
-                  <FontAwesomeIcon icon={faTags} /> {tag.tag} [{tag.totalCount}]
+                  <FontAwesomeIcon icon={faTag} /> {tag.tag} [{tag.totalCount}]
                 </Link>
               </li>
             ))}

@@ -7,6 +7,8 @@ import SEO from "../components/seo"
 import Share from "../components/share"
 import Tags from "../components/tags"
 import { rhythm, scale } from "../utils/typography"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faNewspaper } from "@fortawesome/free-solid-svg-icons"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const { slug } = pageContext
@@ -25,12 +27,35 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         style={{
           padding: `1em`,
           border: `1px solid lightgray`,
-          marginBottom: `1em`,
+          marginTop: `1em`,
         }}
       >
-        <h3>関連する記事</h3>
-        {relatedPosts.map(({ node }) => {
-          return <Article key={node.id} node={node} title={node.frontmatter.title} />
+        <h3>
+          <FontAwesomeIcon icon={faNewspaper} /> 関連する記事
+        </h3>
+        {relatedPosts.map((edge, index) => {
+          const node = edge.node
+          let article = (
+            <Article
+              key={node.id}
+              node={node}
+              title={node.frontmatter.title}
+              disableBody={true}
+            />
+          )
+          if (index + 1 < relatedPosts.length) {
+            return (
+              <div>
+                {article}
+                <hr
+                  style={{
+                    margin: `1.5em auto`,
+                  }}
+                />
+              </div>
+            )
+          }
+          return <div>{article}</div>
         })}
       </div>
     )
@@ -49,16 +74,22 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           }}
         >
           <p
+            className={`date`}
             style={{
               ...scale(-1 / 5),
-              display: `block`,
               marginTop: rhythm(1),
               marginBottom: 0,
             }}
           >
             {post.frontmatter.date}
           </p>
-          <h1>{post.frontmatter.title}</h1>
+          <h1
+            style={{
+              marginBottom: `0.1em`,
+            }}
+          >
+            {post.frontmatter.title}
+          </h1>
           <Tags tags={post.frontmatter.tags} />
         </header>
         <hr
@@ -74,9 +105,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
       </article>
 
+      <Share postPath={slug} postNode={post}/>
       {relatedPostCont}
 
-      <Share postPath={slug} postNode={post} />
     </Layout>
   )
 }

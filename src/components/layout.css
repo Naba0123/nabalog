@@ -28,3 +28,8 @@ ul li, ol li {
 .pagination li .pagination-after::after {
   content: ' ＞';
 }
+
+p.date {
+  font-style: italic;
+  color: gray;
+}

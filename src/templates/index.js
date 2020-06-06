@@ -14,10 +14,14 @@ const BlogIndex = ({ data, location, pageContext }) => {
   return (
     <Layout location={location} title={siteTitle} description={siteDescription}>
       <SEO title="TOP" />
-      {posts.map(({ node }) => {
+      {posts.map((edge, index) => {
+        const node = edge.node
         const title = node.frontmatter.title || node.fields.slug
         return (
-          <Article node={node} title={title} />
+          <div>
+            <Article node={node} title={title} />
+            <hr/>
+          </div>
         )
       })}
       <Pagination context = {pageContext} />

@@ -5,6 +5,8 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Pagination from "../components/pagination"
 import Article from "../components/article"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faTag } from "@fortawesome/free-solid-svg-icons"
 
 const TagPage = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -15,15 +17,18 @@ const TagPage = ({ data, location, pageContext }) => {
     <Layout location={location} title={siteTitle} description={siteDescription}>
       <SEO title="TOP" />
       <h1>
-        {pageContext.tag} ({data.allMarkdownRemark.totalCount}件)
+      <FontAwesomeIcon icon={faTag} /> {pageContext.tag} [{data.allMarkdownRemark.totalCount}]
       </h1>
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
-          <Article node={node} title={title} />
+          <div>
+            <Article node={node} title={title} />
+            <hr />
+          </div>
         )
       })}
-      <Pagination context = {pageContext} />
+      <Pagination context={pageContext} />
     </Layout>
   )
 }
@@ -40,7 +45,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: {tags: {in:[$tag]}}}
+      filter: { frontmatter: { tags: { in: [$tag] } } }
       skip: $skip
       limit: $limit
     ) {
