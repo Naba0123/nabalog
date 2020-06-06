@@ -18,7 +18,7 @@ const BlogIndex = ({ data, location, pageContext }) => {
         const node = edge.node
         const title = node.frontmatter.title || node.fields.slug
         return (
-          <div>
+          <div key={index}>
             <Article node={node} title={title} />
             <hr/>
           </div>

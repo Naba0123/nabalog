@@ -45,7 +45,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           )
           if (index + 1 < relatedPosts.length) {
             return (
-              <div>
+              <div key={index}>
                 {article}
                 <hr
                   style={{
@@ -55,7 +55,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               </div>
             )
           }
-          return <div>{article}</div>
+          return <div key={index}>{article}</div>
         })}
       </div>
     )

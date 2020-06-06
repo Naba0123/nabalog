@@ -19,10 +19,11 @@ const TagPage = ({ data, location, pageContext }) => {
       <h1>
       <FontAwesomeIcon icon={faTag} /> {pageContext.tag} [{data.allMarkdownRemark.totalCount}]
       </h1>
-      {posts.map(({ node }) => {
+      {posts.map((edge, index) => {
+        const node = edge.node
         const title = node.frontmatter.title || node.fields.slug
         return (
-          <div>
+          <div key={index}>
             <Article node={node} title={title} />
             <hr />
           </div>

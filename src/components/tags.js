@@ -17,8 +17,8 @@ const Tag = ({ tag }) => (
 
 const Tags = ({ tags }) => (
   <ul className={`tag`}>
-    {(tags || []).map(tag => (
-      <Tag tag={tag} />
+    {(tags || []).map((tag, index) => (
+      <Tag tag={tag} key={index} />
     ))}
   </ul>
 )
