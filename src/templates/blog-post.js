@@ -18,6 +18,24 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
     _post => _post.node.id !== post.id
   )
 
+  let relatedPostCont = ""
+  if (relatedPosts.length > 0) {
+    relatedPostCont = (
+      <div
+        style={{
+          padding: `1em`,
+          border: `1px solid lightgray`,
+          marginBottom: `1em`,
+        }}
+      >
+        <h3>関連する記事</h3>
+        {relatedPosts.map(({ node }) => {
+          return <Article key={node.id} node={node} title={node.frontmatter.title} />
+        })}
+      </div>
+    )
+  }
+
   return (
     <Layout location={location} title={siteTitle} description={siteDescription}>
       <SEO
@@ -56,16 +74,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
       </article>
 
-      <div style={{
-        padding: `1em`,
-        border: `1px solid lightgray`,
-        marginBottom: `1em`
-      }}>
-        <h3>関連する記事</h3>
-        {relatedPosts.map(({ node }) => {
-          return <Article node={node} title={node.frontmatter.title} />
-        })}
-      </div>
+      {relatedPostCont}
 
       <Share postPath={slug} postNode={post} />
     </Layout>

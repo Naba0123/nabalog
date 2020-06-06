@@ -82,7 +82,7 @@ const Layout = ({ title, children, description }) => {
         <div>
           <ul style={{ display: `flex` }}>
             {data.tags.group.map(tag => (
-              <li style={{ margin: `0 1em` }}>
+              <li style={{ margin: `0 1em` }} key={tag.tag}>
                 <Link
                   to={`/tags/${kebabCase(tag.tag)}/`}
                   style={{

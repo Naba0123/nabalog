@@ -21,6 +21,7 @@ DATETIME=$(date "+%FT%T")
 str="---
 title: $title
 date: \"$DATETIME\"
+description: 記事の説明文
 tags: [\"未分類\"]
 ---
 

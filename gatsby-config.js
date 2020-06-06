@@ -6,7 +6,7 @@ module.exports = {
       name_en: `Naba`,
       summary: `バックエンドエンジニア / ピアノ作曲・演奏 / StaffPad / DTM / ドライブ<br>PHP(Laravel) / JavaScript(React/Gatsby) / C++`,
     },
-    description: `プログラミング、作曲、雑記`,
+    description: `プログラミング、作曲活動、雑記など`,
     siteUrl: `https://blog.naba0123.net/`,
     social: {
       twitter: `Naba0123`,
