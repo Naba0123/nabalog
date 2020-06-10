@@ -97,7 +97,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             marginBottom: rhythm(1),
           }}
         />
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <section id={`article-section`} dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
             marginBottom: rhythm(1),

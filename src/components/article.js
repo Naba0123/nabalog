@@ -3,6 +3,8 @@ import { Link } from "gatsby"
 import Tags from "../components/tags"
 import { rhythm, scale } from "../utils/typography"
 
+import "./article.css"
+
 const Article = ({ node, title, disableBody }) => {
   let body = ""
   if (disableBody !== true) {

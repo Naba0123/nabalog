@@ -4,7 +4,6 @@ import kebabCase from 'lodash/kebabCase';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faTag } from "@fortawesome/free-solid-svg-icons"
 
-import "./layout.css"
 import "./tags.css"
 
 const Tag = ({ tag }) => (
