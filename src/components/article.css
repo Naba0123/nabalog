@@ -1,13 +1,43 @@
+/* a */
+#article-section a {
+  margin: auto 0.2em;
+  color: #005CAF;
+  padding-bottom: 1px;
+  border-bottom: 1px dotted #005CAF;
+  text-decoration: none;
+}
+#article-section a:hover {
+  border-bottom: 2px solid #005CAF;
+}
+
+/* p */
+#article-section p {
+  margin-bottom: 1em;
+}
+
+/* ul, ol, li */
+#article-section ul, ol {
+  margin-bottom: 1em;
+}
+#article-section ul li {
+  list-style-type: disc;
+  margin-left: 1.1em;
+}
+#article-section ol li {
+  list-style-type: decimal;
+  margin-left: 1.1em;
+}
+
 /* header */
 #article-section h1 {
-  margin-top: 2em;
+  margin-top: 3em;
   font-size: 1.6em;
   padding: 0.2em 0.4em;
   background-color: #005CAF;
   color: white;
 }
 #article-section h2 {
-  margin-top: 1.7em;
+  margin-top: 2.5em;
   font-size: 1.4em;
   color: #005CAF;
   border-bottom: 2px solid;
@@ -15,7 +45,7 @@
   padding: 0.1em 0.3em;
 }
 #article-section h3 {
-  margin-top: 1.5em;
+  margin-top: 2em;
   font-size: 1.3em;
   color: #005CAF;
   padding: 0.1em 0.3em;
@@ -23,7 +53,7 @@
   border-bottom: 2px dashed;
 }
 #article-section h4 {
-  margin-top: 1.3em;
+  margin-top: 1.5em;
   font-size: 1.2em;
   color: #005CAF;
   padding: 0.1em 0.3em;
