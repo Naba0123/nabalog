@@ -10,7 +10,7 @@ tags: ["Paiza", "Java"]
 
 [Paiza Online Hackathon (POH!) 第5弾「俺の許嫁と幼なじみが修羅場すぎる」](https://paiza.jp/poh/enshura) に参加してみました。
 
-参加すると抽選で桃屋の商品セットや、Intel Edison Kit for Arduino（よく分かってない）が当たるそうです。
+参加すると抽選で桃屋の商品セットや、Intel Edison Kit for Arduino が当たるそうです。
 
 問題は全部で4問あり、3問目の答えによって<strong>ルート分岐する</strong>という面白い内容です。  
 自分で書いたコードをブログにあげて良いとのことなので、折角なので載せたいと思います。
@@ -31,9 +31,7 @@ tags: ["Paiza", "Java"]
 
 私は「入力文字列を一文字ずつ読んで、奇数番目の文字だけを取り出して、出力する」という方法を考えました。
 
-[https://gist.github.com/19dfac1b66218c4289f7:embed#gist19dfac1b66218c4289f7]
-
-[gist19dfac1b66218c4289f7](https://gist.github.com/19dfac1b66218c4289f7)
+`gist:19dfac1b66218c4289f7?file=mission1.java`
 
 後々よく考えたら、out を格納しなくてもその場で出力していけば良さそうですね。  
 または、入力時に 1 文字ずつ読み込み、出力と破棄を繰り返しても良いと思います。
@@ -46,9 +44,7 @@ tags: ["Paiza", "Java"]
 
 以下が考えたコードです。
 
-[https://gist.github.com/557adc95d8a5a7fa9279:embed#gist557adc95d8a5a7fa9279]
-
-[gist557adc95d8a5a7fa9279](https://gist.github.com/557adc95d8a5a7fa9279)
+`gist:557adc95d8a5a7fa9279?file=mission2.java`
 
 入力文字列を改行区切りを挿入しつつ繋げ、それをまた分解しながら曜日ごとに足していきました。  
 これ、読み込みながらそのまま out 配列に格納していっても良さそうですね…。
@@ -81,9 +77,7 @@ tags: ["Paiza", "Java"]
 
 長くなりますがこんな感じに書きました。
 
-[https://gist.github.com/fd8fb3a891e8c30e08ac:embed#gistfd8fb3a891e8c30e08ac]
-
-[gistfd8fb3a891e8c30e08ac](https://gist.github.com/fd8fb3a891e8c30e08ac)
+`gist:fd8fb3a891e8c30e08ac?file=mission4_1.java`
 
 1 行目の入力で盤面の大きさが指定されるので、その大きさで int 配列 xy を生成します。
 
@@ -100,9 +94,7 @@ y 方向上位（盤面下方向）から処理し、マスが 0 の場合、y �
 
 そこで、盤面にフラグを用意し、選択範囲内の場合はフラグを立てて、最後にフラグが立っている場所の数字を足していく方法にしました。
 
-[https://gist.github.com/c008eca96e9fa0a1336b:embed#gistc008eca96e9fa0a1336b]
-
-[gistc008eca96e9fa0a1336b](https://gist.github.com/c008eca96e9fa0a1336b)
+`gist:c008eca96e9fa0a1336b?file=mission4_2.java`
 
 フラグを立てるので、選択範囲が被ってもフラグが立ったままの状態なので問題ありません。
 

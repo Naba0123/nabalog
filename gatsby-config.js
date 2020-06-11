@@ -49,6 +49,20 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-embed-gist",
+            options: {
+              username: 'Naba0123',
+              includeDefaultCss: true
+            }
+          }
+        ]
+      }
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

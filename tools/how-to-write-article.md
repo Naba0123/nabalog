@@ -16,3 +16,9 @@
 ```
 `youtube:https://www.youtube.com/embed/VlkaBEF6WZ4`
 ```
+
+### Gist
+
+```
+`gist:557adc95d8a5a7fa9279?file=filename.hoge`
+```
