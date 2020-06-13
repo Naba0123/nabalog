@@ -7,7 +7,8 @@
   text-decoration: none;
 }
 #article-section a:hover {
-  border-bottom: 2px solid #005CAF;
+  /* hover と not hover で border の長さが違うと画像にもついちゃう */
+  border-bottom: 1px solid #005CAF;
 }
 
 /* p */
