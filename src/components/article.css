@@ -61,6 +61,10 @@
   border-left: 4px solid;
 }
 
+#article-section .twitter-tweet {
+  margin-bottom: 2em !important;
+}
+
 /* alert */
 #article-section div.alert {
   padding: 1em;

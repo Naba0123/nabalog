@@ -19,23 +19,40 @@ tags: ["雑記"]
 
 ## ４月
 
-* 就職した [https://twitter.com/Naba0123/status/587461151090470912:embed]
-* 東京に引っ越した [https://twitter.com/Naba0123/status/592221342600159232:embed]
+* 就職した
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">都会の雨 <a href="https://t.co/r2xAXObreh">https://t.co/r2xAXObreh</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/587461151090470912?ref_src=twsrc%5Etfw">April 13, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* 東京に引っ越した
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">壱弐参 <a href="https://t.co/dAjg8AIMTq">https://t.co/dAjg8AIMTq</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/592221342600159232?ref_src=twsrc%5Etfw">April 26, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## ５月
 
-* 新卒研修そっちのけで会社でiOSアプリ開発してた [https://twitter.com/Naba0123/status/597787230464249856:embed]
-* プロジェクト先が東京都立川市になった [https://twitter.com/Naba0123/status/600865446036836353:embed]
-* プロ生勉強会に初参加した  
-[http://naba.hatenablog.jp/entry/2015/05/17/210609:embed:cite]
+* 新卒研修そっちのけで会社でiOSアプリ開発してた
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Obj-CとiOSアプリ開発とマイコン制御とArduinoをあと2週間でどうにかしなくちゃいけないの、めちゃくちゃウケる</p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/597787230464249856?ref_src=twsrc%5Etfw">May 11, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* プロジェクト先が東京都立川市になった
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">休憩なう。初めて来るところで緊張感あるけどなんとかやってます。</p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/600865446036836353?ref_src=twsrc%5Etfw">May 20, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* プロ生勉強会に初参加した[/2015/0517-pronama](/2015/0517-pronama)
 
 ## ６月
-* 片道通勤２時間は辛かった（下の理由で睡眠時間が取れなかった）ので国分寺市に引っ越した [https://twitter.com/Naba0123/status/615152144618909696:embed]
+* 片道通勤２時間は辛かった（下の理由で睡眠時間が取れなかった）ので国分寺市に引っ越した
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">片付ききってないけどこんな環境になった <a href="http://t.co/DsiJln8Q7G">pic.twitter.com/DsiJln8Q7G</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/615152144618909696?ref_src=twsrc%5Etfw">June 28, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 * プロジェクト先で闇の案件を任される
-[https://twitter.com/Naba0123/status/614431312468840448:embed]
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">鍵垢じゃないなら詳しくは言わないけど、ソースコードを印刷するって時点で頭の上に「？」だよね。しかも数千行のソースコードを数百枚に。そしてそれを手作業でチェック。何を言ってるのか（ry</p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/614431312468840448?ref_src=twsrc%5Etfw">June 26, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## ７月
-* プロジェクト先で新案件に異動になる [https://twitter.com/Naba0123/status/617892463219380226:embed]
+* プロジェクト先で新案件に異動になる
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">新しいPJ、新卒ってこと教えたら驚かれたし、開発陣自分含めて3人だし大丈夫かこれ</p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/617892463219380226?ref_src=twsrc%5Etfw">July 6, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 * １０月に茨城に行くことを宣告される　←イマココ
 
 # ２．感じたこと
