@@ -63,8 +63,10 @@ const Layout = ({ title, children, description }) => {
       </header>
       <div
         style={{
-          padding: `${rhythm(1.5)} 5%`,
+          margin: `0 auto`,
+          padding: `${rhythm(1.5)} 2%`,
           backgroundColor: `white`,
+          maxWidth: `75em`,
         }}
       >
         <main>{children}</main>

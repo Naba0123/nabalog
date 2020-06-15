@@ -4,35 +4,36 @@ date: "2015-05-17 00:00:00"
 tags: ["プロ生", "勉強会"]
 ---
 
-[f:id:naba0123:20151012103932p:plain]
+![header](./20151012103932.png)
+
+<div class="alert info">
+はてなブログからの移行記事
+</div>
 
 こんにちは、ナーバです。
 
-先日5月16日にDMM.com ラボ 本社・東京事業所で行われた、<a href="http://pronama.azurewebsites.net/2015/04/10/pronama-33-at-dmm-com/">プログラミング生放送第33回勉強会</a>に初参加してきました！　プロ生すげぇ！
+先日5月16日にDMM.com ラボ 本社・東京事業所で行われた、<a href="http://pronama.azurewebsites.net/2015/04/10/pronama-33-at-dmm-com/">プログラミング生放送第33回勉強会</a>に初参加してきました！  
+プロ生すげぇ！
 
 とりあえずまとめです。
 
 画像が小さいのは、写真を撮ったアプリのせいです。
 
-<!--more-->
-
 &nbsp;
 
 会場のDMM.comは<a href="http://gardenplace.jp/index.html">恵比寿ガーデンプレイス</a>にあります。  
 恵比寿ってビールのイメージしか無くて、初めて行きましたが栄えてました（東京だから）。  
-会場まで遊歩道？　があったのが印象的でした。
+会場まで遊歩道？ があったのが印象的でした。
 
 どうやら、<a href="http://gardenplace.jp/access/">恵比寿スカイウォーク</a>というらしいです。
 
 &nbsp;
 
 会場に入ると、DMM.comのロゴがドーン！ すごいところに来てしまった！  
-ついでに男の娘のお姉さんがお出迎え！　すごいところに来てしまった。  
+ついでに男の娘のお姉さんがお出迎え！ すごいところに来てしまった。  
 <del>Twitterで予習してきたので大丈夫でした。</del>
 
-&nbsp;
-
-[f:id:naba0123:20151012104047p:plain]
+![20151012104047](./20151012104047.png)
 
 会場に入り、席に着く。早めに来たのかいい位置に座れました。
 
@@ -42,7 +43,7 @@ tags: ["プロ生", "勉強会"]
 
 &nbsp;
 
-[f:id:naba0123:20151012104122p:plain]
+![20151012104122.png](./20151012104122.png)
 
 買ったばかりのMacBook Airを持ち込みました。
 
@@ -56,13 +57,15 @@ tags: ["プロ生", "勉強会"]
 
 内容は、なにか特定の技術について話すというよりも、各個人の持っている技術を、知らない人に紹介する形の方が多かった印象です。
 
-DMM.make ROBOTS の <a href="https://robots.dmm.com/robot/palmi">Palmi</a> の紹介がとても印象的でした。
+DMM.make ROBOTS の<a href="https://robots.dmm.com/robot/palmi">Palmi</a>の紹介がとても印象的でした。
 この方とは、後の懇親会の2次会で色々聞くことが出来ました。
 技術が進めば進むほど、倫理が絡んでくるとか…。
 
 Palmiについてはyoutubeの動画を貼っておきます。
 
-<iframe width="420" height="315" frameborder="0" allowfullscreen="" src="//www.youtube.com/embed/k3sPpngWFZw"></iframe><br><a href="http://www.youtube.com/watch?v=k3sPpngWFZw">Palmi あなたを覚える - YouTube</a>
+<div class="embed-youtube">
+<iframe width="640" height="360" frameborder="0" allowfullscreen="" src="//www.youtube.com/embed/k3sPpngWFZw"></iframe>
+</div>
 
 お値段も相当高いですが、使いこなせば新しい道が開けそう。
 
