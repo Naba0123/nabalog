@@ -1,0 +1,38 @@
+---
+Title: MADOSMAの保護シートをアンチグレアに交換しました
+Category:
+- Windows 10 Mobile
+Date: 2016-02-25T20:00:15+09:00
+URL: https://blog.naba.biz/entry/2016/02/25/200015
+EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792364771507
+---
+
+MADOSMA Q501には最初から保護シートが貼ってあります。
+
+が、反射がひどかったり指の滑りが悪かったりと、少し気になってたので、アンチグレアの保護シートに貼り替えました。
+
+[https://twitter.com/Naba0123/status/702795056843923456:embed]
+
+張り替えたのは、OverLay Plus for MADOSMAです。
+
+[http://www.amazon.co.jp/OverLay-MADOSMA-%E3%82%A2%E3%83%B3%E3%83%81%E3%82%B0%E3%83%AC%E3%82%A2-OLQ501-12/dp/B0107J6RVY:embed:cite]
+
+<br>
+
+<!-- more -->
+
+[f:id:naba0123:20160225195356j:plain:w400]
+
+最初から貼ってあった保護シートは、拭いても指紋がすぐについてしまっていました。
+
+保護シートを剥がすと、何やら拭いた後が見えてきましたが、綺麗にアルコールで拭きなおして、新しい保護シートに貼り替え。
+
+[f:id:naba0123:20160225195725j:plain:w400]
+
+反射が減って良い感じです。
+
+アンチグレアの、少しざらついた感じが結構好きです。
+
+個人的には、もう少し滑りが良くてもよかったかもしれませんが、概ね満足です。
+
+<br>

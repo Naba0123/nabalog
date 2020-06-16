@@ -43,6 +43,11 @@
   height: 100%;
 }
 
+/* twitter */
+#article-section twitter-widget {
+  margin: auto;
+}
+
 /* p */
 #article-section p {
   margin-bottom: 1em;

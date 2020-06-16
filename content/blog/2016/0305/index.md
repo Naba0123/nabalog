@@ -1,0 +1,34 @@
+---
+Title: 東京駅開業100周年記念Suicaが（ようやく）届きました
+Category:
+- Diary
+Date: 2016-03-05T17:19:04+09:00
+URL: https://blog.naba.biz/entry/2016/03/05/171904
+EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792365857480
+---
+
+[f:id:naba0123:20160305170852j:plain:w450]
+
+（多分）去年の1月に大変人気となっていた 東京駅100周年Suica が、先月ようやく届きました。
+
+[https://twitter.com/Naba0123/status/684377854876889088:embed]
+
+[https://twitter.com/Naba0123/status/703482491617718272:embed]
+
+100周年自体は、2014年なんですね。
+
+つまり、今年は開業102年目…？
+
+<br>
+
+<!-- more -->
+
+余談ですが、現在の通常Suicaのペンギンは、正面を向いていますが、その前のデザインではペンギンが横を向いています。
+
+[f:id:naba0123:20160305170634j:plain:w450]
+
+左が現在(2015年5月購入)のSuica、右が2007年4月に購入したSuicaです。
+
+Suicaのロゴの位置も変わっているんですね。
+
+<br>
