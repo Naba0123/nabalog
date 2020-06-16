@@ -12,7 +12,7 @@ const Article = ({ node, title, disableBody }) => {
       <section>
         <p
           dangerouslySetInnerHTML={{
-            __html: node.frontmatter.description || node.excerpt,
+            __html: node.excerpt,
           }}
         />
       </section>

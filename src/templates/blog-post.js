@@ -65,7 +65,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
     <Layout location={location} title={siteTitle} description={siteDescription}>
       <SEO
         title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
+        description={post.excerpt}
       />
       <article>
         <header
@@ -100,6 +100,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         <section id={`article-section`} dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
+            marginTop: rhythm(2),
             marginBottom: rhythm(1),
           }}
         />
@@ -127,7 +128,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "YYYY/MM/DD HH:mm")
-        description
         tags
       }
       id
@@ -145,7 +145,6 @@ export const pageQuery = graphql`
           frontmatter {
             title
             date(formatString: "YYYY/MM/DD HH:mm")
-            description
             tags
           }
           id
