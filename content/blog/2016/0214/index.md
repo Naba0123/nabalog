@@ -4,6 +4,10 @@ tags: ["Pronama"]
 date: "2016-02-14 10:18:32"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 [f:id:naba0123:20160214095245j:plain:w500]
 
 プログラミング生放送 第39回勉強会@DMM.comラボ 恵比寿 に参加しました。

@@ -4,6 +4,10 @@ tags: ["Pronama"]
 date: "2016-12-13 23:13:53"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 [f:id:naba0123:20151215224746j:plain:w500]
 
 すみません大遅刻しました。 プロ生ちゃん Advent Calender 11日目です。

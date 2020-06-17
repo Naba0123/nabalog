@@ -4,6 +4,10 @@ tags: ["Windows", "雑記"]
 date: "2016-01-24 14:00:52"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 Surface Pro 4のType CoverはRedを選びました。
 
 [http://www.microsoftstore.com/store/msjp/ja_JP/pdp/Surface-Pro-4-Type-Cover/productID.326554900:embed:cite]

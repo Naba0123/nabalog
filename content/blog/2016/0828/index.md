@@ -4,6 +4,10 @@ tags: ["サークル活動"]
 date: "2016-08-28 22:13:16"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 前編は以下から。
 
 [http://blog.naba.biz/entry/2016/08/17/223526:embed:cite]

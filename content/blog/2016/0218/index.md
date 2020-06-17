@@ -4,6 +4,10 @@ tags: ["Windows 10 Mobile"]
 date: "2016-02-18 23:58:35"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 Windowsストアには、Microsoft純正のリモートデスクトップアプリが存在します。  
 このアプリを使って、Windows 10 Proデバイスに接続をしてみます。
 

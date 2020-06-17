@@ -4,6 +4,10 @@ tags: ["Windows 10 Mobile"]
 date: "2016-01-12 23:33:44"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 Windows 10 MobileのMicrosoft Edgeのデフォルトの検索エンジンはBingですが、  
 Googleに変更できるので、方法を紹介します。
 

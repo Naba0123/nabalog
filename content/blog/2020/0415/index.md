@@ -4,15 +4,19 @@ tags: ["Docker", "Jenkins", "GatsbyJS", "Node.js"]
 date: "2020-04-15 23:17:03"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 環境構築で躓く人用と自分のためにメモ。
 
-[:contents]
+
 
 <!-- more -->
 
 # 検証、構築環境
 * Windows 10 Pro
-  * Insider Preview 19041.207)
+  * Insider Preview 19041.207
 * WSL2
   * Ubuntu-18.04
 * Jenkins
@@ -29,15 +33,15 @@ date: "2020-04-15 23:17:03"
 ```
 version: '3'
 services:
-        jenkins:
-                image: jenkins/jenkins:lts
-                volumes:
-                        - ./jenkins_home:/var/jenkins_home
-                working_dir: /var/jenkins_home
-                ports:
-                        - "8080:8080"
-                        - "50000:50000"
-                tty: true
+  jenkins:
+    image: jenkins/jenkins:lts
+    volumes:
+      - ./jenkins_home:/var/jenkins_home
+    working_dir: /var/jenkins_home
+    ports:
+      - "8080:8080"
+      - "50000:50000"
+    tty: true
 ```
 
 * Jenkins イメージは公式の LTS を指定

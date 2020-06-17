@@ -4,6 +4,10 @@ tags: ["Pronama"]
 date: "2016-03-29 00:10:01"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 プログラミング生放送勉強会 第40回＠金沢の主催をさせて頂きました。
 
 [http://pronama.azurewebsites.net/2016/03/16/pronama-40-at-kanazawa/:embed:cite]

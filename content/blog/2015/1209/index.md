@@ -4,6 +4,10 @@ tags: ["Diary"]
 date: "2015-12-09 23:13:28"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 <p>MADOSMAにはmouse computer公式のケースがあるので、本体を傷つけないためにも買いました。</p>
 <div> </div>
 <div><img class="hatena-fotolife" title="f:id:naba0123:20151209131913j:image" src="http://cdn-ak.f.st-hatena.com/images/fotolife/n/naba0123/20151209/20151209131913.jpg" alt="f:id:naba0123:20151209131913j:image" width="400" /></div>

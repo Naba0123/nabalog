@@ -4,6 +4,10 @@ tags: ["StaffPad"]
 date: "2016-11-15 00:25:24"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 [Surface](https://www.microsoft.com/surface/ja-jp) （または互換性のある端末）向けの手書き楽譜作成アプリである **StaffPad** の、今年2回目のアップデートが配信されました。
 
 # StaffPad について

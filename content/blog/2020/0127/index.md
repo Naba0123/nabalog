@@ -4,7 +4,9 @@ tags: ["React"]
 date: "2020-01-27 00:22:33"
 ---
 
-[:contents]
+<div class="alert info">
+はてなブログからの移行記事
+</div>
 
 # はじめに
 

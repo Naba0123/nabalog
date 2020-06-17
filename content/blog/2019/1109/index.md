@@ -4,8 +4,9 @@ tags: ["Python", "Selenium", "Docker"]
 date: "2019-11-09 12:06:50"
 ---
 
-[:contents]
-
+<div class="alert info">
+はてなブログからの移行記事
+</div>
 
 # はじめに
 この記事では、Windows 10 上の Docker で立ち上げた Selenium Server に対して、WSL (Windows Subsystem for Linux) 上で Python スクリプトを書いて Web スクレイピング環境を構築する手順を説明します。

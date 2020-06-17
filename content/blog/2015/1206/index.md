@@ -4,6 +4,10 @@ tags: ["Windows 10 Mobile"]
 date: "2015-12-06 17:11:12"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 Windows 10 Mobileに限った話ではありませんが、  
 onedriveには撮った写真をonedriveに自動でアップロードするという機能があります。
 

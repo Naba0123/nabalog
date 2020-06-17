@@ -4,6 +4,10 @@ tags: ["サークル活動"]
 date: "2016-02-07 18:03:56"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 [https://soundcloud.com/naba0123/3zm5siwxuyis:embed:cite]
 
 1月24日にアップロードしました。

@@ -4,6 +4,10 @@ tags: ["Windows 10 Mobile"]
 date: "2016-12-18 00:00:00"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 [f:id:naba0123:20151205213611j:plain:w450]  
 ※写真は1年前です。
 

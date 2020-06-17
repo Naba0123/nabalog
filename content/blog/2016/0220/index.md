@@ -4,6 +4,10 @@ tags: ["Diary"]
 date: "2016-02-20 22:27:28"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 以前調べた時は、connpassの一般申込みが満員で、諦めていたのですが、昨日キャンセルで空いてることを教えて頂き、参加することが出来ました。
 
 [http://hokurikucomcamp.connpass.com/event/23628/:embed:cite]

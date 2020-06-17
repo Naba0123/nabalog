@@ -4,6 +4,10 @@ tags: ["その他プログラミング系"]
 date: "2016-01-19 22:02:30"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 # 環境
 * Windows 10 Home (ほぼクリーンインストール時)
 * Vagrant 1.8.1

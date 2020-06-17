@@ -4,6 +4,10 @@ tags: ["Pronama"]
 date: "2015-12-20 00:00:00"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 この記事は[http://www.adventar.org/calendars/969:title]の20日目の記事です。
 
 [http://www.adventar.org/calendars/969:embed:cite]

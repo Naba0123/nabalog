@@ -4,7 +4,11 @@ tags: ["Google"]
 date: "2019-09-14 12:56:19"
 ---
 
-[:contents]
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
+
 
 <!-- more -->
 

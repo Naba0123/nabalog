@@ -4,6 +4,10 @@ tags: ["Diary"]
 date: "2019-06-04 00:20:06"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 <figure class="figure-image figure-image-fotolife" title="（かっちった）">[f:id:naba0123:20190603235030j:plain]<figcaption>（かっちった）</figcaption></figure>
 
 <!-- more -->

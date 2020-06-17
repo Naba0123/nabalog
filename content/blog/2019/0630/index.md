@@ -4,6 +4,10 @@ tags: ["PHP"]
 date: "2019-06-30 01:33:49"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 Laravel の開発環境として、
 
 * サーバー周り：Laradock
@@ -17,7 +21,7 @@ Laravel の開発環境として、
 
 <br><hr>
 
-[:contents]
+
 
 <hr><br>
 

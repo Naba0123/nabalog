@@ -4,7 +4,11 @@ tags: ["はてなブログ"]
 date: "2019-06-08 21:39:47"
 ---
 
-[:contents]
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
+
 
 <!-- more -->
 

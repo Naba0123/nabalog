@@ -4,6 +4,10 @@ tags: ["StaffPad"]
 date: "2016-04-07 22:18:03"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 [https://www.microsoft.com/ja-jp/store/apps/staffpad/9wzdncrddkrb:embed:cite]
 
 Surfaceシリーズに特化した手書き楽譜入力ソフト StaffPad ですが、先日、April Updateが行われ、新機能が幾つか追加されました。

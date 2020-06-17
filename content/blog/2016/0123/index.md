@@ -4,6 +4,10 @@ tags: ["Windows", "雑記"]
 date: "2016-01-23 14:50:45"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 Surface Bookにしようか、Surface Pro 4にしようか散々悩みましたが、私はPro 4を選びました。
 
 [http://blog.naba.biz/entry/2016/01/15/224733:embed:cite]

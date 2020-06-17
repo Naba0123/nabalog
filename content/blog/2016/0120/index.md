@@ -4,6 +4,10 @@ tags: ["Windows 10 Mobile"]
 date: "2016-01-20 23:21:12"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 私のMicrosoftアカウントは元々Gmailで登録したのですが、  
 Windows 10 Mobile(以下Win10M)メインで使うメールアドレスが欲しかったので、  
 outlook.jpアドレスを取得してW10Mの「Outlookメール」アプリで使う方法を紹介します。

@@ -4,6 +4,10 @@ tags: ["Windows"]
 date: "2019-05-12 09:47:15"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 ## 環境
 * Surface Pro 4
 * Windows 10 October 2018 Update (1809)

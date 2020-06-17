@@ -4,6 +4,10 @@ tags: ["Diary"]
 date: "2015-12-15 22:48:22"
 ---
 
+<div class="alert info">
+はてなブログからの移行記事
+</div>
+
 [f:id:naba0123:20151215224746j:plain:w450]
 
 

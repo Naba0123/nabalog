@@ -4,7 +4,9 @@ tags: ["その他技術系"]
 date: "2019-11-15 23:32:01"
 ---
 
-[:contents]
+<div class="alert info">
+はてなブログからの移行記事
+</div>
 
 # 記事の概要
 
