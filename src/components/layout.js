@@ -82,7 +82,7 @@ const Layout = ({ title, children, description }) => {
         <Bio />
         <hr style={{ marginTop: `1em` }} />
         <div>
-          <ul style={{ display: `flex` }}>
+          <ul style={{ display: `flex`, flexWrap: `wrap` }}>
             {data.tags.group.map(tag => (
               <li style={{ margin: `0 1em` }} key={tag.tag}>
                 <Link
