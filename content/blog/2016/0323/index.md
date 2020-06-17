@@ -1,11 +1,7 @@
 ---
-Title: Windows Store アプリを作りました
-Category:
-- Pronama
-- Windows 10 Mobile
-Date: 2016-03-23T20:05:52+09:00
-URL: https://blog.naba.biz/entry/2016/03/23/200552
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792368245822
+title: Windows Store アプリを作りました
+tags: ["Pronama", "Windows 10 Mobile"]
+date: "2016-03-23 20:05:52"
 ---
 
 [https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9:embed:cite]

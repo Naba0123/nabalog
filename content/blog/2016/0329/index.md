@@ -1,10 +1,7 @@
 ---
-Title: プログラミング生放送勉強会 第40回＠金沢を主催＆登壇した話
-Category:
-- Pronama
-Date: 2016-03-29T00:10:01+09:00
-URL: https://blog.naba.biz/entry/2016/03/29/001001
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792368941355
+title: プログラミング生放送勉強会 第40回＠金沢を主催＆登壇した話
+tags: ["Pronama"]
+date: "2016-03-29 00:10:01"
 ---
 
 プログラミング生放送勉強会 第40回＠金沢の主催をさせて頂きました。

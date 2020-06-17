@@ -1,11 +1,7 @@
 ---
-Title: Surface Pro 4購入しました
-Category:
-- 雑記
-- Windows
-Date: 2016-01-23T14:50:45+09:00
-URL: https://blog.naba.biz/entry/2016/01/23/145045
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347154188260
+title: Surface Pro 4購入しました
+tags: ["Windows", "雑記"]
+date: "2016-01-23 14:50:45"
 ---
 
 Surface Bookにしようか、Surface Pro 4にしようか散々悩みましたが、私はPro 4を選びました。

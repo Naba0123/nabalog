@@ -1,10 +1,7 @@
 ---
-Title: Laradock + Laravel + VSCode + Xdebug 環境構築
-Category:
-- PHP
-Date: 2019-06-30T01:33:49+09:00
-URL: https://blog.naba.biz/entry/2019/06/30/013349
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/17680117127210845788
+title: Laradock + Laravel + VSCode + Xdebug 環境構築
+tags: ["PHP"]
+date: "2019-06-30 01:33:49"
 ---
 
 Laravel の開発環境として、

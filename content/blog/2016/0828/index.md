@@ -1,11 +1,7 @@
 ---
-Title: 初めてコミケにサークル参加をした話（当日編）
-Category:
-- サークル活動
-- Diary
-Date: 2016-08-28T22:13:16+09:00
-URL: https://blog.naba.biz/entry/2016/08/28/221316
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328749687181292909
+title: 初めてコミケにサークル参加をした話（当日編）
+tags: ["サークル活動"]
+date: "2016-08-28 22:13:16"
 ---
 
 前編は以下から。

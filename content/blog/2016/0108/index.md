@@ -1,10 +1,7 @@
 ---
-Title: Windows 10 MobileのMADOSMAで開発者登録をしてサンプルアプリを動かす
-Category:
-- Windows 10 Mobile
-Date: 2016-01-08T22:38:42+09:00
-URL: https://blog.naba.biz/entry/2016/01/08/223842
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347152194753
+title: Windows 10 MobileのMADOSMAで開発者登録をしてサンプルアプリを動かす
+tags: ["Windows 10 Mobile"]
+date: "2016-01-08 22:38:42"
 ---
 
 先月MADOSMAを買いましたが、まだVisual Studioすら立ち上げていない状態だったので、そろそろ開発環境の構築をしておきます。

@@ -1,10 +1,7 @@
 ---
-Title: 【stellarium】天気が良くならないので家で星を観る
-Category:
-- 天体観測
-Date: 2015-12-28T21:13:14+09:00
-URL: https://blog.naba.biz/entry/2015/12/28/211314
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347150486948
+title: 【stellarium】天気が良くならないので家で星を観る
+tags: ["天体観測"]
+date: "2015-12-28 21:13:14"
 ---
 
 最近、仕事終わって帰るときに空を見上げる癖が出来ました。  

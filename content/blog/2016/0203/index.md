@@ -1,10 +1,7 @@
 ---
-Title: Happy Hacking Keyboard Lite 2 英字配列 を購入しました
-Category:
-- 雑記
-Date: 2016-02-03T21:54:23+09:00
-URL: https://blog.naba.biz/entry/2016/02/03/215423
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347155889618
+title: Happy Hacking Keyboard Lite 2 英字配列 を購入しました
+tags: ["雑記"]
+date: "2016-02-03 21:54:23"
 ---
 
 [f:id:naba0123:20160203211544j:plain:w450]

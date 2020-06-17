@@ -1,10 +1,7 @@
 ---
-Title: PHPStormは１ヶ月の体験期間が終わっても（一応）使える
-Category:
-- その他プログラミング系
-Date: 2016-01-04T21:51:27+09:00
-URL: https://blog.naba.biz/entry/2016/01/04/215127
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347151618755
+title: PHPStormは１ヶ月の体験期間が終わっても（一応）使える
+tags: ["その他プログラミング系"]
+date: "2016-01-04 21:51:27"
 ---
 
 PHPStormは非常に優れたPHPの統合開発環境として有名です。  

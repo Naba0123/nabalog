@@ -1,10 +1,7 @@
 ---
-Title: 「擬人化でまなぼ！ネットワークの仕組み」を読みました
-Category:
-- Diary
-Date: 2016-02-19T22:21:10+09:00
-URL: https://blog.naba.biz/entry/2016/02/19/222110
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792363977445
+title: 「擬人化でまなぼ！ネットワークの仕組み」を読みました
+tags: ["Diary"]
+date: "2016-02-19 22:21:10"
 ---
 
 [f:id:naba0123:20160219221839p:plain:w500]

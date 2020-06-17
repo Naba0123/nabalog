@@ -1,10 +1,7 @@
 ---
-Title: ApacheのVirtualHostで階層毎にDocumentRootを変える
-Category:
-- その他プログラミング系
-Date: 2015-12-17T21:33:36+09:00
-URL: https://blog.naba.biz/entry/2015/12/17/213336
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347148917888
+title: ApacheのVirtualHostで階層毎にDocumentRootを変える
+tags: ["その他プログラミング系"]
+date: "2015-12-17 21:33:36"
 ---
 
 考えれば簡単だったけど、意外と悩んだのでメモしておきます。

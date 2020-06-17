@@ -1,10 +1,7 @@
 ---
-Title: そういえば私、転職したんですよ
-Category:
-- Diary
-Date: 2015-12-15T22:48:22+09:00
-URL: https://blog.naba.biz/entry/2015/12/15/224822
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347148699478
+title: そういえば私、転職したんですよ
+tags: ["Diary"]
+date: "2015-12-15 22:48:22"
 ---
 
 [f:id:naba0123:20151215224746j:plain:w450]

@@ -1,10 +1,7 @@
 ---
-Title: Windows 10 Mobileで、撮った写真を自動でonedriveにアップロードする
-Category:
-- Windows 10 Mobile
-Date: 2015-12-06T17:11:12+09:00
-URL: https://blog.naba.biz/entry/2015/12/06/171112
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347147626284
+title: Windows 10 Mobileで、撮った写真を自動でonedriveにアップロードする
+tags: ["Windows 10 Mobile"]
+date: "2015-12-06 17:11:12"
 ---
 
 Windows 10 Mobileに限った話ではありませんが、  

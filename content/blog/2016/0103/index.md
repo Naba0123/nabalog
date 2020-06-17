@@ -1,10 +1,7 @@
 ---
-Title: 元旦から無い知識を絞って天体観測をした話
-Category:
-- 天体観測
-Date: 2016-01-03T20:24:12+09:00
-URL: https://blog.naba.biz/entry/2016/01/03/202412
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347151387673
+title: 元旦から無い知識を絞って天体観測をした話
+tags: ["天体観測"]
+date: "2016-01-03 20:24:12"
 ---
 
 あけましておめでとうございます。

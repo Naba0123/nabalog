@@ -1,10 +1,7 @@
 ---
-Title: Microsoftアカウントにoutlook.jpのメールアドレスを追加してWindows 10 Mobileで送受信する
-Category:
-- Windows 10 Mobile
-Date: 2016-01-20T23:21:12+09:00
-URL: https://blog.naba.biz/entry/2016/01/20/232112
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347153830227
+title: Microsoftアカウントにoutlook.jpのメールアドレスを追加してWindows 10 Mobileで送受信する
+tags: ["Windows 10 Mobile"]
+date: "2016-01-20 23:21:12"
 ---
 
 私のMicrosoftアカウントは元々Gmailで登録したのですが、  

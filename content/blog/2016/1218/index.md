@@ -1,10 +1,7 @@
 ---
-Title: 今年 Windows 10 Mobile 向けに作成をしたアプリについて
-Category:
-- Windows 10 Mobile
-Date: 2016-12-18T00:00:00+09:00
-URL: https://blog.naba.biz/entry/2016/12/18/000000
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328749687195554242
+title: 今年 Windows 10 Mobile 向けに作成をしたアプリについて
+tags: ["Windows 10 Mobile"]
+date: "2016-12-18 00:00:00"
 ---
 
 [f:id:naba0123:20151205213611j:plain:w450]  

@@ -1,10 +1,7 @@
 ---
-Title: 飛騨高山方面へ行きました
-Category:
-- Diary
-Date: 2016-04-23T23:40:21+09:00
-URL: https://blog.naba.biz/entry/2016/04/23/234021
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653812171392656137
+title: 飛騨高山方面へ行きました
+tags: ["Diary"]
+date: "2016-04-23 23:40:21"
 ---
 
 今日は 金沢→砺波→奥飛騨→荘川 を走りました。350kmぐらいです。

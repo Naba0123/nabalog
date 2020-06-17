@@ -1,10 +1,7 @@
 ---
-Title: Docker + React 開発環境を整える
-Category:
-- React
-Date: 2020-01-27T00:22:33+09:00
-URL: https://blog.naba.biz/entry/2020/01/27/002233
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/26006613502988621
+title: Docker + React 開発環境を整える
+tags: ["React"]
+date: "2020-01-27 00:22:33"
 ---
 
 [:contents]

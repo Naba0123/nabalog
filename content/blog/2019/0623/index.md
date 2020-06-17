@@ -1,10 +1,7 @@
 ---
-Title: GitHub Pages 用に Jekyll 環境を WSL 上に構築する
-Category:
-- Programming
-Date: 2019-06-23T16:47:31+09:00
-URL: https://blog.naba.biz/entry/2019/06/23/164731
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/17680117127204835670
+title: GitHub Pages 用に Jekyll 環境を WSL 上に構築する
+tags: ["Programming"]
+date: "2019-06-23 16:47:31"
 Draft: true
 ---
 

@@ -1,10 +1,7 @@
 ---
-Title: iCloudにアップロード済の写真・動画を全てPCへダウンロードする
-Category:
-- その他技術系
-Date: 2015-12-19T18:41:04+09:00
-URL: https://blog.naba.biz/entry/2015/12/19/184104
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347149138014
+title: iCloudにアップロード済の写真・動画を全てPCへダウンロードする
+tags: ["その他技術系"]
+date: "2015-12-19 18:41:04"
 ---
 
 iPhoneで撮影した写真・動画をiCloudへ自動アップロードするようにしていたら、こんなメールが届きました。

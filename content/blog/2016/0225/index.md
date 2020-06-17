@@ -1,10 +1,7 @@
 ---
-Title: MADOSMAの保護シートをアンチグレアに交換しました
-Category:
-- Windows 10 Mobile
-Date: 2016-02-25T20:00:15+09:00
-URL: https://blog.naba.biz/entry/2016/02/25/200015
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792364771507
+title: MADOSMAの保護シートをアンチグレアに交換しました
+tags: ["Windows 10 Mobile"]
+date: "2016-02-25 20:00:15"
 ---
 
 MADOSMA Q501には最初から保護シートが貼ってあります。

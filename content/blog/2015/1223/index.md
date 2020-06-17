@@ -1,10 +1,7 @@
 ---
-Title: naba.biz を公開しました
-Category:
-- Diary
-Date: 2015-12-23T14:30:46+09:00
-URL: https://blog.naba.biz/entry/2015/12/23/143046
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347149587079
+title: naba.biz を公開しました
+tags: ["Diary"]
+date: "2015-12-23 14:30:46"
 ---
 
 個人サイトが無かった気がするので、今更ながら作りました。

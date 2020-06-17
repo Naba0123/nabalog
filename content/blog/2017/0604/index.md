@@ -1,10 +1,7 @@
 ---
-Title: 加賀友禅灯篭流し2017
-Category:
-- Diary
-Date: 2017-06-04T10:47:12+09:00
-URL: https://blog.naba.biz/entry/2017/06/04/104712
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328749687259150157
+title: 加賀友禅灯篭流し2017
+tags: ["Diary"]
+date: "2017-06-04 10:47:12"
 ---
 
 [f:id:naba0123:20170604103111j:plain:w550]

@@ -1,10 +1,7 @@
 ---
-Title: Hokuriku ComCamp 2016 powered by MVPsに参加をしました
-Category:
-- Diary
-Date: 2016-02-20T22:27:28+09:00
-URL: https://blog.naba.biz/entry/2016/02/20/222728
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792364127472
+title: Hokuriku ComCamp 2016 powered by MVPsに参加をしました
+tags: ["Diary"]
+date: "2016-02-20 22:27:28"
 ---
 
 以前調べた時は、connpassの一般申込みが満員で、諦めていたのですが、昨日キャンセルで空いてることを教えて頂き、参加することが出来ました。

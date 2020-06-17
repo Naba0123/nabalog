@@ -1,10 +1,7 @@
 ---
-Title: Windows 10 MobileからWindows 10 Proへリモートデスクトップで接続するまで
-Category:
-- Windows 10 Mobile
-Date: 2016-02-18T23:58:35+09:00
-URL: https://blog.naba.biz/entry/2016/02/18/235835
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792363869177
+title: Windows 10 MobileからWindows 10 Proへリモートデスクトップで接続するまで
+tags: ["Windows 10 Mobile"]
+date: "2016-02-18 23:58:35"
 ---
 
 Windowsストアには、Microsoft純正のリモートデスクトップアプリが存在します。  

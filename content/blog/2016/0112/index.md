@@ -1,10 +1,7 @@
 ---
-Title: Windows 10 MobileのEdgeで既定の検索エンジンをGoogle検索にする
-Category:
-- Windows 10 Mobile
-Date: 2016-01-12T23:33:44+09:00
-URL: https://blog.naba.biz/entry/2016/01/12/233344
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347152784751
+title: Windows 10 MobileのEdgeで既定の検索エンジンをGoogle検索にする
+tags: ["Windows 10 Mobile"]
+date: "2016-01-12 23:33:44"
 ---
 
 Windows 10 MobileのMicrosoft Edgeのデフォルトの検索エンジンはBingですが、  

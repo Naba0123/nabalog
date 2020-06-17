@@ -1,10 +1,7 @@
 ---
-Title: 初ワイヤレスイヤホンで AVIOT TE-D01d を買った
-Category:
-- 雑記
-Date: 2019-04-28T23:46:12+09:00
-URL: https://blog.naba.biz/entry/2019/04/28/234612
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/17680117127088878240
+title: 初ワイヤレスイヤホンで AVIOT TE-D01d を買った
+tags: ["雑記"]
+date: "2019-04-28 23:46:12"
 ---
 
 ワイヤレスイヤホンというと、有名なところで言うと Air Pods かもしれませんが、  

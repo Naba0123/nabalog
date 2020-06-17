@@ -1,10 +1,7 @@
 ---
-Title: StaffPad April Update が配信されました
-Category:
-- StaffPad
-Date: 2016-04-07T22:18:03+09:00
-URL: https://blog.naba.biz/entry/2016/04/07/221803
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792370219090
+title: StaffPad April Update が配信されました
+tags: ["StaffPad"]
+date: "2016-04-07 22:18:03"
 ---
 
 [https://www.microsoft.com/ja-jp/store/apps/staffpad/9wzdncrddkrb:embed:cite]

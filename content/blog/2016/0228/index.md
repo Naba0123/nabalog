@@ -1,10 +1,7 @@
 ---
-Title: auのiPhone6をmineoに乗り換えた話
-Category:
-- 雑記
-Date: 2016-02-28T21:44:59+09:00
-URL: https://blog.naba.biz/entry/2016/02/28/214459
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792365127969
+title: auのiPhone6をmineoに乗り換えた話
+tags: ["雑記"]
+date: "2016-02-28 21:44:59"
 ---
 
 auのiPhone6を使っていましたが、やはり月額料金が気になったので、au系MVNOのmineoに乗り換えました。

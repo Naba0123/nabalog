@@ -1,10 +1,7 @@
 ---
-Title: 明日はプロ生＠名古屋
-Category:
-- Pronama
-Date: 2015-12-11T23:32:40+09:00
-URL: https://blog.naba.biz/entry/2015/12/11/233240
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347148234288
+title: 明日はプロ生＠名古屋
+tags: ["Pronama"]
+date: "2015-12-11 23:32:40"
 ---
 
 明日は名古屋の東桜会館で第38回プログラミング生放送勉強会があります。

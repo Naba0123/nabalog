@@ -1,10 +1,7 @@
 ---
-Title: 東京駅開業100周年記念Suicaが（ようやく）届きました
-Category:
-- Diary
-Date: 2016-03-05T17:19:04+09:00
-URL: https://blog.naba.biz/entry/2016/03/05/171904
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792365857480
+title: 東京駅開業100周年記念Suicaが（ようやく）届きました
+tags: ["Diary"]
+date: "2016-03-05 17:19:04"
 ---
 
 [f:id:naba0123:20160305170852j:plain:w450]

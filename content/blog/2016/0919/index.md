@@ -1,10 +1,7 @@
 ---
-Title: IntelliJ ベース IDEA の背景画像を変更する方法
-Category:
-- その他プログラミング系
-Date: 2016-09-19T01:24:55+09:00
-URL: https://blog.naba.biz/entry/2016/09/19/012455
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328749687185070200
+title: IntelliJ ベース IDEA の背景画像を変更する方法
+tags: ["その他プログラミング系"]
+date: "2016-09-19 01:24:55"
 ---
 
 IntelliJ ベース IDEA（記事では PHPStorm ）の背景画像を変更する方法です。

@@ -1,10 +1,7 @@
 ---
-Title: そして私はPro 4を選んだ
-Category:
-- Diary
-Date: 2016-01-15T22:47:33+09:00
-URL: https://blog.naba.biz/entry/2016/01/15/224733
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347153169310
+title: そして私はPro 4を選んだ
+tags: ["Diary"]
+date: "2016-01-15 22:47:33"
 ---
 
 Surface Bookの価格は発表されましたね。

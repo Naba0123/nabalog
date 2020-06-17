@@ -1,12 +1,7 @@
 ---
-Title: Python (Client) + Selenium Server (Docker) で Web スクレイピング環境構築
-Category:
-- Python
-- Selenium
-- Docker
-Date: 2019-11-09T12:06:50+09:00
-URL: https://blog.naba.biz/entry/2019/11/09/120650
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/26006613463282362
+title: Python (Client) + Selenium Server (Docker) で Web スクレイピング環境構築
+tags: ["Python", "Selenium", "Docker"]
+date: "2019-11-09 12:06:50"
 ---
 
 [:contents]

@@ -1,10 +1,7 @@
 ---
-Title: プロ生ちゃん と 2016年 と 2017年
-Category:
-- Pronama
-Date: 2016-12-13T23:13:53+09:00
-URL: https://blog.naba.biz/entry/2016/12/13/231353
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328749687198873470
+title: プロ生ちゃん と 2016年 と 2017年
+tags: ["Pronama"]
+date: "2016-12-13 23:13:53"
 ---
 
 [f:id:naba0123:20151215224746j:plain:w500]

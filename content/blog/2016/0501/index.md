@@ -1,10 +1,7 @@
 ---
-Title: 長野～吾妻～草津方面へ行きました
-Category:
-- Diary
-Date: 2016-05-01T18:41:27+09:00
-URL: https://blog.naba.biz/entry/2016/05/01/184127
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653812171393896840
+title: 長野～吾妻～草津方面へ行きました
+tags: ["Diary"]
+date: "2016-05-01 18:41:27"
 ---
 
 GW前半の3日間を使って、金沢～長野～草津あたりをブラブラしてきました。

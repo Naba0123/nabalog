@@ -1,10 +1,7 @@
 ---
-Title: プロ生第38回＠名古屋に参加してLTをしました
-Category:
-- Pronama
-Date: 2015-12-20T00:00:00+09:00
-URL: https://blog.naba.biz/entry/2015/12/20/000000
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347149130502
+title: プロ生第38回＠名古屋に参加してLTをしました
+tags: ["Pronama"]
+date: "2015-12-20 00:00:00"
 ---
 
 この記事は[http://www.adventar.org/calendars/969:title]の20日目の記事です。

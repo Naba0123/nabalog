@@ -1,11 +1,7 @@
 ---
-Title: プログラミング生放送第60回@名古屋に参加＋LTをしました
-Category:
-- Pronama
-- Diary
-Date: 2019-10-27T23:55:17+09:00
-URL: https://blog.naba.biz/entry/2019/10/27/235517
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/26006613456531113
+title: プログラミング生放送第60回@名古屋に参加＋LTをしました
+tags: ["Pronama", "Diary"]
+date: "2019-10-27 23:55:17"
 ---
 
 プログラミング生放送は、ITネタであれば何でもOK、オールジャンルの勉強会となります。

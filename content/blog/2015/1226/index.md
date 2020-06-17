@@ -1,10 +1,7 @@
 ---
-Title: ごちうさは終わらない、いいね？
-Category:
-- サークル活動
-Date: 2015-12-26T16:08:38+09:00
-URL: https://blog.naba.biz/entry/2015/12/26/160838
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347150126543
+title: ごちうさは終わらない、いいね？
+tags: ["サークル活動"]
+date: "2015-12-26 16:08:38"
 ---
 
 先日公開した [http://naba.biz/] に、「次のご注文は何羽ですか？？」を追加しています。

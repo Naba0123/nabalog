@@ -1,11 +1,7 @@
 ---
-Title: Surface Pro 4のType Coverを見てみる
-Category:
-- Windows
-- 雑記
-Date: 2016-01-24T14:00:52+09:00
-URL: https://blog.naba.biz/entry/2016/01/24/140052
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347154343938
+title: Surface Pro 4のType Coverを見てみる
+tags: ["Windows", "雑記"]
+date: "2016-01-24 14:00:52"
 ---
 
 Surface Pro 4のType CoverはRedを選びました。

@@ -1,10 +1,7 @@
 ---
-Title: はてなブログで特定の記事をnoindexにする方法【カテゴリ分け方法/jQuery不要】
-Category:
-- はてなブログ
-Date: 2019-06-08T21:39:47+09:00
-URL: https://blog.naba.biz/entry/2019/06/08/213947
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/17680117127191344694
+title: はてなブログで特定の記事をnoindexにする方法【カテゴリ分け方法/jQuery不要】
+tags: ["はてなブログ"]
+date: "2019-06-08 21:39:47"
 ---
 
 [:contents]

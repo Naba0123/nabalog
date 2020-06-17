@@ -1,13 +1,7 @@
 ---
-Title: Docker + Jenkins で GatsbyJs ビルド環境作成
-Category:
-- Docker
-- Jenkins
-- GatsbyJS
-- Node.js
-Date: 2020-04-15T23:17:03+09:00
-URL: https://blog.naba.biz/entry/2020/04/15/231703
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/26006613550532268
+title: Docker + Jenkins で GatsbyJs ビルド環境作成
+tags: ["Docker", "Jenkins", "GatsbyJS", "Node.js"]
+date: "2020-04-15 23:17:03"
 ---
 
 環境構築で躓く人用と自分のためにメモ。

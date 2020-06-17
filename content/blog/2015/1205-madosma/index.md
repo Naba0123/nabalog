@@ -1,7 +1,7 @@
 ---
 title: 【Windows 10 Mobile】MADOSMA購入しました
 tags: ["雑記", "Windows 10 Mobile"]
-date: 2015-12-05T21:40:29+09:00
+date: "2015-12-05 21:40:29"
 ---
 
 ![買っちった](20151205213611.jpg)

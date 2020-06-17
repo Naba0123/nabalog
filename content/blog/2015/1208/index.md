@@ -1,10 +1,7 @@
 ---
-Title: MADOSMA用にMVNO契約した
-Category:
-- Diary
-Date: 2015-12-08T20:29:23+09:00
-URL: https://blog.naba.biz/entry/2015/12/08/202923
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347147880859
+title: MADOSMA用にMVNO契約した
+tags: ["Diary"]
+date: "2015-12-08 20:29:23"
 ---
 
 [f:id:naba0123:20151208191148j:plain:w300]

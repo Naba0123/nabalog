@@ -1,10 +1,7 @@
 ---
-Title: Surface Bookの日本発売価格を勝手に予想する
-Category:
-- Windows
-Date: 2016-01-11T17:36:06+09:00
-URL: https://blog.naba.biz/entry/2016/01/11/173606
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347152613639
+title: Surface Bookの日本発売価格を勝手に予想する
+tags: ["Windows"]
+date: "2016-01-11 17:36:06"
 ---
 
 Surface Bookの日本発売が**まもなく**と表現されましたが、「どうせお高いんでしょう？」と思う方もいると思います。  

@@ -1,10 +1,7 @@
 ---
-Title: プログラミング生放送第39回@DMM.comラボ恵比寿 に参加しました
-Category:
-- Pronama
-Date: 2016-02-14T10:18:32+09:00
-URL: https://blog.naba.biz/entry/2016/02/14/101832
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792363259083
+title: プログラミング生放送第39回@DMM.comラボ恵比寿 に参加しました
+tags: ["Pronama"]
+date: "2016-02-14 10:18:32"
 ---
 
 [f:id:naba0123:20160214095245j:plain:w500]

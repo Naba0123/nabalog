@@ -1,10 +1,7 @@
 ---
-Title: REALFORCE S / R2S-JP4-BK を購入した人
-Category:
-- Diary
-Date: 2019-06-04T00:20:06+09:00
-URL: https://blog.naba.biz/entry/2019/06/04/002006
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/17680117127180591142
+title: REALFORCE S / R2S-JP4-BK を購入した人
+tags: ["Diary"]
+date: "2019-06-04 00:20:06"
 ---
 
 <figure class="figure-image figure-image-fotolife" title="（かっちった）">[f:id:naba0123:20190603235030j:plain]<figcaption>（かっちった）</figcaption></figure>

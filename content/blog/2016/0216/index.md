@@ -1,10 +1,7 @@
 ---
-Title: AzureでMySQLデータベースを作成しようとするとエラーになった話
-Category:
-- Azure
-Date: 2016-02-16T21:37:50+09:00
-URL: https://blog.naba.biz/entry/2016/02/16/213750
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328537792363599690
+title: AzureでMySQLデータベースを作成しようとするとエラーになった話
+tags: ["Azure"]
+date: "2016-02-16 21:37:50"
 ---
 
 最近、Azureに手を出してみてます。

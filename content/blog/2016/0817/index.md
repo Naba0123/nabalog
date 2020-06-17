@@ -1,10 +1,7 @@
 ---
-Title: 初めてコミケにサークル参加をした話（準備編）
-Category:
-- サークル活動
-Date: 2016-08-17T22:35:26+09:00
-URL: https://blog.naba.biz/entry/2016/08/17/223526
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328749687179593428
+title: 初めてコミケにサークル参加をした話（準備編）
+tags: ["サークル活動"]
+date: "2016-08-17 22:35:26"
 ---
 
 [f:id:naba0123:20160817223338j:plain]

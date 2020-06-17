@@ -1,10 +1,7 @@
 ---
-Title: VagrantとVirtualBoxでLAMP開発環境を整える(CentOS7/PHP7)
-Category:
-- その他プログラミング系
-Date: 2016-01-16T19:28:40+09:00
-URL: https://blog.naba.biz/entry/2016/01/16/192840
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347153255576
+title: VagrantとVirtualBoxでLAMP開発環境を整える(CentOS7/PHP7)
+tags: ["その他プログラミング系"]
+date: "2016-01-16 19:28:40"
 ---
 
 ## 環境構築したもの

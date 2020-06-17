@@ -1,10 +1,7 @@
 ---
-Title: MADOSMAの公式ケースを買った
-Category:
-- Diary
-Date: 2015-12-09T23:13:28+09:00
-URL: https://blog.naba.biz/entry/2015/12/09/231328
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347147956315
+title: MADOSMAの公式ケースを買った
+tags: ["Diary"]
+date: "2015-12-09 23:13:28"
 ---
 
 <p>MADOSMAにはmouse computer公式のケースがあるので、本体を傷つけないためにも買いました。</p>

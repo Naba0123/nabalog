@@ -1,10 +1,7 @@
 ---
-Title: 【「移動」が使えないとき】Windowsでウインドウが画面外にいってしまったときの戻し方
-Category:
-- Windows
-Date: 2019-05-12T09:47:15+09:00
-URL: https://blog.naba.biz/entry/2019/05/12/094715
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/17680117127129771836
+title: 【「移動」が使えないとき】Windowsでウインドウが画面外にいってしまったときの戻し方
+tags: ["Windows"]
+date: "2019-05-12 09:47:15"
 ---
 
 ## 環境

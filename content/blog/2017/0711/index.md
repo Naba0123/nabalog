@@ -1,10 +1,7 @@
 ---
-Title: Surfaceのタッチスクリーンをオンオフするバッチファイルを作った
-Category:
-- Windows
-Date: 2017-07-11T00:27:58+09:00
-URL: https://blog.naba.biz/entry/2017/07/11/002758
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/8599973812278567687
+title: Surfaceのタッチスクリーンをオンオフするバッチファイルを作った
+tags: ["Windows"]
+date: "2017-07-11 00:27:58"
 ---
 
 # あらすじ

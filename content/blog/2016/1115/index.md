@@ -1,10 +1,7 @@
 ---
-Title: StaffPad November Update が配信されたので内容をまとめました
-Category:
-- StaffPad
-Date: 2016-11-15T00:25:24+09:00
-URL: https://blog.naba.biz/entry/2016/11/15/002524
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328749687194322737
+title: StaffPad November Update が配信されたので内容をまとめました
+tags: ["StaffPad"]
+date: "2016-11-15 00:25:24"
 ---
 
 [Surface](https://www.microsoft.com/surface/ja-jp) （または互換性のある端末）向けの手書き楽譜作成アプリである **StaffPad** の、今年2回目のアップデートが配信されました。

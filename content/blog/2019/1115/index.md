@@ -1,10 +1,7 @@
 ---
-Title: Laradock を使った Jenkins が起動しない
-Category:
-- その他技術系
-Date: 2019-11-15T23:32:01+09:00
-URL: https://blog.naba.biz/entry/2019/11/15/233201
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/26006613466099571
+title: Laradock を使った Jenkins が起動しない
+tags: ["その他技術系"]
+date: "2019-11-15 23:32:01"
 ---
 
 [:contents]

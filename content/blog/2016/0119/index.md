@@ -1,10 +1,7 @@
 ---
-Title: VagrantでBox追加時にエラーが出た時の話
-Category:
-- その他プログラミング系
-Date: 2016-01-19T22:02:30+09:00
-URL: https://blog.naba.biz/entry/2016/01/19/220230
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347153699126
+title: VagrantでBox追加時にエラーが出た時の話
+tags: ["その他プログラミング系"]
+date: "2016-01-19 22:02:30"
 ---
 
 # 環境

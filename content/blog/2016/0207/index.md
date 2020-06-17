@@ -1,10 +1,7 @@
 ---
-Title: 【新曲】「暗闇」紹介・解説
-Category:
-- サークル活動
-Date: 2016-02-07T18:03:56+09:00
-URL: https://blog.naba.biz/entry/2016/02/07/180356
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347156354404
+title: 【新曲】「暗闇」紹介・解説
+tags: ["サークル活動"]
+date: "2016-02-07 18:03:56"
 ---
 
 [https://soundcloud.com/naba0123/3zm5siwxuyis:embed:cite]

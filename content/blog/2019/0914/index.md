@@ -1,10 +1,7 @@
 ---
-Title: Google Fit API & OAuth 2.0 Playground を試して体重を取ってみる
-Category:
-- Google
-Date: 2019-09-14T12:56:19+09:00
-URL: https://blog.naba.biz/entry/2019/09/14/125619
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/26006613433055586
+title: Google Fit API & OAuth 2.0 Playground を試して体重を取ってみる
+tags: ["Google"]
+date: "2019-09-14 12:56:19"
 ---
 
 [:contents]

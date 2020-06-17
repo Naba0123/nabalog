@@ -1,10 +1,7 @@
 ---
-Title: FaceRigとFaceRig Live2D Moduleを購入したので、SkypeのWebカメラとして使うまで
-Category:
-- その他技術系
-Date: 2015-12-21T00:00:00+09:00
-URL: https://blog.naba.biz/entry/2015/12/21/000000
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/6653586347149260445
+title: FaceRigとFaceRig Live2D Moduleを購入したので、SkypeのWebカメラとして使うまで
+tags: ["その他技術系"]
+date: "2015-12-21 00:00:00"
 ---
 
 最近話題となっているFaceRig Live2D Module。  

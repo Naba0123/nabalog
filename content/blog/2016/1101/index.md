@@ -1,10 +1,7 @@
 ---
-Title: C91 冬コミに当選しました＆頒布物予定
-Category:
-- サークル活動
-Date: 2016-11-01T23:27:00+09:00
-URL: https://blog.naba.biz/entry/2016/11/01/232700
-EditURL: https://blog.hatena.ne.jp/naba0123/naba.hatenablog.jp/atom/entry/10328749687192558131
+title: C91 冬コミに当選しました＆頒布物予定
+tags: ["サークル活動"]
+date: "2016-11-01 23:27:00"
 ---
 
 [f:id:naba0123:20161101230408j:plain:w550]
