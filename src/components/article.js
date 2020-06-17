@@ -28,6 +28,7 @@ const Article = ({ node, title, disableBody }) => {
         <h3
           style={{
             marginBottom: rhythm(1 / 2),
+            lineHeight: `1.3em`,
           }}
         >
           <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
