@@ -131,6 +131,7 @@ export const pageQuery = graphql`
         tags
       }
       id
+      excerpt
     }
     relatedPosts: allMarkdownRemark(
       filter: { frontmatter: { tags: { in: $tags } } }
