@@ -24,8 +24,6 @@ Web スクレイピングについては、Wikipedia のリンクを貼ってお
     * Python 3.6.8
   * UltraVNC Viewer 1.1.24 (動作確認用)
 
-
-
 # Selenium Server (Docker) の準備
 Docker のインストールは省略します。
 

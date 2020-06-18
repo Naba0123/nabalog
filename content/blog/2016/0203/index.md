@@ -18,7 +18,6 @@ Surface Pro 4のキーボードと言えばType Coverですが、プログラミ
 
 [http://www.amazon.co.jp/gp/product/B0000U1DJ2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1](http://www.amazon.co.jp/gp/product/B0000U1DJ2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
-
 <br>
 
 # インタフェース

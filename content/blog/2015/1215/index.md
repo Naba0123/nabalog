@@ -17,8 +17,6 @@ date: "2015-12-15 22:48:22"
 
 [http://pronama.azurewebsites.net/2015/10/12/pronama-36-at-dmm-com/](http://pronama.azurewebsites.net/2015/10/12/pronama-36-at-dmm-com/)
 
-
-
 <br>
 
 # LT

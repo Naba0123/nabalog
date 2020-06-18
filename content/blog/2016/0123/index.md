@@ -29,7 +29,6 @@ Microsoft Storeで予約したかったのですが、すでに予約分は完�
 
 <br>
 
-
 # 開封
 
 [https://twitter.com/Naba0123/status/690469807720939520:embed]

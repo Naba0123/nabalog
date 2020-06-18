@@ -18,7 +18,6 @@ Steam上で配信されています。
 * [http://store.steampowered.com/app/274920/:title]
 * [http://store.steampowered.com/app/420680/:title]
 
-
 <br>
 
 ## インストール

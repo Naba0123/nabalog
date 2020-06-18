@@ -8,8 +8,6 @@ date: "2019-09-14 12:56:19"
 はてなブログからの移行記事
 </div>
 
-
-
 Google Api の設定をして、Developツール上で情報が取得できるところまでの確認
 
 # API 準備
@@ -101,7 +99,6 @@ Authorization code は一時的なアクセス許可をするための橋渡し�
 使用できるAPIについては、Google Fit REST API のドキュメントに記載されています。
 
 [https://developers.google.com/fit/rest/v1/reference/](https://developers.google.com/fit/rest/v1/reference/)
-
 
 体重を取ってみましょう。
 

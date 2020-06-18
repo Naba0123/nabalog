@@ -18,8 +18,6 @@ Laradock を使用して Jenkins を起動する際に、起動直後にコン�
   * Docker for Windows 2.1.0.4  
 * Laradock 8.0.0
 
-
-
 # Exit してしまう状況
 
 Windows 環境で Laradock を clone し、そこから jenkins コンテナを立ち上げると、すぐにコンテナが閉じてしまう現象に陥った。

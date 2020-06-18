@@ -16,7 +16,6 @@ date: "2016-02-14 10:18:32"
 
 <br>
 
-
 # 行き
 
 金曜日の夜に金沢から夜行バスで東京に向かいました。
@@ -57,7 +56,6 @@ date: "2016-02-14 10:18:32"
 あとLTしました。
 
 [http://www.slideshare.net/naba0123/twitter-58218772](http://www.slideshare.net/naba0123/twitter-58218772)
-
 
 <br>
 

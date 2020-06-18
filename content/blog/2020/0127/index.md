@@ -22,8 +22,6 @@ React の開発環境構築として、実行環境を node の Docker コンテ
 
 <figure class="figure-image figure-image-fotolife" title="完成形イメージ">[f:id:naba0123:20200126224944j:w500]<figcaption>ホストOSとコンテナでは、ソースコードと、3000番ポートを共有している</figcaption></figure>
 
-
-
 # docker-compose.yml の作成
 
 作業ディレクトリを作成したら、まず ** docker-compose.yml ** を作成します。  

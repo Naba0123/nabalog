@@ -17,7 +17,6 @@ date: "2017-06-04 10:47:12"
 
 [http://www.kagayuzen.or.jp/infomation/%E7%81%AF%E7%B1%A0%E6%B5%81%E3%81%97/:title]
 
-
 当日の朝はひどい雷雨で、雨天延期かと思いましたが、その後は晴れて無事に予定通り開催されました。
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3204.3120351100815!2d136.66747514765882!3d36.57069772137499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1aa708a4ab405739!2z5aSp56We5qmL77yI5Y2v6L6w5qmL77yJ!5e0!3m2!1sja!2sjp!4v1496539410911" width="550" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>

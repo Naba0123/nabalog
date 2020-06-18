@@ -24,8 +24,6 @@ date: "2015-12-20 00:00:00"
 
 <br>
 
-
-
 ## LT
 
 [http://www.slideshare.net/naba0123/ss-56076627](http://www.slideshare.net/naba0123/ss-56076627)

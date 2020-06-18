@@ -21,7 +21,6 @@ date: "2019-10-27 23:55:17"
 
 [https://atnd.org/events/108992](https://atnd.org/events/108992)
 
-
 # 本題の勉強会の話
 
 <figure class="figure-image figure-image-fotolife" title="準備中">[f:id:naba0123:20191027233545j:w500]<figcaption>準備中</figcaption></figure>

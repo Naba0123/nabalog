@@ -18,7 +18,6 @@ date: "2016-01-08 22:38:42"
 
 <br>
 
-
 ## Visual Studio 2015 Communityのインストール
 
 Communityエディションは、個人開発であればProfessional相当の機能が無料で使えます。

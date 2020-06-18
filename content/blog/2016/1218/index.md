@@ -21,7 +21,6 @@ date: "2016-12-18 00:00:00"
 内容としては、今年（といっても今年の3月）にリリースをした「星空予報 with 暮井慧」の紹介と、**私が思う**（ココ重要） Windows 10 Mobile について好き勝手に書きたいと思います。
 [https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9](https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9)
 
-
 # リリースをしたアプリについて
 
 作成をした経緯としては、今年の3月に石川県の金沢で主催をした「プロ生勉強会第40回@金沢」にて、「初心者でも Windows 10 Mobile アプリを作りたい！」という内容で登壇をするために急遽（初めて）（初心者の私が）作成をしたアプリです。
