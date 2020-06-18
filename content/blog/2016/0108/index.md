@@ -18,7 +18,6 @@ date: "2016-01-08 22:38:42"
 
 <br>
 
-<!-- more -->
 
 ## Visual Studio 2015 Communityのインストール
 

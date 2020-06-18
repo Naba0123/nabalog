@@ -22,7 +22,6 @@ React の開発環境構築として、実行環境を node の Docker コンテ
 
 <figure class="figure-image figure-image-fotolife" title="完成形イメージ">[f:id:naba0123:20200126224944j:w500]<figcaption>ホストOSとコンテナでは、ソースコードと、3000番ポートを共有している</figcaption></figure>
 
-<!-- more -->
 
 
 # docker-compose.yml の作成
@@ -175,7 +174,6 @@ Error: ENOENT: no such file or directory, uv_cwd
 # 環境構築直後のディレクトリ構造
 
 ![20200127001704](20200127001704.png)
-
 
 # 参考
 

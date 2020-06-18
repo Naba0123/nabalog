@@ -16,7 +16,6 @@ Surface Pro 4のType CoverはRedを選びました。
 
 <br>
 
-<!-- more -->
 
 # 配列
 

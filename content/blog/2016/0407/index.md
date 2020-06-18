@@ -18,7 +18,6 @@ Surfaceシリーズに特化した手書き楽譜入力ソフト StaffPad です
 
 <br>
 
-<!-- more -->
 
 <br>
 

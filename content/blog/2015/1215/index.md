@@ -10,7 +10,6 @@ date: "2015-12-15 22:48:22"
 
 ![20151215224746](20151215224746.png)
 
-
 ブログでは記事を書いていませんでしたが、  
 私は新卒ながら先月転職をしました。
 
@@ -19,7 +18,6 @@ date: "2015-12-15 22:48:22"
 [http://pronama.azurewebsites.net/2015/10/12/pronama-36-at-dmm-com/](http://pronama.azurewebsites.net/2015/10/12/pronama-36-at-dmm-com/)
 
 
-<!-- more -->
 
 <br>
 

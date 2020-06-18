@@ -10,8 +10,6 @@ date: "2019-09-14 12:56:19"
 
 
 
-<!-- more -->
-
 Google Api の設定をして、Developツール上で情報が取得できるところまでの確認
 
 # API 準備
@@ -88,10 +86,8 @@ Google API のテスト環境のような形でしょうか。
 Authorization code は一時的なアクセス許可をするための橋渡しのような状態で、
 これを利用することで、Refresh token と Access token に変換することができます。
 
-
 ▽参考
 [https://developers.google.com/identity/protocols/OAuth2](https://developers.google.com/identity/protocols/OAuth2)
-
 
 ![色々情報が出てきたらOKです](20190914122627.png)
 
@@ -104,9 +100,7 @@ Authorization code は一時的なアクセス許可をするための橋渡し�
 
 使用できるAPIについては、Google Fit REST API のドキュメントに記載されています。
 
-
 [https://developers.google.com/fit/rest/v1/reference/](https://developers.google.com/fit/rest/v1/reference/)
-
 
 
 体重を取ってみましょう。
@@ -142,5 +136,4 @@ GET https://www.googleapis.com/fitness/v1/users/me/dataSources/derived:com.googl
 # 最後に
 
 APIドキュメントを読めば簡単にPOST もできそうですが、自分用メモとしてまた記事を作るかもしれません。
-
 

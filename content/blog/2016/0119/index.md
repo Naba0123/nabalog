@@ -40,7 +40,6 @@ Please fix this error and try again.
 
 以下、詳細。
 
-<!-- more -->
 
 <br>
 

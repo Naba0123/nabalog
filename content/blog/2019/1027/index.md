@@ -21,7 +21,6 @@ date: "2019-10-27 23:55:17"
 
 [https://atnd.org/events/108992](https://atnd.org/events/108992)
 
-<!-- more -->
 
 # 本題の勉強会の話
 
@@ -62,7 +61,6 @@ date: "2019-10-27 23:55:17"
 また来年あたりにできたらいいなぁーとふわっと話していたので、  期待？
 
 [https://blog.naba.biz/entry/2016/03/29/001001](https://blog.naba.biz/entry/2016/03/29/001001)
-
 
 # 余談の話
 

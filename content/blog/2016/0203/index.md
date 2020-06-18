@@ -10,7 +10,6 @@ date: "2016-02-03 21:54:23"
 
 ![20160203211544](20160203211544.png)
 
-
 Surface Pro 4のキーボードと言えばType Coverですが、プログラミング用に専用のキーボードが欲しくなったのでHHKBを買いました。
 
 [http://www.pfu.fujitsu.com/hhkeyboard/:title]
@@ -19,7 +18,6 @@ Surface Pro 4のキーボードと言えばType Coverですが、プログラミ
 
 [http://www.amazon.co.jp/gp/product/B0000U1DJ2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1](http://www.amazon.co.jp/gp/product/B0000U1DJ2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
-<!-- more -->
 
 <br>
 

@@ -11,7 +11,6 @@ date: "2016-12-18 00:00:00"
 ![20151205213611](20151205213611.png)  
 ※写真は1年前です。
 
-
 [Windows 10 Mobile / Windows Phone Advent Calendar 2016](http://www.adventar.org/calendars/1471) の 18日目 の記事です。
 [http://www.adventar.org/calendars/1471](http://www.adventar.org/calendars/1471)
 
@@ -22,7 +21,6 @@ date: "2016-12-18 00:00:00"
 内容としては、今年（といっても今年の3月）にリリースをした「星空予報 with 暮井慧」の紹介と、**私が思う**（ココ重要） Windows 10 Mobile について好き勝手に書きたいと思います。
 [https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9](https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9)
 
-<!-- more -->
 
 # リリースをしたアプリについて
 

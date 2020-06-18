@@ -19,7 +19,6 @@ Laradock を使用して Jenkins を起動する際に、起動直後にコン�
 * Laradock 8.0.0
 
 
-<!-- more -->
 
 # Exit してしまう状況
 
@@ -47,7 +46,6 @@ $ docker logs laradock_jenkins_1
 
 なんだこりゃ。
 
-
 # 解決策
 
 原因は、Windows で Laradock を clone してきたときの改行コードの設定であり、
@@ -57,10 +55,8 @@ git config の **core.autocrlf** が **true** の場合、改行コードが **C
 git config --global core.autocrlf false
 ```
 
-
 詳しい原因は調べたけど突き詰められなかった。
 **invalid option** なので、何かしらの設定ファイルの改行コード周りなのかな、と思います。
-
 
 ## 参考
 

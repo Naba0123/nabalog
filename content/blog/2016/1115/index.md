@@ -25,7 +25,6 @@ StaffPad は、 Surface Pen 等のデジタイザペンで画面の楽譜へ直�
 
 <br>
 
-<!-- more -->
 
 ## Surface Studio / Surface Dial への対応
 

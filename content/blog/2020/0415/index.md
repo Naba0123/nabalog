@@ -12,8 +12,6 @@ date: "2020-04-15 23:17:03"
 
 
 
-<!-- more -->
-
 # 検証、構築環境
 * Windows 10 Pro
   * Insider Preview 19041.207
@@ -54,7 +52,6 @@ services:
 
 [https://tsubalog.hatenablog.com/entry/2017/08/12/090000:title]
 
-
 # コンテナ起動
 
 コンテナとの共有用のディレクトリ作成
@@ -87,7 +84,6 @@ Jenkins のセットアップについては、他を参照。
 
 [https://qiita.com/zb185423/items/af2643fa6ebf0639b6ab](https://qiita.com/zb185423/items/af2643fa6ebf0639b6ab)
 
-
 # Node.js インストール
 
 コンテナにルートユーザーで入る。
@@ -103,7 +99,6 @@ Container # apt-get install -y nodejs
 
 ## 参照
 [https://github.com/nodesource/distributions/blob/master/README.md:title]
-
 
 # GatsbyJS インストール
 
@@ -128,7 +123,6 @@ Container $ npm install -g gatsby-cli
 [https://qiita.com/okohs/items/ced3c3de30af1035242d:title]
 
 セットアップについてはこれで完了。
-
 
 # GatsbyJS ビルドについて
 

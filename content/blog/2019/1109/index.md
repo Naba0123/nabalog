@@ -15,7 +15,6 @@ date: "2019-11-09 12:06:50"
 Web スクレイピングは法的にも関わってくるため、利用する際には対象の Web サイトの利用規約等を把握した上で自己責任で行ってください。  
 Web スクレイピングについては、Wikipedia のリンクを貼っておきます。（[https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0:title]）
 
-
 ## 環境
 * Windows 10 Pro 1903 (Windows 10 May 2019 Update)
   * Docker for Windows 2.1.0.4  
@@ -25,8 +24,6 @@ Web スクレイピングについては、Wikipedia のリンクを貼ってお
     * Python 3.6.8
   * UltraVNC Viewer 1.1.24 (動作確認用)
 
-
-<!-- more -->
 
 
 # Selenium Server (Docker) の準備
@@ -82,7 +79,6 @@ VNC クライアントを使用することで、 Docker 内で実際にどの�
 ![20191109113313](20191109113313.png)
 
 コンテナに接続できたら、そのまま置いておきます。
-
 
 # WSL (Client) の準備
 
@@ -143,7 +139,6 @@ driver = webdriver.Remote(
 
 このたりは、以下のサイトで詳しく見れます。
 [https://selenium-python.readthedocs.io/getting-started.html#simple-usage](https://selenium-python.readthedocs.io/getting-started.html#simple-usage)
-
 
 # スクレイピングテスト
 WSL 側でスクリプトを実行すると、コンテナ内で自動で Chrome が立ち上がって想定通りの動作をすることが確認できます。  

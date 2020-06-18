@@ -16,7 +16,6 @@ date: "2016-02-14 10:18:32"
 
 <br>
 
-<!-- more -->
 
 # 行き
 
@@ -57,9 +56,7 @@ date: "2016-02-14 10:18:32"
 
 あとLTしました。
 
-
 [http://www.slideshare.net/naba0123/twitter-58218772](http://www.slideshare.net/naba0123/twitter-58218772)
-
 
 
 <br>

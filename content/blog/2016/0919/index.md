@@ -14,7 +14,6 @@ IntelliJ ベース IDEA（記事では PHPStorm ）の背景画像を変更す�
 
 [https://www.jetbrains.com/help/idea/2016.2/setting-background-image.html:title]
 
-<!-- more -->
 
 <br>
 
