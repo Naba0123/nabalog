@@ -35,7 +35,7 @@ GW前半の3日間を使って、金沢～長野～草津あたりをブラブ�
 新潟県糸魚川市と長野県小谷村の堺にある蒲原沢は、1996年12月6日に土石流災害が発生した場所です。  
 慰霊碑が置かれていました。
 
-[https://ja.wikipedia.org/wiki/%E8%92%B2%E5%8E%9F%E6%B2%A2%E5%9C%9F%E7%9F%B3%E6%B5%81%E7%81%BD%E5%AE%B3:title]
+[https://ja.wikipedia.org/wiki/%E8%92%B2%E5%8E%9F%E6%B2%A2%E5%9C%9F%E7%9F%B3%E6%B5%81%E7%81%BD%E5%AE%B3](https://ja.wikipedia.org/wiki/%E8%92%B2%E5%8E%9F%E6%B2%A2%E5%9C%9F%E7%9F%B3%E6%B5%81%E7%81%BD%E5%AE%B3)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1477.055725447091!2d137.8755153199165!3d36.8663245657896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sjp!4v1462094005452" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 

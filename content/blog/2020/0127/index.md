@@ -41,7 +41,7 @@ services:
 ```
 
 * ** version ** : docker-compose で使用するバージョンになります。  
-ドキュメント：[https://docs.docker.com/compose/compose-file/:title]
+ドキュメント：[https://docs.docker.com/compose/compose-file/](https://docs.docker.com/compose/compose-file/)
 * ** services ** : ** version ** と同じインデントに記載します。  
 ※参考記事ではインデントを深くしており、そのまま真似てしまうとエラーになってしまいました。（気付くまで時間がかかった）
   * ** node ** : ** services ** で定義するサービス名です。何でも良いですが、`docker-compose up サービス名` のように使用するので、分かりやすい名前にしておきます。  
@@ -56,7 +56,7 @@ services:
 コロンより前がホスト側、後がコンテナ側で、今回はコンテナ内で3000ポートで動いているアプリケーションに、ホストの3000を割り当てています。  
 これにより、Reactアプリケーションの起動後に http://localhost:3000/ でアクセスができるわけです。
     * ** tty:true ** : これを書いておくことで、`docker-compose up` 後に実行するコマンドがなく即コンテナが終了することなく、待機状態となります。  
-ドキュメント：[https://docs.docker.com/compose/compose-file/#domainname-hostname-ipc-mac_address-privileged-read_only-shm_size-stdin_open-tty-user-working_dir:title]
+ドキュメント：[https://docs.docker.com/compose/compose-file/#domainname-hostname-ipc-mac_address-privileged-read_only-shm_size-stdin_open-tty-user-working_dir](https://docs.docker.com/compose/compose-file/#domainname-hostname-ipc-mac_address-privileged-read_only-shm_size-stdin_open-tty-user-working_dir)
 
 # コンテナ起動
 

@@ -8,7 +8,7 @@ date: "2015-12-20 00:00:00"
 はてなブログからの移行記事
 </div>
 
-この記事は[http://www.adventar.org/calendars/969:title]の20日目の記事です。
+この記事は[http://www.adventar.org/calendars/969](http://www.adventar.org/calendars/969)の20日目の記事です。
 
 [http://www.adventar.org/calendars/969](http://www.adventar.org/calendars/969)
 

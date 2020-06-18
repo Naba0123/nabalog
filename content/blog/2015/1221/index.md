@@ -15,8 +15,8 @@ Webカメラから顔を認識して画面内の3Dキャラクターが同じ表
 
 Steam上で配信されています。
 
-* [http://store.steampowered.com/app/274920/:title]
-* [http://store.steampowered.com/app/420680/:title]
+* [http://store.steampowered.com/app/274920/](http://store.steampowered.com/app/274920/)
+* [http://store.steampowered.com/app/420680/](http://store.steampowered.com/app/420680/)
 
 <br>
 

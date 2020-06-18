@@ -31,8 +31,8 @@ Please fix this error and try again.
 <br>
 
 # 解決方法(直球)
-* [http://www.microsoft.com/downloads/ja-jp/details.aspx?FamilyID=a7b7a05e-6de6-4d3a-a423-37bf0912db84&displayLang=ja:title]
-* [http://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=BD512D9E-43C8-4655-81BF-9350143D5867&displaylang=ja:title]
+* [http://www.microsoft.com/downloads/ja-jp/details.aspx?FamilyID=a7b7a05e-6de6-4d3a-a423-37bf0912db84&displayLang=ja](http://www.microsoft.com/downloads/ja-jp/details.aspx?FamilyID=a7b7a05e-6de6-4d3a-a423-37bf0912db84&displayLang=ja)
+* [http://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=BD512D9E-43C8-4655-81BF-9350143D5867&displaylang=ja](http://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=BD512D9E-43C8-4655-81BF-9350143D5867&displaylang=ja)
 
 上記をインストールして完了。
 
@@ -76,8 +76,8 @@ ERROR vagrant: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant
 
 [http://d.hatena.ne.jp/yasuhallabo/20111105/1320504409](http://d.hatena.ne.jp/yasuhallabo/20111105/1320504409)
 
-* [http://www.microsoft.com/downloads/ja-jp/details.aspx?FamilyID=a7b7a05e-6de6-4d3a-a423-37bf0912db84&displayLang=ja:title]
-* [http://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=BD512D9E-43C8-4655-81BF-9350143D5867&displaylang=ja:title]
+* [http://www.microsoft.com/downloads/ja-jp/details.aspx?FamilyID=a7b7a05e-6de6-4d3a-a423-37bf0912db84&displayLang=ja](http://www.microsoft.com/downloads/ja-jp/details.aspx?FamilyID=a7b7a05e-6de6-4d3a-a423-37bf0912db84&displayLang=ja)
+* [http://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=BD512D9E-43C8-4655-81BF-9350143D5867&displaylang=ja](http://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=BD512D9E-43C8-4655-81BF-9350143D5867&displaylang=ja)
 
 をインストールすれば良いみたいです。
 

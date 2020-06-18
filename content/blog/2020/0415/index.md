@@ -46,9 +46,9 @@ services:
 
 ## 参考
 
-[https://qiita.com/legitwhiz/items/e6ac1f5a94f09ff2bb1d:title]
+[https://qiita.com/legitwhiz/items/e6ac1f5a94f09ff2bb1d](https://qiita.com/legitwhiz/items/e6ac1f5a94f09ff2bb1d)
 
-[https://tsubalog.hatenablog.com/entry/2017/08/12/090000:title]
+[https://tsubalog.hatenablog.com/entry/2017/08/12/090000](https://tsubalog.hatenablog.com/entry/2017/08/12/090000)
 
 # コンテナ起動
 
@@ -96,7 +96,7 @@ Container # apt-get install -y nodejs
 ```
 
 ## 参照
-[https://github.com/nodesource/distributions/blob/master/README.md:title]
+[https://github.com/nodesource/distributions/blob/master/README.md](https://github.com/nodesource/distributions/blob/master/README.md)
 
 # GatsbyJS インストール
 
@@ -118,7 +118,7 @@ Container $ npm install -g gatsby-cli
 ```
 
 ## 参照
-[https://qiita.com/okohs/items/ced3c3de30af1035242d:title]
+[https://qiita.com/okohs/items/ced3c3de30af1035242d](https://qiita.com/okohs/items/ced3c3de30af1035242d)
 
 セットアップについてはこれで完了。
 
@@ -143,9 +143,9 @@ gatsby build
 ```
 * 1行目の *#!/bin/bash* は、source 行を実行するために必要
   * デフォルトシェルが sh だから？
-  * [https://stackoverflow.com/questions/13702425/source-command-not-found-in-sh-shell/13702876:title]
+  * [https://stackoverflow.com/questions/13702425/source-command-not-found-in-sh-shell/13702876](https://stackoverflow.com/questions/13702425/source-command-not-found-in-sh-shell/13702876)
 * source 行は、先程作成した *.profile* を指定。そうしないと先程 global でインストールした gatsby コマンドが見当たらない、と言われる
 
 ## 参考
-[https://github.com/gatsbyjs/gatsby/issues/22755:title]
+[https://github.com/gatsbyjs/gatsby/issues/22755](https://github.com/gatsbyjs/gatsby/issues/22755)
 

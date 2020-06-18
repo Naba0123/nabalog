@@ -113,6 +113,11 @@
   margin-bottom: 1em;
 }
 
+/* pre */
+#article-section pre {
+  margin: 1em auto;
+}
+
 /* twitter */
 #article-section twitter-widget {
   margin: auto;
@@ -153,6 +158,10 @@ ol {
   list-style-type: decimal;
   margin-left: 1.1em;
 }
+#article-section li p {
+  margin-bottom: 0;
+}
 #article-section li ul, li ol {
   margin-top: 0; /* 小階層の場合 */
+  margin-bottom: 0;
 }

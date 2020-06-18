@@ -28,7 +28,7 @@ date: "2019-06-08 21:39:47"
 * CSSで「.category-noindex .categories a:last-child」を「display:none」にすれば大丈夫です。
 
 詳しくは下記の記事を参照  
-[https://clrmemory.com/hatena/specific-entry-noindex/#i-3:title]
+[https://clrmemory.com/hatena/specific-entry-noindex/#i-3](https://clrmemory.com/hatena/specific-entry-noindex/#i-3)
 
 気になるならやる、ぐらいですかね。  
 個人的には、「こんな記事なんで、noindex って書いておいたほうが見た人も心理的安全でしょ」という謎持論を展開しておきます。

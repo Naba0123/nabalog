@@ -101,14 +101,14 @@ $ vim php-fpm/xdebug.ini # Xdebug の内容を設定
 + xdebug.remote_port=9002  # デフォルト9000だと php-fpm のコンテナ自体のポート番号とかぶるので、Xdebug は番号をずらす
 + xdebug.remote_autostart=1  # セッションを自動で開始してくれるようにする
 + xdebug.remote_enable=1  # Xdebug のリモートデバッグを有効化
-+ xdebug.cli_color=1  # CLI 上でも var_dump をカラー表示してくれたりするらしい（[https://xdebug.org/docs/display:title]）
++ xdebug.cli_color=1  # CLI 上でも var_dump をカラー表示してくれたりするらしい（[https://xdebug.org/docs/display](https://xdebug.org/docs/display)）
 
 $ cp php-fpm/xdebug.ini workspace/xdebug.ini  # php-fpm の xdebug.ini を全く同じ内容が必要なので、workspace にコピー（上書き）
 ```
 
 なお、新規プロジェクトを今回のタイミングで作成したい場合は、一旦「APP_CODE_PATH_HOST」を「../」のままコンテナを作成し、  
 コンテナ内でプロジェクトを作成した後に再度「../aplication」のようなプロジェクトパスに設定をしたほうが効率が良いかと思います。
-（参考：[https://laradock.io/documentation/#install-laravel-from-a-docker-container:title]）
+（参考：[https://laradock.io/documentation/#install-laravel-from-a-docker-container](https://laradock.io/documentation/#install-laravel-from-a-docker-container)）
 
 これで Laradock の設定周りは完了です。
 
@@ -155,7 +155,7 @@ workspace コンテナ内に入ったら、Laravel アプリケーションを�
 # composer create-project --prefer-dist laravel/laravel application
 ```
 ちなみに、「--prefer-dist」を書くととりあえず早くなるそうです。
-（参考：[https://kin29.info/composer-%E3%81%AE-prefer-dist%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%81%91%E3%81%A9%E4%BD%95%E3%81%97%E3%81%A6%E3%82%8B%EF%BC%9F/:title]）
+（参考：[https://kin29.info/composer-%E3%81%AE-prefer-dist%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%81%91%E3%81%A9%E4%BD%95%E3%81%97%E3%81%A6%E3%82%8B%EF%BC%9F/](https://kin29.info/composer-%E3%81%AE-prefer-dist%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%81%91%E3%81%A9%E4%BD%95%E3%81%97%E3%81%A6%E3%82%8B%EF%BC%9F/)）
 
 <br>
 
@@ -222,9 +222,9 @@ VSCode デバッグ画面左上の DEBUG を「Listen for XDebug」にして、�
 
 ### 参考
 
-* [https://kkznch.hatenablog.com/entry/2018/01/02/143508:title]
-* [https://qrunch.net/@hiroita/entries/oxjz3uU8BKd6TDAR:title]
-* [https://tech.bita.jp/article/6:title]
-* [https://qiita.com/castaneai/items/d5fdf577a348012ed8af:title]
-* [https://qiita.com/gigosa/items/90431be7a6a79db78480:title]
+* [https://kkznch.hatenablog.com/entry/2018/01/02/143508](https://kkznch.hatenablog.com/entry/2018/01/02/143508)
+* [https://qrunch.net/@hiroita/entries/oxjz3uU8BKd6TDAR](https://qrunch.net/@hiroita/entries/oxjz3uU8BKd6TDAR)
+* [https://tech.bita.jp/article/6](https://tech.bita.jp/article/6)
+* [https://qiita.com/castaneai/items/d5fdf577a348012ed8af](https://qiita.com/castaneai/items/d5fdf577a348012ed8af)
+* [https://qiita.com/gigosa/items/90431be7a6a79db78480](https://qiita.com/gigosa/items/90431be7a6a79db78480)
 

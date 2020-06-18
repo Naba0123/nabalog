@@ -12,7 +12,7 @@ IntelliJ ベース IDEA（記事では PHPStorm ）の背景画像を変更す�
 
 バージョンは、** 2016.2 **以降で可能です。
 
-[https://www.jetbrains.com/help/idea/2016.2/setting-background-image.html:title]
+[https://www.jetbrains.com/help/idea/2016.2/setting-background-image.html](https://www.jetbrains.com/help/idea/2016.2/setting-background-image.html)
 
 <br>
 

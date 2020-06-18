@@ -22,7 +22,7 @@ outlook.jpアドレスを取得してW10Mの「Outlookメール」アプリで�
 
 * Microsoftアカウントにサインインします
 
-[https://login.live.com/login.srf:title]
+[https://login.live.com/login.srf](https://login.live.com/login.srf)
 
 ![20160120224417](20160120224417.png)
 

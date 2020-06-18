@@ -36,7 +36,7 @@ date: "2016-01-16 19:28:40"
 
 仮想環境を作る
 
-[https://www.virtualbox.org/:title]
+[https://www.virtualbox.org/](https://www.virtualbox.org/)
 
 今回は、最新版の5.0を使用しています。
 
@@ -61,7 +61,7 @@ vagrant plugin install vagrant-vbguest
 ```
 1行目は、vagrantのboxを指定。以下から目的のboxを探して下さい。
 
-[http://www.vagrantbox.es/:title]
+[http://www.vagrantbox.es/](http://www.vagrantbox.es/)
 
 2行目は、VirtualBoxのGuest Additionsを使用するためのプラグインで、私の環境ではインストールしないとエラーが出ました。
 
@@ -105,7 +105,7 @@ vagrant reload (←再起動するとき)
 起動したので、SSHで接続します。  
 Windowsにはコマンドラインで使えるSSHクライアントがデフォルトではないので、今回はputtyを使います。
 
-[http://www.chiark.greenend.org.uk/~sgtatham/putty/:title]
+[http://www.chiark.greenend.org.uk/~sgtatham/putty/](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
 * ホスト名：192.168.33.10
 * ポート番号：22
@@ -176,7 +176,7 @@ rpmforge : [http://pkgs.repoforge.org/rpmforge-release/]
 # yum repolist all
 ```
 
-[http://codaholic.org/?p=1853:title]
+[http://codaholic.org/?p=1853](http://codaholic.org/?p=1853)
 
 <br>
 
@@ -241,7 +241,7 @@ MySQLのyumリポジトリを追加してそこからインストールします
 # systemctl enable mysqld.service
 ```
 
-[http://dev.mysql.com/downloads/repo/yum/:title]
+[http://dev.mysql.com/downloads/repo/yum/](http://dev.mysql.com/downloads/repo/yum/)
 
 <br>
 

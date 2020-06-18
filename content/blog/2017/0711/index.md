@@ -21,7 +21,7 @@ Surface Pro 4 + 外部ディスプレイを使っていて、「外部ディス�
 コマンドラインからデバイスの有効・無効化を行うには「DevCon」という
 Windows Driver Kit (WDK) に含まれるソフトを使用するため、WDKをインストールします。
 
-[https://developer.microsoft.com/ja-jp/windows/hardware/windows-driver-kit:title]
+[https://developer.microsoft.com/ja-jp/windows/hardware/windows-driver-kit](https://developer.microsoft.com/ja-jp/windows/hardware/windows-driver-kit)
 
 > 重要: WDK をインストールすると、モダン アプリケーションを開発することができなくなります。
 
@@ -77,5 +77,5 @@ Windows Driver Kit (WDK) に含まれるソフトを使用するため、WDKを�
 
 ## 参考
 
-[https://qwerty.work/blog/2015/03/wdkdevconbatcommand.php:title]
+[https://qwerty.work/blog/2015/03/wdkdevconbatcommand.php](https://qwerty.work/blog/2015/03/wdkdevconbatcommand.php)
 

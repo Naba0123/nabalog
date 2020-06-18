@@ -13,9 +13,9 @@ date: "2017-06-04 10:47:12"
 金沢百万石まつりの協賛行事として行われた、加賀友禅灯篭流しを見てきました。
 毎年、浅野川(天神橋上流～浅野川大橋間)で行われるようです。
 
-[http://100mangoku.net:title]
+[http://100mangoku.net](http://100mangoku.net)
 
-[http://www.kagayuzen.or.jp/infomation/%E7%81%AF%E7%B1%A0%E6%B5%81%E3%81%97/:title]
+[http://www.kagayuzen.or.jp/infomation/%E7%81%AF%E7%B1%A0%E6%B5%81%E3%81%97/](http://www.kagayuzen.or.jp/infomation/%E7%81%AF%E7%B1%A0%E6%B5%81%E3%81%97/)
 
 当日の朝はひどい雷雨で、雨天延期かと思いましたが、その後は晴れて無事に予定通り開催されました。
 

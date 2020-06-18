@@ -12,7 +12,7 @@ date: "2016-02-03 21:54:23"
 
 Surface Pro 4のキーボードと言えばType Coverですが、プログラミング用に専用のキーボードが欲しくなったのでHHKBを買いました。
 
-[http://www.pfu.fujitsu.com/hhkeyboard/:title]
+[http://www.pfu.fujitsu.com/hhkeyboard/](http://www.pfu.fujitsu.com/hhkeyboard/)
 
 私が買ったのは、一番安いモデルの **PD-KB200B/U** で、　2016年2月3日現在Amazonで5500円弱です。
 

@@ -119,7 +119,7 @@ F4を押して、右上の「Show Solar System objects」のチェックを外�
 
 ![20151228205110](20151228205110.png)
 
-[http://www5d.biglobe.ne.jp/~Lyr/Tour/WS-fuyu.htm:title]
+[http://www5d.biglobe.ne.jp/~Lyr/Tour/WS-fuyu.htm](http://www5d.biglobe.ne.jp/~Lyr/Tour/WS-fuyu.htm)
 
 かなり拡大すればこのぐらい綺麗に分かれています。
 
