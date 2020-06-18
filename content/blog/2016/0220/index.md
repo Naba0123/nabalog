@@ -10,7 +10,7 @@ date: "2016-02-20 22:27:28"
 
 以前調べた時は、connpassの一般申込みが満員で、諦めていたのですが、昨日キャンセルで空いてることを教えて頂き、参加することが出来ました。
 
-[http://hokurikucomcamp.connpass.com/event/23628/:embed:cite]
+[http://hokurikucomcamp.connpass.com/event/23628/](http://hokurikucomcamp.connpass.com/event/23628/)
 
 登壇されている方は、ほとんどがMicrosoft MVPの方ばかり。  
 そんな方の登壇を、無料で、しかも金沢で聞くことが出来るなんて、行かないわけにはいきませんね。
@@ -28,7 +28,7 @@ Cortanaについて、面白く、でも知らなかったようなことを説�
 
 日本版だけ敬称（～さん）をちゃんと認識するようになっていたり、Cortana起動時にお辞儀をするのは日本版だけ、等普段気付きはしないような豆知識から、Cortanaの便利機能、セットアップの方法などを知ることが出来ました。
 
-[http://www.amazon.co.jp/dp/4798142883/:embed:cite]
+[http://www.amazon.co.jp/dp/4798142883/](http://www.amazon.co.jp/dp/4798142883/)
 
 <br>
 
@@ -43,7 +43,7 @@ Cortanaについて、面白く、でも知らなかったようなことを説�
 
 ブログのタイトルが長いことで有名だそうです。
 
-[http://blogs.wankuma.com/esten/default.aspx:embed:cite]
+[http://blogs.wankuma.com/esten/default.aspx](http://blogs.wankuma.com/esten/default.aspx)
 
 <br>
 
@@ -86,7 +86,7 @@ C#をあまり真面目に使ったことがないのであやふやでしたが
 メインは Umbraco についてのセッションで、デモも多く分かりやすかったです。  
 ASP.NETは知識が皆無なので、いつか学んでみたいですね。
 
-[http://miso-soup3.hateblo.jp/:embed:cite]
+[http://miso-soup3.hateblo.jp/](http://miso-soup3.hateblo.jp/)
 
 [https://umbraco.com/:title]
 
@@ -112,9 +112,9 @@ Azureのインスタンスを作りすぎるとお金がピンチになるので
 参加賞（というわけでもありませんが）のボールペンです。  
 Microsoftと「MVP」の文字が入っているのがカッコいい。
 
-[f:id:naba0123:20160220221200j:plain:w400]
+![20160220221200](20160220221200.png)
 
-[f:id:naba0123:20160220221211j:plain:w400]
+![20160220221211](20160220221211.png)
 
 <br>
 

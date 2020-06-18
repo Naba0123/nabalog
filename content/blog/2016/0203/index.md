@@ -8,7 +8,7 @@ date: "2016-02-03 21:54:23"
 はてなブログからの移行記事
 </div>
 
-[f:id:naba0123:20160203211544j:plain:w450]
+![20160203211544](20160203211544.png)
 
 
 Surface Pro 4のキーボードと言えばType Coverですが、プログラミング用に専用のキーボードが欲しくなったのでHHKBを買いました。
@@ -17,7 +17,7 @@ Surface Pro 4のキーボードと言えばType Coverですが、プログラミ
 
 私が買ったのは、一番安いモデルの **PD-KB200B/U** で、　2016年2月3日現在Amazonで5500円弱です。
 
-[http://www.amazon.co.jp/gp/product/B0000U1DJ2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1:embed:cite]
+[http://www.amazon.co.jp/gp/product/B0000U1DJ2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1](http://www.amazon.co.jp/gp/product/B0000U1DJ2/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
 <!-- more -->
 
@@ -35,17 +35,17 @@ Suface Pro 4ではUSBポートが一つしかなく、マウスを考えるとUS
 
 でも、コネクタがキーボードの奥まったところに配置されており、うっかり無線アダプタを接続すると、なかなか抜けなくて苦労します。
 
-[f:id:naba0123:20160203213504j:plain:w450]
+![20160203213504](20160203213504.png)
 
 (引っこ抜くのに数分かかりました)
 
 また、ハードウェアスイッチが付いていて、AltキーとWindowsキー(MacだとCommandキー)を入れ替えたり、DeleteキーとBSキーを切り替えたり出来ます。
 
-[f:id:naba0123:20160203213802j:plain:w450]
+![20160203213802](20160203213802.png)
 
 キーボードの裏に説明が書かれているので安心です。
 
-[f:id:naba0123:20160203214008j:plain:w450]
+![20160203214008](20160203214008.png)
 
 <br>
 
@@ -63,7 +63,7 @@ Suface Pro 4ではUSBポートが一つしかなく、マウスを考えるとUS
 
 # 英字配列
 
-[f:id:naba0123:20160203215115j:plain:w450]
+![20160203215115](20160203215115.png)
 
 人生初めての英字配列です。
 

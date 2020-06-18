@@ -8,7 +8,7 @@ date: "2016-02-19 22:21:10"
 はてなブログからの移行記事
 </div>
 
-[f:id:naba0123:20160219221839p:plain:w500]
+![20160219221839](20160219221839.png)
 
 makuake でのクラウドファンディングで、一時期話題になっていた「IT系プロトコル擬人化本」。
 
@@ -18,7 +18,7 @@ makuake でのクラウドファンディングで、一時期話題になって
 
 目標金額30万円に対して、134万2千円の金額(447%)集まり、成功、そして無事に刊行されました。
 
-[https://www.makuake.com/project/gijinka/:embed:cite]
+[https://www.makuake.com/project/gijinka/](https://www.makuake.com/project/gijinka/)
 
 私は、2000円コース「著者サイン入り書先を先行入手」に申し込み、先日ついに書籍が届きました。
 
@@ -70,11 +70,11 @@ makuake でのクラウドファンディングで、一時期話題になって
 
 あっという間にスラっと読めるボリュームなので、是非読んでみてください。
 
-[http://www.shoeisha.co.jp/book/detail/9784798143231:embed:cite]
+[http://www.shoeisha.co.jp/book/detail/9784798143231](http://www.shoeisha.co.jp/book/detail/9784798143231)
 
 そういえば、PVのCVはあやねるですよ。
 
-[https://www.youtube.com/watch?v=YrzrfbjBiLk:embed:cite]
+[https://www.youtube.com/watch?v=YrzrfbjBiLk](https://www.youtube.com/watch?v=YrzrfbjBiLk)
 
 <br>
 

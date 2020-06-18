@@ -8,11 +8,11 @@ date: "2016-03-23 20:05:52"
 はてなブログからの移行記事
 </div>
 
-[https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9:embed:cite]
+[https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9](https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9)
 
-[f:id:naba0123:20160323195720p:plain:w450]
+![20160323195720](20160323195720.png)
 
-[f:id:naba0123:20160323195732p:plain:w400]
+![20160323195732](20160323195732.png)
 
 構想1週間、実装1週間でひとまずアプリを公開することが出来ました。
 
@@ -26,7 +26,7 @@ date: "2016-03-23 20:05:52"
 
 プロ生ちゃんについては、以下を参照。
 
-[http://pronama.azurewebsites.net/pronama/:embed:cite]
+[http://pronama.azurewebsites.net/pronama/](http://pronama.azurewebsites.net/pronama/)
 
 <br>
 
@@ -44,6 +44,6 @@ date: "2016-03-23 20:05:52"
 
 是非来てください。（人が少ないと寂しいので！）
 
-[https://atnd.org/events/75528:embed:cite]
+[https://atnd.org/events/75528](https://atnd.org/events/75528)
 
 <br>

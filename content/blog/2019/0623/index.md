@@ -19,7 +19,7 @@ GitHub Pages では Jekyll が使えますが、いちいち本番に上げて�
 
 ## Jekyll について
 
-[https://jekyllrb.com/:embed:cite]
+[https://jekyllrb.com/](https://jekyllrb.com/)
 
 Jekyll は、静的サイトジェネレーターで、マークダウンなどでお手軽にブログなどの記事が作成できるツールです。
 

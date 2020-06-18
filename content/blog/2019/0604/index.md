@@ -8,7 +8,7 @@ date: "2019-06-04 00:20:06"
 はてなブログからの移行記事
 </div>
 
-<figure class="figure-image figure-image-fotolife" title="（かっちった）">[f:id:naba0123:20190603235030j:plain]<figcaption>（かっちった）</figcaption></figure>
+![（かっちった）](20190603235030.png)
 
 <!-- more -->
 
@@ -26,13 +26,13 @@ date: "2019-06-04 00:20:06"
 
 の **R2S-JP4-BK** です。
 
-[http://www.realforce.co.jp/products/R2S-JP4-BK/index.html:embed:cite]
+[http://www.realforce.co.jp/products/R2S-JP4-BK/index.html](http://www.realforce.co.jp/products/R2S-JP4-BK/index.html)
 
 [asin:B076W4752T:detail]
 
 <br>
 
-<figure class="figure-image figure-image-fotolife" title="開封したところ">[f:id:naba0123:20190603235318j:plain]<figcaption>開封したところ</figcaption></figure>
+![開封したところ](20190603235318.png)
 
 普段職場では、ごく普通の PC 付属キーボード、もしくは MacBook Pro のパタパタキーボードを、  
 自宅ではLogicool の安い無線キーボード（たまに Shift が反応しない）を使用しているのですが、それと比べた感想としては、  
@@ -74,9 +74,9 @@ date: "2019-06-04 00:20:06"
 
 このソフトウェアから、LEDのインジケーターの色を変更することができます。
 
-<figure class="figure-image figure-image-fotolife" title="インジケーターの色の種類は7種類。輝度の調整もできます。">[f:id:naba0123:20190604000840j:plain]<figcaption>インジケーターの色の種類は7種類。輝度の調整もできます。</figcaption></figure>
+![インジケーターの色の種類は7種類。輝度の調整もできます。](20190604000840.png)
 
-<figure class="figure-image figure-image-fotolife" title="ソフトウェアで設定すると、連動して実際のキーボードのインジケーターの色も変更されます。">[f:id:naba0123:20190604000911j:plain]<figcaption>ソフトウェアで設定すると、連動して実際のキーボードのインジケーターの色も変更されます。</figcaption></figure>
+![ソフトウェアで設定すると、連動して実際のキーボードのインジケーターの色も変更されます。](20190604000911.png)
 
 <br>
 
@@ -84,6 +84,6 @@ date: "2019-06-04 00:20:06"
 
 そういえば、正しいホームポジションを覚えないまま大人になってしまったな…。
 
-[f:id:naba0123:20190604001806j:plain]
+![20190604001806](20190604001806.png)
 
 <br>

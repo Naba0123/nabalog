@@ -10,13 +10,13 @@ date: "2015-12-20 00:00:00"
 
 この記事は[http://www.adventar.org/calendars/969:title]の20日目の記事です。
 
-[http://www.adventar.org/calendars/969:embed:cite]
+[http://www.adventar.org/calendars/969](http://www.adventar.org/calendars/969)
 
 <br>
 
 12月12日（土）に名古屋の東桜会館で行われた、プログラミング生放送勉強会第38回＠名古屋に参加をしてきました。
 
-[http://pronama.azurewebsites.net/2015/11/27/pronama-38-at-nagoya/:embed:cite]
+[http://pronama.azurewebsites.net/2015/11/27/pronama-38-at-nagoya/](http://pronama.azurewebsites.net/2015/11/27/pronama-38-at-nagoya/)
 
 なんとAtndの申込みに対する出席率9割強…といいますか、1名以外全員参加だったそうです。すごい。
 
@@ -29,7 +29,7 @@ date: "2015-12-20 00:00:00"
 
 ## LT
 
-[http://www.slideshare.net/naba0123/ss-56076627:embed:cite]
+[http://www.slideshare.net/naba0123/ss-56076627](http://www.slideshare.net/naba0123/ss-56076627)
 
 8月の正規表現についてのLT、  
 10月の転職についてのLT、  
@@ -54,7 +54,7 @@ date: "2015-12-20 00:00:00"
 
 金沢から一緒に名古屋まで遠征した人＋αで[名古屋港水族館](http://www.nagoyaaqua.jp/)に行きました。
 
-[http://www.nagoyaaqua.jp/:embed:cite]
+[http://www.nagoyaaqua.jp/](http://www.nagoyaaqua.jp/)
 
 <br>
 
@@ -63,10 +63,9 @@ date: "2015-12-20 00:00:00"
 コウテイペンギンは、全18種類しかいないペンギンの中でも最も大きなペンギンです。  
 よくキングペンギン（オウサマペンギン）と間違えられやすいですが、首のあたりの毛の色が違うので、これを機に覚えておきましょう。役立ちます。
 
-[f:id:naba0123:20151219164450j:plain:w500]  
-（左がアデリー、右がエンペラー）
+![左がアデリー、右がエンペラー](20151219164450.png)
 
-[http://matome.naver.jp/odai/2141683346896764401:embed:cite]
+[http://matome.naver.jp/odai/2141683346896764401](http://matome.naver.jp/odai/2141683346896764401)
 
 <br>
 
@@ -75,15 +74,15 @@ date: "2015-12-20 00:00:00"
 アデリーペンギンは、Suicaのペンギンの元となったペンギンと言えばピンとくる方が多いと思います。  
 ポチな目がとってもキュートで可愛いです。
 
-[http://www.eki-net.biz/suica-goods/top/CSfTop.jsp:embed:cite]
+[http://www.eki-net.biz/suica-goods/top/CSfTop.jsp](http://www.eki-net.biz/suica-goods/top/CSfTop.jsp)
 
 <br>
 
 他には、アゴの髭の模様が特徴のヒゲペンギン（アゴヒゲペンギン）と、比較的いろんな水族館にいるジェンツーペンギンがいます。
 
-[f:id:naba0123:20151219165007j:plain:w500]
+![20151219165007](20151219165007.png)
 
-[f:id:naba0123:20151219165014j:plain:w500]
+![20151219165014](20151219165014.png)
 
 ペンギン好きにはたまらない水族館となってます。是非行ってみてください。
 
@@ -93,9 +92,9 @@ date: "2015-12-20 00:00:00"
 
 18日目と19日目はムラムラしているむらむらさんでした。
 
-[http://pmw1415.hateblo.jp/entry/2015/12/18/063507:embed:cite]
+[http://pmw1415.hateblo.jp/entry/2015/12/18/063507](http://pmw1415.hateblo.jp/entry/2015/12/18/063507)
 
-[http://pmw1415.hateblo.jp/entry/2015/12/19/135359:embed:cite]
+[http://pmw1415.hateblo.jp/entry/2015/12/19/135359](http://pmw1415.hateblo.jp/entry/2015/12/19/135359)
 
 あの「転職したい爆発ネタ」にあそこまでの情熱をかけているとは思いませんでした。
 

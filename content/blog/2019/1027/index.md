@@ -17,9 +17,9 @@ date: "2019-10-27 23:55:17"
 
 自分含めて現地参加者は12人でした
 
-[https://pronama.jp/2019/09/25/pronama-60-at-nagoya/:embed:cite]
+[https://pronama.jp/2019/09/25/pronama-60-at-nagoya/](https://pronama.jp/2019/09/25/pronama-60-at-nagoya/)
 
-[https://atnd.org/events/108992:embed:cite]
+[https://atnd.org/events/108992](https://atnd.org/events/108992)
 
 <!-- more -->
 
@@ -51,7 +51,7 @@ date: "2019-10-27 23:55:17"
 慌てて過去のブログネタをほぼそのまま LT として発表を行いました。
 
 ▼ブログ記事
-[https://blog.naba.biz/entry/2019/06/30/013349:embed:cite]
+[https://blog.naba.biz/entry/2019/06/30/013349](https://blog.naba.biz/entry/2019/06/30/013349)
 
 ▼発表資料
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/tdvXljOwdEd0IE" width="595" height="390" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/naba0123/laradock-laravel" title="Laradock を使って 気軽に Laravel を触ってみよう" target="_blank">Laradock を使って 気軽に Laravel を触ってみよう</a> </strong> from <strong><a href="https://www.slideshare.net/naba0123" target="_blank">naba0123</a></strong> </div>
@@ -61,19 +61,19 @@ date: "2019-10-27 23:55:17"
 過去に金沢でプロ生を主催したことがありますが、  
 また来年あたりにできたらいいなぁーとふわっと話していたので、  期待？
 
-[https://blog.naba.biz/entry/2016/03/29/001001:embed:cite]
+[https://blog.naba.biz/entry/2016/03/29/001001](https://blog.naba.biz/entry/2016/03/29/001001)
 
 
 # 余談の話
 
 勉強会後の懇親会で食べた台湾料理屋が、めちゃくちゃ美味しかった・・・
 
-[https://atnd.org/events/108993:embed:cite]
+[https://atnd.org/events/108993](https://atnd.org/events/108993)
 
 食べ飲み放題で、料理種類も多いが、味も良し、生ビールも飲める。
 
-<figure class="figure-image figure-image-fotolife" title="揚餃子">[f:id:naba0123:20191027233230j:plain]<figcaption>揚餃子</figcaption></figure>
+![揚餃子](20191027233230.png)
 
-<figure class="figure-image figure-image-fotolife" title="必死に食べていたから最初に来た料理しか撮っていないやつ">[f:id:naba0123:20191027232705j:plain]<figcaption>必死に食べていたから最初に来た料理しか撮っていないやつ</figcaption></figure>
+![必死に食べていたから最初に来た料理しか撮っていないやつ](20191027232705.png)
 
 名古屋に来る際はリピートしたくなる美味しさでした。

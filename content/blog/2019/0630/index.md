@@ -30,14 +30,14 @@ Laravel の開発環境として、
 # 環境
 
 * Windows 10 Pro 1809 (Windows 10 October 2018 Update)
-* Docker Desktop 2.0.0.3 (Hyper-V)
-<figure class="figure-image figure-image-fotolife" title="Docker Desktop Version">[f:id:naba0123:20190629121758p:w400]<figcaption>Docker Desktop Version</figcaption></figure>
+* Docker Desktop 2.0.0.3 (Hyper-V)  
+![20190629121758](20190629121758.png)
 * PHP 7.2.19
 * Laravel 5.8.26
 * Laradock (2019/06/30 時点の master)  
-[https://github.com/laradock/laradock/tree/a2c7b467662706ba1af118048baeaf6e27f6a74d:embed:cite]
+[https://github.com/laradock/laradock/tree/a2c7b467662706ba1af118048baeaf6e27f6a74d](https://github.com/laradock/laradock/tree/a2c7b467662706ba1af118048baeaf6e27f6a74d)
 * Visual Studio Code 1.35.1  
-[f:id:naba0123:20190630012034p:plain]
+![20190630012034](20190630012034.png)
 
 <br>
 
@@ -46,7 +46,7 @@ Laravel の開発環境として、
 Docker の Shared Drive を On に。  
 Laradock が共有前提のため、動かない。
 
-<figure class="figure-image figure-image-fotolife" title="C ドライブと D ドライブ（一応）をOnに">[f:id:naba0123:20190630000552p:w400]<figcaption>C ドライブと D ドライブ（一応）をOnに</figcaption></figure>
+![C ドライブと D ドライブ（一応）をOnに](20190630000552.png)
 
 <br>
 
@@ -167,11 +167,11 @@ workspace コンテナ内に入ったら、Laravel アプリケーションを�
 
 VSCode に PHP Debug を導入します。これで Break Point を張ったりできます。
 
-[f:id:naba0123:20190630005714p:w400]
+![20190630005714](20190630005714.png)
 
 VSCodeで、Laravel Application のフォルダを開いて、とりあえず Break Point を確認したいので、「routes/web.php」を開き、「return view('welcome');」の行に Break Point 設定。
 
-<figure class="figure-image figure-image-fotolife" title="15行目に Break Point 設定">[f:id:naba0123:20190630011739p:w400]<figcaption>15行目に Break Point 設定</figcaption></figure>
+![15行目に Break Point 設定](20190630011739.png)
 
 <br>
 
@@ -205,7 +205,7 @@ VSCodeで、Laravel Application のフォルダを開いて、とりあえず Br
 }  
 ```
 
-<figure class="figure-image figure-image-fotolife" title="launch.json">[f:id:naba0123:20190630012211p:w400]<figcaption>launch.json</figcaption></figure>
+![launch.json](20190630012211.png)
 
 <br>
 
@@ -216,7 +216,7 @@ VSCode デバッグ画面左上の DEBUG を「Listen for XDebug」にして、�
 
 ブラウザで localhost にアクセスをすると、止まるはずです。
 
-[f:id:naba0123:20190630012443p:w400]
+![20190630012443](20190630012443.png)
 
 変数の中身もちゃんと確認できて、開発がきっと捗るはず。
 

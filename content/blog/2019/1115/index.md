@@ -64,5 +64,5 @@ git config --global core.autocrlf false
 
 ## 参考
 
-[https://github.com/laradock/laradock/issues/1861:embed:cite]
+[https://github.com/laradock/laradock/issues/1861](https://github.com/laradock/laradock/issues/1861)
 

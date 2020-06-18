@@ -8,11 +8,11 @@ date: "2016-12-13 23:13:53"
 はてなブログからの移行記事
 </div>
 
-[f:id:naba0123:20151215224746j:plain:w500]
+![20151215224746](20151215224746.png)
 
 すみません大遅刻しました。 プロ生ちゃん Advent Calender 11日目です。
 
-[http://www.adventar.org/calendars/1631:embed:cite]
+[http://www.adventar.org/calendars/1631](http://www.adventar.org/calendars/1631)
 
 今年プロ生であったこと、来年プロ生でやりたいことを書きます。
 
@@ -26,11 +26,11 @@ date: "2016-12-13 23:13:53"
 
 今年の3月に、金沢にてプログラミング生放送＠金沢を主催させて頂きました！
 
-[http://blog.naba.biz/entry/2016/03/29/001001:embed:cite]
+[http://blog.naba.biz/entry/2016/03/29/001001](http://blog.naba.biz/entry/2016/03/29/001001)
 
 また、そのセッション用にプロ生ちゃん素材を使ったアプリも作成しました。
 
-[http://blog.naba.biz/entry/2016/03/23/200552:embed:cite]
+[http://blog.naba.biz/entry/2016/03/23/200552](http://blog.naba.biz/entry/2016/03/23/200552)
 
 <br>
 
@@ -62,7 +62,7 @@ date: "2016-12-13 23:13:53"
 
 まだインストールしただけですが、Unity を初めてみようと思っています。
 
-[http://pronama.azurewebsites.net/pronama/download/:embed:cite]
+[http://pronama.azurewebsites.net/pronama/download/](http://pronama.azurewebsites.net/pronama/download/)
 
 もちろんプロ生ちゃんの Unity モデルもあるので、それを使って何か面白いものでも作れたらと！
 

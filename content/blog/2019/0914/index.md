@@ -18,11 +18,11 @@ Google Api の設定をして、Developツール上で情報が取得できる�
 
 ## Google Api Console ログイン
 
-[https://console.developers.google.com/:embed:cite]
+[https://console.developers.google.com/](https://console.developers.google.com/)
 
 ## 新規プロジェクトの作成
 
-<figure class="figure-image figure-image-fotolife" title="プロジェクト名は好きなものを">[f:id:naba0123:20190914120413p:plain]<figcaption>プロジェクト名は好きなものを</figcaption></figure>
+![プロジェクト名は好きなものを](20190914120413.png)
 
 ## Fitness API 追加
 
@@ -30,16 +30,16 @@ Google Api の設定をして、Developツール上で情報が取得できる�
 
 そこで、Firness と検索し、追加
 
-<figure class="figure-image figure-image-fotolife" title="検索後">[f:id:naba0123:20190914120609p:plain]<figcaption>検索後</figcaption></figure>
+![検索後](20190914120609.png)
 
-<figure class="figure-image figure-image-fotolife" title="有効にした状態">[f:id:naba0123:20190914120716p:plain]<figcaption>有効にした状態</figcaption></figure>
+![有効にした状態](20190914120716.png)
 
 ## OAuth 同意画面、認証情報追加
 
 ユーザー（自分）に許可を出すための画面設定が必要。  
 APIとサービス画面の、「OAuth同意画面」から、アプリ名のみをとりあえず設定。
 
-<figure class="figure-image figure-image-fotolife" title="設定画面">[f:id:naba0123:20190914121004p:plain]<figcaption>設定画面</figcaption></figure>
+![設定画面](20190914121004.png)
 
 設定したら保存してください。
 
@@ -47,7 +47,7 @@ APIとサービス画面の、「OAuth同意画面」から、アプリ名のみ
 「認証情報」をクリックし、「認証情報を作成」をクリック。  
 「OAuth クライアントID」を選択。
 
-[f:id:naba0123:20190914121124p:plain]
+![20190914121124](20190914121124.png)
 
 「ウェブアプリケーション」を選択し、
 「承認済みのJavaScript生成元」には
@@ -60,27 +60,27 @@ https://developers.google.com/oauthplayground
 ```
 を設定してください。このあたりはドキュメント通りです。
 
-[https://developers.google.com/fit/rest/v1/get-started?hl=ja:embed:cite]
+[https://developers.google.com/fit/rest/v1/get-started?hl=ja](https://developers.google.com/fit/rest/v1/get-started?hl=ja)
 
 ## OAuth 2.0 Playground で動作準備
 
 Google Developers OAuth 2.0 Playground 上で実行してみます。  
 Google API のテスト環境のような形でしょうか。
 
-[https://developers.google.com/oauthplayground/?hl=ja:embed:cite]
+[https://developers.google.com/oauthplayground/?hl=ja](https://developers.google.com/oauthplayground/?hl=ja)
 
 下記は OAuth 2.0 Playground についての記事
-[https://developers.google.com/identity/protocols/OAuth2:embed:cite]
+[https://developers.google.com/identity/protocols/OAuth2](https://developers.google.com/identity/protocols/OAuth2)
 
 アクセスしたら、「Step1 Select & authorize APIs」で「Fitness v1」を探してクリックで展開、  
 いろいろ試してみたいので、全てのエンドポイント？にチェックを入れて、「Authorize APIs」をクリック。
 
-<figure class="figure-image figure-image-fotolife" title="アルファベット順に並んでいます。Google Fit ではないので注意">[f:id:naba0123:20190914121905p:plain]<figcaption>アルファベット順に並んでいます。Google Fit ではないので注意</figcaption></figure>
+![アルファベット順に並んでいます。Google Fit ではないので注意](20190914121905.png)
 
 すると、どの Google アカウントで認証するかの、見たことある画面になりますので、アカウントを選択し、許可をクリック
 
-<figure class="figure-image figure-image-fotolife" title="上部">[f:id:naba0123:20190914122229p:plain]<figcaption>上部</figcaption></figure>
-<figure class="figure-image figure-image-fotolife" title="（長いので中略）下部">[f:id:naba0123:20190914122042p:plain]<figcaption>（中略）下部</figcaption></figure>
+![上部](20190914122229.png)
+![（長いので中略）下部](20190914122042.png)
 
 すると、前の画面に戻ってAuthorization code が入力された状態になりますので、  
 「Exchange authorization code for tokens」をクリック。  
@@ -90,10 +90,10 @@ Authorization code は一時的なアクセス許可をするための橋渡し�
 
 
 ▽参考
-[https://developers.google.com/identity/protocols/OAuth2:embed:cite]
+[https://developers.google.com/identity/protocols/OAuth2](https://developers.google.com/identity/protocols/OAuth2)
 
 
-<figure class="figure-image figure-image-fotolife" title="色々情報が出てきたらOKです">[f:id:naba0123:20190914122627p:plain]<figcaption>色々情報が出てきたらOKです</figcaption></figure>
+![色々情報が出てきたらOKです](20190914122627.png)
 
 アクセストークンは1時間期限なので（カウントダウンされてますね）、  
 期限が切れたら Refresh token を利用してアクセストークンを再取得する必要があります。
@@ -105,7 +105,7 @@ Authorization code は一時的なアクセス許可をするための橋渡し�
 使用できるAPIについては、Google Fit REST API のドキュメントに記載されています。
 
 
-[https://developers.google.com/fit/rest/v1/reference/:embed:cite]
+[https://developers.google.com/fit/rest/v1/reference/](https://developers.google.com/fit/rest/v1/reference/)
 
 
 
@@ -117,7 +117,7 @@ https://www.googleapis.com/fitness/v1/users/me/dataSources
 ```
 にGETをすることで取得できます。
 
-<figure class="figure-image figure-image-fotolife" title="レスポンスの weight にハイライト">[f:id:naba0123:20190914123052p:plain]<figcaption>レスポンスの weight にハイライト</figcaption></figure>
+![レスポンスの weight にハイライト](20190914123052.png)
 
 体重の部分のJSONを観ると、「dataStreamId」というのがあります。これが Google Fit API でのデータ種別IDになります。
 
@@ -132,7 +132,7 @@ https://www.googleapis.com/fitness/v1/users/{user}/dataSources/{dataSourceId}/da
 GET https://www.googleapis.com/fitness/v1/users/me/dataSources/derived:com.google.weight:com.google.android.gms:merge_weight/datasets/0-1568432908000000000
 ```
 
-<figure class="figure-image figure-image-fotolife" title="実行結果">[f:id:naba0123:20190914125223p:plain]<figcaption>実行結果</figcaption></figure>
+![実行結果](20190914125223.png)
 
 無事に取れていそうですね。  
 もちろんですが、過去に値を追加したことがなければ値は帰ってこないと思います。

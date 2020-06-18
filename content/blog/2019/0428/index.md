@@ -15,7 +15,7 @@ Air Podsは、装着した際の見た目<s>（うどん）</s>が好きでは�
 良いのはないのか～、と会社で雑談をしたところ、  
 「YouTuberとかおすすめしてるのありますよ！」と後輩が教えてくれました。
 
-[http://aviot.jp/products/te-d01d/:embed:cite]
+[http://aviot.jp/products/te-d01d/](http://aviot.jp/products/te-d01d/)
 
 <br>
 
@@ -39,13 +39,13 @@ Air Podsは、装着した際の見た目<s>（うどん）</s>が好きでは�
 
 <br>
 
-<figure class="figure-image figure-image-fotolife" title="外装">[f:id:naba0123:20190428232801j:plain]<figcaption>外装</figcaption></figure>
+![外装](20190428232801.jpg)
 
-<figure class="figure-image figure-image-fotolife" title="開けたところ。イヤホンがかっちり箱にハマっていて、取り外すのに3分かかった">[f:id:naba0123:20190428232746j:plain]<figcaption>開けたところ。イヤホンがかっちり箱にハマっていて、取り外すのに3分かかった</figcaption></figure>
+![開けたところ。イヤホンがかっちり箱にハマっていて、取り外すのに3分かかった](20190428232746.jpg)
 
-<figure class="figure-image figure-image-fotolife" title="同梱物">[f:id:naba0123:20190428232749j:plain]<figcaption>同梱物</figcaption></figure>
+![同梱物](20190428232749.jpg)
 
-<figure class="figure-image figure-image-fotolife" title="充電中は、イヤホンのLEDがケースを通して光ってます。">[f:id:naba0123:20190428232751j:plain]<figcaption>充電中は、イヤホンのLEDがケースを通して光ってます。</figcaption></figure>
+![充電中は、イヤホンのLEDがケースを通して光ってます。](20190428232751.jpg)
 
 ## ざっくり感想
 

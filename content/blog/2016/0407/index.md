@@ -8,11 +8,11 @@ date: "2016-04-07 22:18:03"
 はてなブログからの移行記事
 </div>
 
-[https://www.microsoft.com/ja-jp/store/apps/staffpad/9wzdncrddkrb:embed:cite]
+[https://www.microsoft.com/ja-jp/store/apps/staffpad/9wzdncrddkrb](https://www.microsoft.com/ja-jp/store/apps/staffpad/9wzdncrddkrb)
 
 Surfaceシリーズに特化した手書き楽譜入力ソフト StaffPad ですが、先日、April Updateが行われ、新機能が幾つか追加されました。
 
-[http://blog.staffpad.net/staffpad-april-update-2/:embed:cite]
+[http://blog.staffpad.net/staffpad-april-update-2/](http://blog.staffpad.net/staffpad-april-update-2/)
 
 ところで StaffPad はリリースから1年を迎えたそうです。おめでたいですね。
 
@@ -36,7 +36,7 @@ Surfaceシリーズに特化した手書き楽譜入力ソフト StaffPad です
 いざ使う時にこの機能がなくて困っている方は多かったのではないでしょうか。  
 嬉しい機能ですね。
 
-[f:id:naba0123:20160407215416p:plain]
+![20160407215416](20160407215416.png)
 
 画像は公式ヘルプより。  
 五線上をロングタップすればメニューが出てくるようですが、私は見つけることが出来ませんでした。
@@ -50,7 +50,7 @@ Surfaceシリーズに特化した手書き楽譜入力ソフト StaffPad です
 
 クラシック音楽ではお馴染みですが、J-POP等では特にフィーネ等を使う曲は少ないのではないでしょうか。
 
-[f:id:naba0123:20160407215935p:plain:w450]
+![20160407215935](20160407215935.png)
 
 こちらはメニューに追加されていました。
 
@@ -62,7 +62,7 @@ Surfaceシリーズに特化した手書き楽譜入力ソフト StaffPad です
 
 これも必要な記号ですね。二小節繰り返しや、四小節繰り返しも作れます。
 
-[f:id:naba0123:20160407220234p:plain:w450]
+![20160407220234](20160407220234.png)
 
 <br>
 
@@ -79,7 +79,7 @@ Surface Penのボタンをクリックしながら音符を囲って選択し、
 * サブタイトル、編曲者、作詞者が書けるようになった
 * ダブルシャープ、ダブルフラットが書けるようになった
 * オクターブ付きの音部記号が選択できるようになった  
-[f:id:naba0123:20160407221127j:plain:w400]
+![20160407221127](20160407221127.png)
 * 音声認識の機能の追加（例「"D.C. al Coda at bar 16"」、英語のみ対応）
 
 <br>

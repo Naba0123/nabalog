@@ -10,7 +10,7 @@ date: "2016-01-23 14:50:45"
 
 Surface Bookにしようか、Surface Pro 4にしようか散々悩みましたが、私はPro 4を選びました。
 
-[http://blog.naba.biz/entry/2016/01/15/224733:embed:cite]
+[http://blog.naba.biz/entry/2016/01/15/224733](http://blog.naba.biz/entry/2016/01/15/224733)
 
 Microsoft Storeで予約したかったのですが、すでに予約分は完売しており、公式小売店？のヨドバシカメラで予約をしました。
 
@@ -37,7 +37,7 @@ Microsoft Storeで予約したかったのですが、すでに予約分は完�
 
 Surface Pro ～ Surface Pro 3までの電源コードに問題が見つかったようで、リコール対象となっています。
 
-[https://www.microsoft.com/surface/ja-jp/support/warranty-service-and-recovery/powercord:embed:cite]
+[https://www.microsoft.com/surface/ja-jp/support/warranty-service-and-recovery/powercord](https://www.microsoft.com/surface/ja-jp/support/warranty-service-and-recovery/powercord)
 
 <br>
 
@@ -71,7 +71,7 @@ Type Coderは赤を選びました。
 
 * Type Coverを傾けた状態だと、タスクバーにタッチがしづらい
 
-[f:id:naba0123:20160123144735j:plain:w400]
+![20160123144735](20160123144735.png)
 
 そこまで気にはなりませんが、Type Coverを本体側にくっ付けて、傾けた状態にすると、タスクバーのアイコンが少しタッチしづらいかもしれないです。  
 Surfaceペンを使用すればそうでもないと思います。

@@ -28,7 +28,7 @@ date: "2016-01-16 19:28:40"
 
 これを使うとVirtualBoxの設定画面をいちいち弄ったり、ゲストOSをインストールしなくて済みます。便利（昨日知りました）
 
-[f:id:naba0123:20160116171819p:plain:w450]
+![20160116171819](20160116171819.png)
 
 [https://www.vagrantup.com/]
 
@@ -67,7 +67,7 @@ vagrant plugin install vagrant-vbguest
 
 2行目は、VirtualBoxのGuest Additionsを使用するためのプラグインで、私の環境ではインストールしないとエラーが出ました。
 
-[http://qiita.com/isaoshimizu/items/e217008b8f6e79eccc85:embed:cite]
+[http://qiita.com/isaoshimizu/items/e217008b8f6e79eccc85](http://qiita.com/isaoshimizu/items/e217008b8f6e79eccc85)
 
 <br>
 
@@ -112,7 +112,7 @@ Windowsにはコマンドラインで使えるSSHクライアントがデフォ�
 * ホスト名：192.168.33.10
 * ポート番号：22
 
-[f:id:naba0123:20160116180844p:plain:w450]
+![20160116180844](20160116180844.png)
 
 文字コードはUTF-8にしないと日本語が文字化けます。
 
@@ -255,7 +255,7 @@ MySQLは5.7から、rootユーザの初期パスワードがMySQLのログに書
 # mysql -u root -p****** (ログイン)
 ```
 
-[http://qiita.com/ma_me/items/ae449ad8a2c424665310:embed:cite]
+[http://qiita.com/ma_me/items/ae449ad8a2c424665310](http://qiita.com/ma_me/items/ae449ad8a2c424665310)
 
 <br><br><br>
 

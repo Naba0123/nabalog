@@ -8,11 +8,11 @@ date: "2016-02-14 10:18:32"
 はてなブログからの移行記事
 </div>
 
-[f:id:naba0123:20160214095245j:plain:w500]
+![20160214095245](20160214095245.png)
 
 プログラミング生放送 第39回勉強会@DMM.comラボ 恵比寿 に参加しました。
 
-[http://pronama.azurewebsites.net/2016/01/26/pronama-39-at-dmm-com/:embed:cite]
+[http://pronama.azurewebsites.net/2016/01/26/pronama-39-at-dmm-com/](http://pronama.azurewebsites.net/2016/01/26/pronama-39-at-dmm-com/)
 
 <br>
 
@@ -58,7 +58,7 @@ date: "2016-02-14 10:18:32"
 あとLTしました。
 
 
-[http://www.slideshare.net/naba0123/twitter-58218772:embed:cite]
+[http://www.slideshare.net/naba0123/twitter-58218772](http://www.slideshare.net/naba0123/twitter-58218772)
 
 
 
@@ -68,7 +68,7 @@ date: "2016-02-14 10:18:32"
 
 いつものさくら水産です。もう唐揚げは人数分頼みません。 
 
-[http://jz5.jp/2015/05/17/karaage-lemon/:embed:cite]
+[http://jz5.jp/2015/05/17/karaage-lemon/](http://jz5.jp/2015/05/17/karaage-lemon/)
 
 <br>
 

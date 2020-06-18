@@ -16,19 +16,19 @@ MADOSMA Q501には最初から保護シートが貼ってあります。
 
 張り替えたのは、OverLay Plus for MADOSMAです。
 
-[http://www.amazon.co.jp/OverLay-MADOSMA-%E3%82%A2%E3%83%B3%E3%83%81%E3%82%B0%E3%83%AC%E3%82%A2-OLQ501-12/dp/B0107J6RVY:embed:cite]
+[http://www.amazon.co.jp/OverLay-MADOSMA-%E3%82%A2%E3%83%B3%E3%83%81%E3%82%B0%E3%83%AC%E3%82%A2-OLQ501-12/dp/B0107J6RVY](http://www.amazon.co.jp/OverLay-MADOSMA-%E3%82%A2%E3%83%B3%E3%83%81%E3%82%B0%E3%83%AC%E3%82%A2-OLQ501-12/dp/B0107J6RVY)
 
 <br>
 
 <!-- more -->
 
-[f:id:naba0123:20160225195356j:plain:w400]
+![20160225195356](20160225195356.png)
 
 最初から貼ってあった保護シートは、拭いても指紋がすぐについてしまっていました。
 
 保護シートを剥がすと、何やら拭いた後が見えてきましたが、綺麗にアルコールで拭きなおして、新しい保護シートに貼り替え。
 
-[f:id:naba0123:20160225195725j:plain:w400]
+![20160225195725](20160225195725.png)
 
 反射が減って良い感じです。
 

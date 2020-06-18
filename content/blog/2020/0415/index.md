@@ -85,7 +85,7 @@ jenkins_1  | *************************************************************
 ```
 Jenkins のセットアップについては、他を参照。
 
-[https://qiita.com/zb185423/items/af2643fa6ebf0639b6ab:embed:cite]
+[https://qiita.com/zb185423/items/af2643fa6ebf0639b6ab](https://qiita.com/zb185423/items/af2643fa6ebf0639b6ab)
 
 
 # Node.js インストール

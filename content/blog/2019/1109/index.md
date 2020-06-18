@@ -19,7 +19,7 @@ Web スクレイピングについては、Wikipedia のリンクを貼ってお
 ## 環境
 * Windows 10 Pro 1903 (Windows 10 May 2019 Update)
   * Docker for Windows 2.1.0.4  
-[f:id:naba0123:20191109093621p:h200]
+![20191109093621](20191109093621.png)
   * WSL
     * Ubuntu 18.04 LTS
     * Python 3.6.8
@@ -58,28 +58,28 @@ CONTAINER ID        IMAGE                                     COMMAND           
   * Windows 上から UltraVNC Viewer を介してコンテナ内の Chrome の動作を確認するのに必要になります
 
 このあたりの詳細は、GitHub を参考にしてください。
-[https://github.com/SeleniumHQ/docker-selenium:embed:cite]
+[https://github.com/SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
 
 ## VNC クライアントで Docker へ接続
 VNC クライアントを使用することで、 Docker 内で実際にどのようにスクレイピングが行われているのか、  
 実際の Docker 内の Chrome の画面を見ながら開発を行うことができます。
 
 今回は、UltraVNC Viewer というソフトウェアを使用します。
-[https://www.uvnc.com/:embed:cite]
+[https://www.uvnc.com/](https://www.uvnc.com/)
 
 インストール方法は割愛します。
 
 起動して、ホスト名に **localhost:5900** を指定して、「Connect」を押下します。  
-[f:id:naba0123:20191109112844p:h200]
+![20191109112844](20191109112844.png)
 
 次に、Password を聞かれるので、**secret** を入力して、「Log On」を押下します。  
-[f:id:naba0123:20191109113012p:h200]
+![20191109113012](20191109113012.png)
 
 無事、Selenium Server のコンテナに接続することができました。  
-[f:id:naba0123:20191109113142p:h200]
+![20191109113142](20191109113142.png)
 
 画面内の適当な部分を右クリックすることで、アプリケーションメニューが開き、Chromeがインストールされていて、実行できることを確認できます。  
-[f:id:naba0123:20191109113313p:h200]
+![20191109113313](20191109113313.png)
 
 コンテナに接続できたら、そのまま置いておきます。
 
@@ -108,7 +108,7 @@ WSL 上で、スクリプトを作成します。
 
 Visual Studio Code の Remote Development については、検索するとたくさん出てくるかと思います。  
 以下に、 Microsoft 公式ドキュメントを貼っておきます。
-[https://code.visualstudio.com/docs/remote/wsl:embed:cite]
+[https://code.visualstudio.com/docs/remote/wsl](https://code.visualstudio.com/docs/remote/wsl)
 
 適当なスクリプトを作成し、以下を入力してください。
 ```python
@@ -128,7 +128,7 @@ time.sleep(5)
 driver.quit()
 ```
 
-<figure class="figure-image figure-image-fotolife" title="Remote Development を使用すると左下に「WSL: Ubuntu-18.04」などと記載されます">[f:id:naba0123:20191109112151p:h200]<figcaption>Remote Development を使用すると左下に「WSL: Ubuntu-18.04」などと記載されます</figcaption></figure>
+![Remote Development を使用すると左下に「WSL: Ubuntu-18.04」などと記載されます](20191109112151.png)
 
 5行目～7行目の
 ```python
@@ -142,17 +142,17 @@ driver = webdriver.Remote(
 * **desired_capabilities** には、スクレイピングを行う Web ブラウザの種類を指定
 
 このたりは、以下のサイトで詳しく見れます。
-[https://selenium-python.readthedocs.io/getting-started.html#simple-usage:embed:cite]
+[https://selenium-python.readthedocs.io/getting-started.html#simple-usage](https://selenium-python.readthedocs.io/getting-started.html#simple-usage)
 
 
 # スクレイピングテスト
 WSL 側でスクリプトを実行すると、コンテナ内で自動で Chrome が立ち上がって想定通りの動作をすることが確認できます。  
-<figure class="figure-image figure-image-fotolife" title="クリックで拡大できます">[f:id:naba0123:20191109114954g:plain]<figcaption>クリックで拡大できます</figcaption></figure>
+![クリックで拡大できます](20191109114954.png)
 
 # まとめ
 * Selenium サーバーが Docker コンテナ側にあることで、特定のバージョンの Chrome でのテストなどがしやすく、別の環境に持っていくことも簡単になる
 
 # 参考
-[https://qiita.com/memakura/items/20a02161fa7e18d8a693:embed:cite]
-[https://qiita.com/yutachaos/items/4a1da5d55a3bf0df889e:embed:cite]
-[https://qiita.com/reflet/items/8f541edde58d635daac4:embed:cite]
+[https://qiita.com/memakura/items/20a02161fa7e18d8a693](https://qiita.com/memakura/items/20a02161fa7e18d8a693)
+[https://qiita.com/yutachaos/items/4a1da5d55a3bf0df889e](https://qiita.com/yutachaos/items/4a1da5d55a3bf0df889e)
+[https://qiita.com/reflet/items/8f541edde58d635daac4](https://qiita.com/reflet/items/8f541edde58d635daac4)

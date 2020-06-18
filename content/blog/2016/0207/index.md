@@ -8,7 +8,7 @@ date: "2016-02-07 18:03:56"
 はてなブログからの移行記事
 </div>
 
-[https://soundcloud.com/naba0123/3zm5siwxuyis:embed:cite]
+[https://soundcloud.com/naba0123/3zm5siwxuyis](https://soundcloud.com/naba0123/3zm5siwxuyis)
 
 1月24日にアップロードしました。
 

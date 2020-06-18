@@ -8,7 +8,7 @@ date: "2015-12-15 22:48:22"
 はてなブログからの移行記事
 </div>
 
-[f:id:naba0123:20151215224746j:plain:w450]
+![20151215224746](20151215224746.png)
 
 
 ブログでは記事を書いていませんでしたが、  
@@ -16,7 +16,7 @@ date: "2015-12-15 22:48:22"
 
 この話の詳しい内容は、10/31に行われた[プロ生第36回](http://pronama.azurewebsites.net/2015/10/12/pronama-36-at-dmm-com/)のLTで話しています。
 
-[http://pronama.azurewebsites.net/2015/10/12/pronama-36-at-dmm-com/:embed:cite]
+[http://pronama.azurewebsites.net/2015/10/12/pronama-36-at-dmm-com/](http://pronama.azurewebsites.net/2015/10/12/pronama-36-at-dmm-com/)
 
 
 <!-- more -->
@@ -25,7 +25,7 @@ date: "2015-12-15 22:48:22"
 
 # LT
 
-[http://www.slideshare.net/naba0123/ss-54591387:embed:cite]
+[http://www.slideshare.net/naba0123/ss-54591387](http://www.slideshare.net/naba0123/ss-54591387)
 
 <br>
 

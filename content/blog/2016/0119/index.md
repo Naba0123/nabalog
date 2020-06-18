@@ -68,7 +68,7 @@ ERROR vagrant: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant
 
 試しに実行してみると、
 
-[f:id:naba0123:20160119215748p:plain]
+![20160119215748](20160119215748.png)
 
 ビンゴのようですね。
 
@@ -76,7 +76,7 @@ ERROR vagrant: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-1.8.1/lib/vagrant
 
 あとは、グーグル先生に聞くと、以下の記事がヒットしました。
 
-[http://d.hatena.ne.jp/yasuhallabo/20111105/1320504409:embed:cite]
+[http://d.hatena.ne.jp/yasuhallabo/20111105/1320504409](http://d.hatena.ne.jp/yasuhallabo/20111105/1320504409)
 
 * [http://www.microsoft.com/downloads/ja-jp/details.aspx?FamilyID=a7b7a05e-6de6-4d3a-a423-37bf0912db84&displayLang=ja:title]
 * [http://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=BD512D9E-43C8-4655-81BF-9350143D5867&displaylang=ja:title]

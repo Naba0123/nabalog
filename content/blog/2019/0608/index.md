@@ -21,7 +21,7 @@ date: "2019-06-08 21:39:47"
 
 ↓
 
-[f:id:naba0123:20190608211627p:plain]
+![20190608211627](20190608211627.png)
 
 ## 2. noindex にしたい記事のカテゴリに「noindex」を追加する
 新規の記事でも、過去の記事でも。
@@ -58,13 +58,13 @@ noindex の追加が検索エンジンに反映されるまでは、多少は時
 
 ## 1. noindex にしたい記事すべてに貼り付けていくパターン
 
-[https://www.pogu-note.com/entry/hatena-noindex-tagsetting#%E8%A8%98%E4%BA%8B%E6%AF%8E%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%84%E3%82%8A%E6%96%B9:embed:cite]
+[https://www.pogu-note.com/entry/hatena-noindex-tagsetting#%E8%A8%98%E4%BA%8B%E6%AF%8E%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%84%E3%82%8A%E6%96%B9](https://www.pogu-note.com/entry/hatena-noindex-tagsetting#%E8%A8%98%E4%BA%8B%E6%AF%8E%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B%E3%82%84%E3%82%8A%E6%96%B9)
 
 はじめはこれが出てきましたが、記事毎に設定するのはメンテナンス性が悪いのと、忘れそうなので、別の方法を探すことに。
 
 ## 2. カテゴリに noindex を作り、JavaScript (jQuery) で判別して制御
 
-[https://clrmemory.com/hatena/specific-entry-noindex/:embed:cite]
+[https://clrmemory.com/hatena/specific-entry-noindex/](https://clrmemory.com/hatena/specific-entry-noindex/)
 
 なるほど、これは良い方法だ！　と思いましたが、  
 jQuery の読み込みで手が止まりました。
