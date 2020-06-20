@@ -1,6 +1,6 @@
 ---
 title: プロ生第38回＠名古屋に参加してLTをしました
-tags: ["Pronama"]
+tags: ["プロ生"]
 date: "2015-12-20 00:00:00"
 ---
 
@@ -8,11 +8,7 @@ date: "2015-12-20 00:00:00"
 はてなブログからの移行記事
 </div>
 
-この記事は[http://www.adventar.org/calendars/969](http://www.adventar.org/calendars/969)の20日目の記事です。
-
-[http://www.adventar.org/calendars/969](http://www.adventar.org/calendars/969)
-
-<br>
+この記事は [プロ生ちゃん Advent Calendar 2015](http://www.adventar.org/calendars/969) の20日目の記事です。
 
 12月12日（土）に名古屋の東桜会館で行われた、プログラミング生放送勉強会第38回＠名古屋に参加をしてきました。
 
@@ -20,13 +16,11 @@ date: "2015-12-20 00:00:00"
 
 なんとAtndの申込みに対する出席率9割強…といいますか、1名以外全員参加だったそうです。すごい。
 
-[https://twitter.com/jz5/status/675958126449946624:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">昨日のプロ生勉強会の参加率97.6％</p>&mdash; ＪＺ５ (@jz5) <a href="https://twitter.com/jz5/status/675958126449946624?ref_src=twsrc%5Etfw">December 13, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<br>
+# LT
 
-## LT
-
-[http://www.slideshare.net/naba0123/ss-56076627](http://www.slideshare.net/naba0123/ss-56076627)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wCeKVOkjKP9ZRY" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 8月の正規表現についてのLT、  
 10月の転職についてのLT、  
@@ -45,24 +39,18 @@ date: "2015-12-20 00:00:00"
 
 次回にも活かしていきたいです。
 
-<br>
-
-## 名古屋港水族館にペンギンを見に行った
+# 名古屋港水族館にペンギンを見に行った
 
 金沢から一緒に名古屋まで遠征した人＋αで[名古屋港水族館](http://www.nagoyaaqua.jp/)に行きました。
-
-[http://www.nagoyaaqua.jp/](http://www.nagoyaaqua.jp/)
-
-<br>
 
 名古屋港水族館には、日本では和歌山のアドベンチャーワールドとここにしかいない、**エンペラーペンギン**（コウテイペンギン）がいます。
 
 コウテイペンギンは、全18種類しかいないペンギンの中でも最も大きなペンギンです。  
 よくキングペンギン（オウサマペンギン）と間違えられやすいですが、首のあたりの毛の色が違うので、これを機に覚えておきましょう。役立ちます。
 
-![左がアデリー、右がエンペラー](20151219164450.png)
+![左がアデリー、右がエンペラー](20151219164450.jpg)
 
-[http://matome.naver.jp/odai/2141683346896764401](http://matome.naver.jp/odai/2141683346896764401)
+[キングペンギンとエンペラーペンギンを見分けられるようになろう！](http://matome.naver.jp/odai/2141683346896764401)
 
 <br>
 
@@ -71,15 +59,13 @@ date: "2015-12-20 00:00:00"
 アデリーペンギンは、Suicaのペンギンの元となったペンギンと言えばピンとくる方が多いと思います。  
 ポチな目がとってもキュートで可愛いです。
 
-[http://www.eki-net.biz/suica-goods/top/CSfTop.jsp](http://www.eki-net.biz/suica-goods/top/CSfTop.jsp)
-
 <br>
 
 他には、アゴの髭の模様が特徴のヒゲペンギン（アゴヒゲペンギン）と、比較的いろんな水族館にいるジェンツーペンギンがいます。
 
-![20151219165007](20151219165007.png)
+![ヒゲペンギン](20151219165007.jpg)
 
-![20151219165014](20151219165014.png)
+![ジェンツーペンギン](20151219165014.jpg)
 
 ペンギン好きにはたまらない水族館となってます。是非行ってみてください。
 
@@ -89,12 +75,10 @@ date: "2015-12-20 00:00:00"
 
 18日目と19日目はムラムラしているむらむらさんでした。
 
-[http://pmw1415.hateblo.jp/entry/2015/12/18/063507](http://pmw1415.hateblo.jp/entry/2015/12/18/063507)
+[先日のプロ生勉強会LTでスライド爆発させた件の話](http://pmw1415.hateblo.jp/entry/2015/12/18/063507)
 
-[http://pmw1415.hateblo.jp/entry/2015/12/19/135359](http://pmw1415.hateblo.jp/entry/2015/12/19/135359)
+[プロ生ちゃん素材から線画を抽出した話](http://pmw1415.hateblo.jp/entry/2015/12/19/135359)
 
 あの「転職したい爆発ネタ」にあそこまでの情熱をかけているとは思いませんでした。
 
 私も次回のLTではもっとネタを仕込みます。今回は時間がなかったんです（言い訳）
-
-<br>

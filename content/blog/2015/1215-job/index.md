@@ -19,9 +19,7 @@ date: "2015-12-15 22:48:22"
 
 # LT
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/NFzhFOWX0995Oy" width="640" height="430" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/naba0123/ss-54591387" title="新卒が半年で転職をした話" target="_blank">新卒が半年で転職をした話</a> </strong> from <strong><a href="https://www.slideshare.net/naba0123" target="_blank">naba0123</a></strong> </div>
-
-<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NFzhFOWX0995Oy" width="640" height="430" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 # 決意
 
