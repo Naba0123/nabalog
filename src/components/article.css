@@ -70,6 +70,14 @@
   padding: .2em;
   color: #CB4042;
   text-shadow: none;
+  margin: auto 0.2em;
+}
+
+#article-section pre > code[class*="language-"] {
+  padding: 0;
+  color: hsl(0,0%,30%);
+  text-shadow: none;
+  margin: auto;
 }
 
 /* header */
