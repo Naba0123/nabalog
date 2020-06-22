@@ -8,7 +8,7 @@ date: "2016-02-19 22:21:10"
 はてなブログからの移行記事
 </div>
 
-![20160219221839](20160219221839.png)
+![](20160219221839.png)
 
 makuake でのクラウドファンディングで、一時期話題になっていた「IT系プロトコル擬人化本」。
 
@@ -22,13 +22,11 @@ makuake でのクラウドファンディングで、一時期話題になって
 
 私は、2000円コース「著者サイン入り書先を先行入手」に申し込み、先日ついに書籍が届きました。
 
-[https://twitter.com/Naba0123/status/699549771938148352:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">クラウドファンディング応援の書籍届いた！ 「擬人化でまなぼ！ネットワークのしくみ」 <a href="https://t.co/qYjcPoCXEX">pic.twitter.com/qYjcPoCXEX</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/699549771938148352?ref_src=twsrc%5Etfw">February 16, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 発売が2月18日なので、2日前に届きましたね。
 
 レビューできる技量もないので、軽く感想を書きます。
-
-<br>
 
 # キャラクター
 
@@ -38,8 +36,6 @@ makuake でのクラウドファンディングで、一時期話題になって
 
 各章の初めには、2ページ漫画があったり、途中では1枚イラストなども描かれていて、技術書を読んでいる印象は殆どありませんでした。
 
-<br>
-
 # 難易度
 
 かなり**入門用**だと思います。
@@ -47,8 +43,6 @@ makuake でのクラウドファンディングで、一時期話題になって
 私はそこまでネットワークに長けているわけではありませんが（簡易自宅サーバを立てる程度）、知っている知識から、知らなかったと思うことまでありました。
 
 各プロトコルがどのような構造で、セキュリティについてなど、広く浅く学ぶことが出来ました。
-
-<br>
 
 # ネタ
 
@@ -60,8 +54,6 @@ makuake でのクラウドファンディングで、一時期話題になって
 
 最終ページの挿絵は、**水着大会**で罰ゲームの**ポロリ**も…（挿絵もあるよ！）？？
 
-<br>
-
 # まとめ
 
 キャラクター可愛い、漫画面白い、話面白い、初心者向け内容。
@@ -72,7 +64,6 @@ makuake でのクラウドファンディングで、一時期話題になって
 
 そういえば、PVのCVはあやねるですよ。
 
-[https://www.youtube.com/watch?v=YrzrfbjBiLk](https://www.youtube.com/watch?v=YrzrfbjBiLk)
-
-<br>
-
+<div class="embed-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YrzrfbjBiLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

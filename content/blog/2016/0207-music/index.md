@@ -1,6 +1,6 @@
 ---
 title: 【新曲】「暗闇」紹介・解説
-tags: ["サークル活動"]
+tags: ["Music"]
 date: "2016-02-07 18:03:56"
 ---
 
@@ -8,7 +8,7 @@ date: "2016-02-07 18:03:56"
 はてなブログからの移行記事
 </div>
 
-[https://soundcloud.com/naba0123/3zm5siwxuyis](https://soundcloud.com/naba0123/3zm5siwxuyis)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/243405491&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/naba0123" title="Naba" target="_blank" style="color: #cccccc; text-decoration: none;">Naba</a> · <a href="https://soundcloud.com/naba0123/3zm5siwxuyis" title="暗闇" target="_blank" style="color: #cccccc; text-decoration: none;">暗闇</a></div>
 
 1月24日にアップロードしました。
 
@@ -16,9 +16,7 @@ date: "2016-02-07 18:03:56"
 
 おかげで、作曲活動に本腰を入れることが出来て万々歳です。
 
-[https://twitter.com/Naba0123/status/690882267950940160:embed]
-
-<br>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Surfaceに特化した、手書きの楽譜入力ソフトStaffPad、日本語の情報が皆無なんだけど、もっと評価されるべき。こんなに認識能力高いのに <a href="https://t.co/HrzMBdBXSX">pic.twitter.com/HrzMBdBXSX</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/690882267950940160?ref_src=twsrc%5Etfw">January 23, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 解説
 

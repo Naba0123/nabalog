@@ -14,7 +14,9 @@
 ### YouTube
 
 ```
-`youtube:https://www.youtube.com/embed/VlkaBEF6WZ4`
+<div class="embed-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k3sPpngWFZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ```
 
 ### Gist
