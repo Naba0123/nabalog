@@ -1,6 +1,6 @@
 ---
 title: REALFORCE S / R2S-JP4-BK を購入した人
-tags: ["Diary"]
+tags: ["雑記"]
 date: "2019-06-04 00:20:06"
 ---
 

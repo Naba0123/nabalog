@@ -22,31 +22,27 @@ date: "2016-03-29 00:10:01"
 
 是非、またお越しください。
 
-<br>
-
 # 当日のこと
 
 ITビジネスプラザ武蔵の交流室２はとても広いです。  
 ３０人弱で使用したため、非常に広々と使うことが出来ました。
 
-![20160328235552](20160328235552.png)
+![](20160328235552.jpg)
 
-![20160328235606](20160328235606.png)
+![](20160328235606.jpg)
 
-![20160328235613](20160328235613.png)
+![](20160328235613.jpg)
 
-![20160328235625](20160328235625.png)
+![](20160328235625.jpg)
 
-![20160328235715](20160328235715.png)
-
-<br>
+![](20160328235715.jpg)
 
 # セッション
 
 「初心者でも Windows 10 Mobile アプリを作りたい！」というタイトルで50分間のセッションをさせて頂きました。  
 初ロングセッション。ライブコーディングは3分クッキングになりました。
 
-[http://www.slideshare.net/naba0123/windows-10-mobile-60052999](http://www.slideshare.net/naba0123/windows-10-mobile-60052999)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NTAeLJS8mp9UHl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/naba0123/windows-10-mobile-60052999" title="初心者でも Windows 10 Mobile アプリを作りたい！" target="_blank">初心者でも Windows 10 Mobile アプリを作りたい！</a> </strong> from <strong><a href="https://www.slideshare.net/naba0123" target="_blank">naba0123</a></strong> </div>
 
 この発表のために作ったアプリが以下。
 
@@ -60,7 +56,7 @@ ITビジネスプラザ武蔵の交流室２はとても広いです。
 また、今回の発表にあたって、[Microsoft MVP for Windows Developmentの かずき さん](https://twitter.com/okazuki)にスライドのチェックをして頂きました。  
 本当に有難うございました。
 
-[https://twitter.com/okazuki/status/713337724170674177:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/Naba0123?ref_src=twsrc%5Etfw">@Naba0123</a> 応援するからレビューもするYO！</p>&mdash; かずき(Kazuki Ota) (@okazuki) <a href="https://twitter.com/okazuki/status/713337724170674177?ref_src=twsrc%5Etfw">March 25, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 

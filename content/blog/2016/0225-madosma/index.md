@@ -12,7 +12,7 @@ MADOSMA Q501には最初から保護シートが貼ってあります。
 
 が、反射がひどかったり指の滑りが悪かったりと、少し気になってたので、アンチグレアの保護シートに貼り替えました。
 
-[https://twitter.com/Naba0123/status/702795056843923456:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">MADOSMAのアンチグレアシート届いた <a href="https://t.co/lRgcEKW03K">pic.twitter.com/lRgcEKW03K</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/702795056843923456?ref_src=twsrc%5Etfw">February 25, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 張り替えたのは、OverLay Plus for MADOSMAです。
 
@@ -20,13 +20,13 @@ MADOSMA Q501には最初から保護シートが貼ってあります。
 
 <br>
 
-![20160225195356](20160225195356.png)
+![20160225195356](20160225195356.jpg)
 
 最初から貼ってあった保護シートは、拭いても指紋がすぐについてしまっていました。
 
 保護シートを剥がすと、何やら拭いた後が見えてきましたが、綺麗にアルコールで拭きなおして、新しい保護シートに貼り替え。
 
-![20160225195725](20160225195725.png)
+![20160225195725](20160225195725.jpg)
 
 反射が減って良い感じです。
 

@@ -1,6 +1,6 @@
 ---
 title: Windows Store アプリを作りました
-tags: ["Pronama", "Windows 10 Mobile"]
+tags: ["Windows 10 Mobile"]
 date: "2016-03-23 20:05:52"
 ---
 
@@ -10,9 +10,9 @@ date: "2016-03-23 20:05:52"
 
 [https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9](https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9)
 
-![20160323195720](20160323195720.png)
+![](20160323195720.png)
 
-![20160323195732](20160323195732.png)
+![](20160323195732.png)
 
 構想1週間、実装1週間でひとまずアプリを公開することが出来ました。
 

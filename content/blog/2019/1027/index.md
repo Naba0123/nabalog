@@ -1,6 +1,6 @@
 ---
 title: プログラミング生放送第60回@名古屋に参加＋LTをしました
-tags: ["Pronama", "Diary"]
+tags: ["Pronama", "雑記"]
 date: "2019-10-27 23:55:17"
 ---
 

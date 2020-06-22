@@ -1,6 +1,6 @@
 ---
 title: Hokuriku ComCamp 2016 powered by MVPsに参加をしました
-tags: ["Diary"]
+tags: ["雑記"]
 date: "2016-02-20 22:27:28"
 ---
 
@@ -59,7 +59,7 @@ Cortanaについて、面白く、でも知らなかったようなことを説�
 誰よりも詳しくなることで、その道のプロフェッショナルになれる。  
 当たり前の事ですが、そんな当たり前のことに気付かされた、素晴らしい講演でした。
 
-[https://www.facebook.com/mnishiwa]
+https://www.facebook.com/mnishiwa
 
 <br>
 
@@ -72,12 +72,13 @@ Windows Serverはグループポリシーという機能が便利だそうです
 
 また、Windows Server 2016からは、制御下のクライアントPCのCortanaの制御もまとめて行えるそうです。すげぇ。
 
-[https://www.facebook.com/masaya.sawada.5]
+https://www.facebook.com/masaya.sawada.5
 
 <br>
 
 ## 「馴染みの .NET Framework で CMS を使ってみよう
-矢後 比呂加 氏 (Microsoft MVP for Visual Studio and Development Technologies)
+
+**矢後 比呂加 氏 (Microsoft MVP for Visual Studio and Development Technologies)**
 
 C#をあまり真面目に使ったことがないのであやふやでしたが、 .NET Framework と ASP.NETの関係から一から説明してくださったので、すんなり理解することが出来ました。
 
@@ -88,17 +89,15 @@ ASP.NETは知識が皆無なので、いつか学んでみたいですね。
 
 [https://umbraco.com/](https://umbraco.com/)
 
-<br>
-
 ## LT
 
-* 「リモートデスクトップ関連」 - 金子 雄一 氏  
+* リモートデスクトップ関連 - 金子 雄一 氏  
 Android/iOSからWindowsへリモートデスクトップが出来るアプリを公開しています。デモでFFをやっていました。
 
-* 「「var禁止」禁止」 - むろほしりょうた 氏  
+* 「var禁止」禁止 - むろほしりょうた 氏  
 C#の「var禁止」は悪ですよというお話。テンポが非常に良かったです。
 
-* 「AzureAutomatioを使ってみた話」 - 山P 氏  
+* AzureAutomatioを使ってみた話 - 山P 氏  
 Azureのインスタンスを作りすぎるとお金がピンチになるので、AzureAutomatioとPowerShellを使って制御をしましょう、というお話。
 
 <br>
@@ -110,9 +109,9 @@ Azureのインスタンスを作りすぎるとお金がピンチになるので
 参加賞（というわけでもありませんが）のボールペンです。  
 Microsoftと「MVP」の文字が入っているのがカッコいい。
 
-![20160220221200](20160220221200.png)
+![](20160220221200.jpg)
 
-![20160220221211](20160220221211.png)
+![](20160220221211.jpg)
 
 <br>
 
