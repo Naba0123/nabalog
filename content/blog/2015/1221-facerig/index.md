@@ -1,6 +1,6 @@
 ---
 title: FaceRigとFaceRig Live2D Moduleを購入したので、SkypeのWebカメラとして使うまで
-tags: ["その他技術系"]
+tags: ["その他"]
 date: "2015-12-21 00:00:00"
 ---
 

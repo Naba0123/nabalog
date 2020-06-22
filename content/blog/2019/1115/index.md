@@ -1,6 +1,6 @@
 ---
 title: Laradock を使った Jenkins が起動しない
-tags: ["その他技術系"]
+tags: ["その他"]
 date: "2019-11-15 23:32:01"
 ---
 
