@@ -10,7 +10,7 @@ date: "2016-09-19 01:24:55"
 
 IntelliJ ベース IDEA（記事では PHPStorm ）の背景画像を変更する方法です。
 
-バージョンは、** 2016.2 **以降で可能です。
+バージョンは、**2016.2** 以降で可能です。
 
 [https://www.jetbrains.com/help/idea/2016.2/setting-background-image.html](https://www.jetbrains.com/help/idea/2016.2/setting-background-image.html)
 
@@ -18,17 +18,17 @@ IntelliJ ベース IDEA（記事では PHPStorm ）の背景画像を変更す�
 
 * 設定方法
 
-![20160919010838](20160919010838.png)
+![](20160919010838.png)
 
-ここで ** Shift, Shift **(Win or Mac 共通) を押して「Search Everywhere」を召喚。
+ここで **Shift, Shift** (Win or Mac 共通) を押して「Search Everywhere」を召喚。
 
-![20160919011256](20160919011256.png)
+![](20160919011256.png)
 
-** background **を入力して「Actions」の中にある「Set Background Image」を選択。
+**background** を入力して「Actions」の中にある「Set Background Image」を選択。
 
 <br>
 
-![20160919011321](20160919011321.png)
+![](20160919011321.png)
 
 画面下のラジオボタンでの切り替えを行うことで、「Editor and tools」と「Frame」の2種類を設定することが出来ます。  
 Frame から説明します。
@@ -47,7 +47,7 @@ Editor and tools で設定をした画像は、その名の通りテキストエ
 
 設定が終わるとこんな感じ。
 
-![20160919011807](20160919011807.png)
+![](20160919011807.png)
 
 上部では何もエディタやツールが表示されていないので Frame に設定された画像が背景になっていて、下部ではツールの TODO を開いているので、ここの背景は Editor and tools に設定された画像が背景になっています。
 

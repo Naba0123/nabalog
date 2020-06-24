@@ -1,6 +1,6 @@
 ---
 title: 初めてコミケにサークル参加をした話（当日編）
-tags: ["サークル活動"]
+tags: ["Rallentando"]
 date: "2016-08-28 22:13:16"
 ---
 
@@ -10,7 +10,7 @@ date: "2016-08-28 22:13:16"
 
 前編は以下から。
 
-[http://blog.naba.biz/entry/2016/08/17/223526](http://blog.naba.biz/entry/2016/08/17/223526)
+[初めてコミケにサークル参加をした話（準備編）](./0817-c90)
 
 ついに迎えた当日。初めてサークル参加をして感じたこと、学んだことを書いていきます。
 
@@ -25,11 +25,11 @@ date: "2016-08-28 22:13:16"
 早々に受付を済ませて自分のブースへ向かうのですが、なんと人の少ないこと。  
 普段は人で溢れかえっている時にしか東京ビックサイトには行ったことがないので、この時間のコミケ会場は新鮮でした。
 
-![20160828212315](20160828212315.png)
+![](20160828212315.jpg)
 
 自分のブースを確認して、とりあえず準備を始めます。
 
-[https://twitter.com/Naba0123/status/764593729265033216:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ブース着きました！ <a href="https://t.co/HvMXHPKjAp">pic.twitter.com/HvMXHPKjAp</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/764593729265033216?ref_src=twsrc%5Etfw">August 13, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ディスプレイのはいろいろ考えていたのですが、シンプルに、
 
@@ -40,7 +40,7 @@ date: "2016-08-28 22:13:16"
 
 となりました。
 
-[https://twitter.com/Naba0123/status/764602448010895364:embed]
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/iZWl4XxtwI">pic.twitter.com/iZWl4XxtwI</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/764602448010895364?ref_src=twsrc%5Etfw">August 13, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 試聴機は用意していなかったのですが、周りのサークルが皆用意してあったので、急遽自分のSurfaceを試聴機として使用しました。
 
@@ -50,11 +50,11 @@ date: "2016-08-28 22:13:16"
 
 ## 開場、頒布
 
-![20160828215552](20160828215552.png)
+![](20160828215552.jpg)
 
 10時に開場。無名サークル故に、17部用意してきっと余るだろうなーと思っていたのですが、なんと **開場1時間で完売** 。
 
-[https://twitter.com/Naba0123/status/764644302794272768:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">完売しました！数が少なくて本当にごめんなさい！</p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/764644302794272768?ref_src=twsrc%5Etfw">August 14, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 これには自分もビックリ、その後に買いに来てくれた方もビックリ。
 

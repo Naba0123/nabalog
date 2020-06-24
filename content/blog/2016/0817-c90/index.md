@@ -1,6 +1,6 @@
 ---
 title: 初めてコミケにサークル参加をした話（準備編）
-tags: ["サークル活動"]
+tags: ["Rallentando"]
 date: "2016-08-17 22:35:26"
 ---
 
@@ -8,7 +8,7 @@ date: "2016-08-17 22:35:26"
 はてなブログからの移行記事
 </div>
 
-![20160817223338](20160817223338.png)
+![20160817223338](20160817223338.jpg)
 
 ## はじめに
 
@@ -36,7 +36,7 @@ date: "2016-08-17 22:35:26"
 
 ## 頒布物の計画
 
-[https://twitter.com/Naba0123/status/759676184003129348:embed]
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/TXDW3mCvAK">pic.twitter.com/TXDW3mCvAK</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/759676184003129348?ref_src=twsrc%5Etfw">July 31, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 何を頒布するかは決まっていました。ピアノCDと楽譜です。  
 決めるべきものは、何曲入れるのか、これから新規に作曲するのは何曲か、製本・CDプレスはどうするのか、等です。
@@ -69,13 +69,13 @@ Piano Sketch Vol.1 では、当初は13曲の予定でしたが3曲を削って1
 
 私は、Excelで進捗を管理しました。
 
-[https://twitter.com/Naba0123/status/754712004904951809:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ここからが長い… <a href="https://t.co/go6iRSsS4z">pic.twitter.com/go6iRSsS4z</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/754712004904951809?ref_src=twsrc%5Etfw">July 17, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
 ## 頒布物の制作
 
-[https://twitter.com/Naba0123/status/761727494424698881:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">届いたいろいろ。表紙用紙は届いたけど、本文用紙がまだ来ない <a href="https://t.co/Fc5KKzkeR9">pic.twitter.com/Fc5KKzkeR9</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/761727494424698881?ref_src=twsrc%5Etfw">August 6, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 デジタルデータを用意したら、いよいよ製本とプレスです。  
 今回の「Piano Sketch Vol.1」のジャケットは、知り合いの方に描いて頂きました。  
@@ -94,14 +94,14 @@ Piano Sketch Vol.1 では、当初は13曲の予定でしたが3曲を削って1
 CDも、日本製の高品質（らしい）CD-Rを購入し、一斉レーベル印刷。  
 もう少し光沢のあるディスクでも良かったかもしれません。
 
-[https://twitter.com/Naba0123/status/761962328845750273:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こうして <a href="https://t.co/u7kOCcyigv">pic.twitter.com/u7kOCcyigv</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/761962328845750273?ref_src=twsrc%5Etfw">August 6, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
 製本は、平タイプのMAXのホチキスで止めた後、製本テープでガッツリ止めました。  
 個人的にデザインが好きです…が、**楽譜なのに内側まで印刷がされていて、かつ平綴じなので楽譜が開きづらい**という…本当に反省点です。
 
-[https://twitter.com/Naba0123/status/761962512585678848:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こうじゃ（疲れた <a href="https://t.co/aholAw8Ml7">pic.twitter.com/aholAw8Ml7</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/761962512585678848?ref_src=twsrc%5Etfw">August 6, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 なにはともあれ、完成です。
 
@@ -109,7 +109,7 @@ CDも、日本製の高品質（らしい）CD-Rを購入し、一斉レーベ�
 
 ## 頒布スペースの計画
 
-[https://twitter.com/Naba0123/status/762251647871361025:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">頒布スペースイメージ <a href="https://t.co/Cun4ZH6rJM">pic.twitter.com/Cun4ZH6rJM</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/762251647871361025?ref_src=twsrc%5Etfw">August 7, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 コミケには何度も参加したことがあったのですが、まじまじとスペースを観察したことがなかったので、ネットで調べて今回は必要最低限のものだけを揃えました。
 
@@ -121,7 +121,7 @@ CDも、日本製の高品質（らしい）CD-Rを購入し、一斉レーベ�
 
 自作のプレートは中々に良いと思います。
 
-[https://twitter.com/Naba0123/status/762248765210103808:embed]
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">プレート作った <a href="https://t.co/Fqkr2sUPyL">pic.twitter.com/Fqkr2sUPyL</a></p>&mdash; Naba (ナーバ) (@Naba0123) <a href="https://twitter.com/Naba0123/status/762248765210103808?ref_src=twsrc%5Etfw">August 7, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 試聴機は用意が出来なかったのでいいかなーと思っていましたが、やはり当日慌てて用意しました。  
 詳しくは後半で。

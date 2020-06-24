@@ -8,10 +8,10 @@ date: "2016-12-18 00:00:00"
 はてなブログからの移行記事
 </div>
 
-![20151205213611](20151205213611.png)  
+![20151205213611](20151205213611.jpg)  
 ※写真は1年前です。
 
-[Windows 10 Mobile / Windows Phone Advent Calendar 2016](http://www.adventar.org/calendars/1471) の 18日目 の記事です。
+[Windows 10 Mobile / Windows Phone Advent Calendar 2016](http://www.adventar.org/calendars/1471) の 18日目 の記事です。  
 [http://www.adventar.org/calendars/1471](http://www.adventar.org/calendars/1471)
 
 前日は、霜月のい さんです。明日は、FIWWA さんです。
@@ -19,6 +19,7 @@ date: "2016-12-18 00:00:00"
 このような真面目な Advent Calendar に参加をするのは初めて、また Windows 10 Mobile が好きと言っているだけのただの素人ですので、暖かく見守ってくださると嬉しいです。
 
 内容としては、今年（といっても今年の3月）にリリースをした「星空予報 with 暮井慧」の紹介と、**私が思う**（ココ重要） Windows 10 Mobile について好き勝手に書きたいと思います。
+
 [https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9](https://www.microsoft.com/ja-jp/store/apps/%E6%98%9F%E7%A9%BA%E4%BA%88%E5%A0%B1-with-%E6%9A%AE%E4%BA%95%E6%85%A7/9nblggh4rjv9)
 
 # リリースをしたアプリについて
@@ -27,7 +28,7 @@ date: "2016-12-18 00:00:00"
 
 その時のスライド。
 
-[http://www.slideshare.net/naba0123/windows-10-mobile-60052999](http://www.slideshare.net/naba0123/windows-10-mobile-60052999)
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NTAeLJS8mp9UHl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/naba0123/windows-10-mobile-60052999" title="初心者でも Windows 10 Mobile アプリを作りたい！" target="_blank">初心者でも Windows 10 Mobile アプリを作りたい！</a> </strong> from <strong><a href="https://www.slideshare.net/naba0123" target="_blank">naba0123</a></strong> </div>
 
 アプリの中身は簡単で、GPS と OpenWeatherMap API を使用して天気を取得、また別の API を使用して日の出、日の入り、月の出、月の入りを取得し、現在星が見るかどうかを「プロ生ちゃん（暮井慧）」に話してもらう、という内容です。
 
