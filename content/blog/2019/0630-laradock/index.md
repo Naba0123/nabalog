@@ -1,6 +1,6 @@
 ---
 title: Laradock + Laravel + VSCode + Xdebug 環境構築
-tags: ["PHP"]
+tags: ["PHP", "Laravel"]
 date: "2019-06-30 01:33:49"
 ---
 
@@ -19,23 +19,17 @@ Laravel の開発環境として、
 
 当初は VSCode Remote Development で構築しようと思いましたが、Docker のコンテナと開発手法の相性が悪そう（workspace, nginx, php-fpm でコンテナが分かれているから?）なので、通常のリモートデバッグで進めます。
 
-<br><hr>
-
-<hr><br>
-
 # 環境
 
 * Windows 10 Pro 1809 (Windows 10 October 2018 Update)
 * Docker Desktop 2.0.0.3 (Hyper-V)  
-![20190629121758](20190629121758.png)
+![](20190629121758.png)
 * PHP 7.2.19
 * Laravel 5.8.26
 * Laradock (2019/06/30 時点の master)  
 [https://github.com/laradock/laradock/tree/a2c7b467662706ba1af118048baeaf6e27f6a74d](https://github.com/laradock/laradock/tree/a2c7b467662706ba1af118048baeaf6e27f6a74d)
 * Visual Studio Code 1.35.1  
-![20190630012034](20190630012034.png)
-
-<br>
+![](20190630012034.png)
 
 # 1. Docker 設定
 
@@ -43,8 +37,6 @@ Docker の Shared Drive を On に。
 Laradock が共有前提のため、動かない。
 
 ![C ドライブと D ドライブ（一応）をOnに](20190630000552.png)
-
-<br>
 
 # 2. Laradock 設定
 
@@ -112,8 +104,6 @@ $ cp php-fpm/xdebug.ini workspace/xdebug.ini  # php-fpm の xdebug.ini を全く
 
 これで Laradock の設定周りは完了です。
 
-<br>
-
 ## 補足：Laravel アプリケーション作成
 
 今回の記事の範囲ではないため、さっくりと。
@@ -157,19 +147,15 @@ workspace コンテナ内に入ったら、Laravel アプリケーションを�
 ちなみに、「--prefer-dist」を書くととりあえず早くなるそうです。
 （参考：[https://kin29.info/composer-%E3%81%AE-prefer-dist%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%81%91%E3%81%A9%E4%BD%95%E3%81%97%E3%81%A6%E3%82%8B%EF%BC%9F/](https://kin29.info/composer-%E3%81%AE-prefer-dist%E3%81%A3%E3%81%A6%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E3%81%91%E3%81%A9%E4%BD%95%E3%81%97%E3%81%A6%E3%82%8B%EF%BC%9F/)）
 
-<br>
-
 # 3. VSCode 設定
 
 VSCode に PHP Debug を導入します。これで Break Point を張ったりできます。
 
-![20190630005714](20190630005714.png)
+![](20190630005714.png)
 
 VSCodeで、Laravel Application のフォルダを開いて、とりあえず Break Point を確認したいので、「routes/web.php」を開き、「return view('welcome');」の行に Break Point 設定。
 
 ![15行目に Break Point 設定](20190630011739.png)
-
-<br>
 
 次にデバッグ設定、デバッグ画面の構成追加から、「PHP」を選び（初回のみ）、「launch.jon」が出てきたら以下のように設定をします。
 ```
@@ -203,8 +189,6 @@ VSCodeで、Laravel Application のフォルダを開いて、とりあえず Br
 
 ![launch.json](20190630012211.png)
 
-<br>
-
 # 4. Xdebug テスト
 
 VSCode デバッグ画面左上の DEBUG を「Listen for XDebug」にして、実行。  
@@ -212,13 +196,11 @@ VSCode デバッグ画面左上の DEBUG を「Listen for XDebug」にして、�
 
 ブラウザで localhost にアクセスをすると、止まるはずです。
 
-![20190630012443](20190630012443.png)
+![](20190630012443.png)
 
 変数の中身もちゃんと確認できて、開発がきっと捗るはず。
 
 おしまい。
-
-<br>
 
 ### 参考
 

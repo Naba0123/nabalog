@@ -1,6 +1,6 @@
 ---
 title: Docker + React 開発環境を整える
-tags: ["React"]
+tags: ["Docker", "React"]
 date: "2020-01-27 00:22:33"
 ---
 
@@ -154,7 +154,7 @@ You can now view react-sample in the browser.
 Note that the development build is not optimized.
 To create a production build, use yarn build.
 ```
-![20200127000835](20200127000835.png)
+![](20200127000835.png)
 
 これで React アプリが起動しました。  
 ホストPCとは3000ポートがすでにフォワーディングされていますので、ブラウザで ** http://localhost:3000/ ** にアクセスすると、 React の Welcome ページが出てくるはずです。お疲れさまでした！
@@ -171,10 +171,10 @@ Error: ENOENT: no such file or directory, uv_cwd
 
 # 環境構築直後のディレクトリ構造
 
-![20200127001704](20200127001704.png)
+![](20200127001704.png)
 
 # 参考
 
-[https://blog.web.nifty.com/engineer/2714](https://blog.web.nifty.com/engineer/2714)
-[https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04](https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04)
-[https://unskilled.site/%E4%BD%BF%E3%81%84%E6%96%B9%E5%9F%BA%E6%9C%AC%E7%89%88dockercompose%E3%81%A7%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%BB%E9%80%A3%E6%90%BA%E3%82%92%E6%A5%BD/](https://unskilled.site/%E4%BD%BF%E3%81%84%E6%96%B9%E5%9F%BA%E6%9C%AC%E7%89%88dockercompose%E3%81%A7%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%BB%E9%80%A3%E6%90%BA%E3%82%92%E6%A5%BD/)
+* [https://blog.web.nifty.com/engineer/2714](https://blog.web.nifty.com/engineer/2714)
+* [https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04](https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04)
+* [https://unskilled.site/%E4%BD%BF%E3%81%84%E6%96%B9%E5%9F%BA%E6%9C%AC%E7%89%88dockercompose%E3%81%A7%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%BB%E9%80%A3%E6%90%BA%E3%82%92%E6%A5%BD/](https://unskilled.site/%E4%BD%BF%E3%81%84%E6%96%B9%E5%9F%BA%E6%9C%AC%E7%89%88dockercompose%E3%81%A7%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E7%AB%8B%E3%81%A1%E4%B8%8A%E3%81%92%E3%83%BB%E9%80%A3%E6%90%BA%E3%82%92%E6%A5%BD/)

@@ -1,6 +1,6 @@
 ---
 title: Docker + Jenkins で GatsbyJs ビルド環境作成
-tags: ["Docker", "Jenkins", "GatsbyJS", "Node.js"]
+tags: ["Docker", "Jenkins", "GatsbyJS"]
 date: "2020-04-15 23:17:03"
 ---
 
