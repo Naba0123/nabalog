@@ -113,8 +113,14 @@
 }
 
 /* img */
+#article-section span.gatsby-resp-image-wrapper {
+  margin: 2em auto;
+}
 #article-section figure.gatsby-resp-image-figure {
   margin: 2em auto;
+}
+#article-section figure.gatsby-resp-image-figure span.gatsby-resp-image-wrapper {
+  margin-bottom: 0;
 }
 #article-section img.gatsby-resp-image-image {
   box-shadow: 0 0 10px gray !important;
