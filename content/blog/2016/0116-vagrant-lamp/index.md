@@ -1,6 +1,6 @@
 ---
 title: Windows 10 Home 上に Vagrant と VirtualBox で LAMP 開発環境を整える(CentOS7/PHP7)
-tags: ["Vagrant", "環境構築"]
+tags: ["Vagrant"]
 date: "2016-01-16 19:28:40"
 ---
 
