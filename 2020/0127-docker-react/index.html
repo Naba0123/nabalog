@@ -79,35 +79,35 @@
 <p>作業ディレクトリを作成したら、まず ** docker-compose.yml ** を作成します。<br>
 ** docker-compose.yml ** を使用することで、通常 <code class="language-text">docker</code> コマンドに色々引数やらつけなくちゃいけないものを、一元管理することができます。<br>
 また、実行する際も <code class="language-text">docker-compose</code> コマンドを使用します。</p>
-<div class="gatsby-highlight" data-language="yaml"><pre class="language-yaml"><code class="language-yaml"><span class="token key atrule">version</span><span class="token punctuation">:</span> <span class="token string">'3'</span>
+<div class="gatsby-highlight" data-language="yaml"><pre class="language-yaml"><code class="language-yaml"><span class="token key atrule">version</span><span class="token punctuation">:</span> <span class="token string">"3"</span>
 <span class="token key atrule">services</span><span class="token punctuation">:</span>
-    <span class="token key atrule">node</span><span class="token punctuation">:</span>
-        <span class="token key atrule">image</span><span class="token punctuation">:</span> node<span class="token punctuation">:</span>12.14.1
-        <span class="token key atrule">volumes</span><span class="token punctuation">:</span>
-            <span class="token punctuation">-</span> ./<span class="token punctuation">:</span>/usr/src/app
-        <span class="token key atrule">working_dir</span><span class="token punctuation">:</span> /usr/src/app
-        <span class="token key atrule">ports</span><span class="token punctuation">:</span>
-            <span class="token punctuation">-</span> <span class="token string">"3000:3000"</span>
-        <span class="token key atrule">tty</span><span class="token punctuation">:</span> <span class="token boolean important">true</span></code></pre></div>
+  <span class="token key atrule">node</span><span class="token punctuation">:</span>
+    <span class="token key atrule">image</span><span class="token punctuation">:</span> node<span class="token punctuation">:</span>12.14.1
+    <span class="token key atrule">volumes</span><span class="token punctuation">:</span>
+      <span class="token punctuation">-</span> ./<span class="token punctuation">:</span>/usr/src/app
+    <span class="token key atrule">working_dir</span><span class="token punctuation">:</span> /usr/src/app
+    <span class="token key atrule">ports</span><span class="token punctuation">:</span>
+      <span class="token punctuation">-</span> <span class="token string">"3000:3000"</span>
+    <span class="token key atrule">tty</span><span class="token punctuation">:</span> <span class="token boolean important">true</span></code></pre></div>
 <ul>
-<li>** version ** : docker-compose で使用するバージョンになります。<br>
+<li><strong>version</strong> : docker-compose で使用するバージョンになります。<br>
 ドキュメント：<a href="https://docs.docker.com/compose/compose-file/">https://docs.docker.com/compose/compose-file/</a></li>
 <li>
-<p>** services ** : ** version ** と同じインデントに記載します。<br>
+<p><strong>services</strong> : <strong>version</strong> と同じインデントに記載します。<br>
 ※参考記事ではインデントを深くしており、そのまま真似てしまうとエラーになってしまいました。（気付くまで時間がかかった）</p>
 <ul>
-<li>** node ** : ** services ** で定義するサービス名です。何でも良いですが、<code class="language-text">docker-compose up サービス名</code> のように使用するので、分かりやすい名前にしておきます。<br>
+<li><strong>node</strong> : <strong>services</strong> で定義するサービス名です。何でも良いですが、<code class="language-text">docker-compose up サービス名</code> のように使用するので、分かりやすい名前にしておきます。<br>
 今回は、使用するコンテナのイメージが node なので、定義する名前も node にしておきます。</li>
-<li>** image ** : ** node ** サービスで使用するイメージ元です。<br>
-今回のように直接 image を指定することもあれば、 ** build ** セクションを記載して、<code class="language-text">docker-compose build</code> でイメージをビルドしてから起動する方法もあります。</li>
-<li>** volumes ** : ホストOSと共有するディレクトリになります。<br>
+<li><strong>image</strong> : <strong>node</strong> サービスで使用するイメージ元です。<br>
+今回のように直接 image を指定することもあれば、 <strong>build</strong> セクションを記載して、<code class="language-text">docker-compose build</code> でイメージをビルドしてから起動する方法もあります。</li>
+<li><strong>volumes</strong> : ホスト OS と共有するディレクトリになります。<br>
 コロンより前がホスト側のパス（ <code class="language-text">docker-compose</code> を実行するディレクトリからの相対パスとして、自身のディレクトリを指定）、後がコンテナ内のパスです。</li>
-<li>** working_dir ** : コンテナ内でコマンドを実行する際の、起点となるディレクトリです。<br>
+<li><strong>working_dir</strong> : コンテナ内でコマンドを実行する際の、起点となるディレクトリです。<br>
 今回は、後ほど <code class="language-text">docker-compose exec node /bin/bash</code> でコマンド内で作業をするので、そのログイン時のはじめのディレクトリを指定しておきます。</li>
-<li>** ports ** : ホストとコンテナでポートフォワードを行うポートを指定します。<br>
-コロンより前がホスト側、後がコンテナ側で、今回はコンテナ内で3000ポートで動いているアプリケーションに、ホストの3000を割り当てています。<br>
-これにより、Reactアプリケーションの起動後に <a href="http://localhost:3000/">http://localhost:3000/</a> でアクセスができるわけです。</li>
-<li>** tty:true ** : これを書いておくことで、<code class="language-text">docker-compose up</code> 後に実行するコマンドがなく即コンテナが終了することなく、待機状態となります。<br>
+<li><strong>ports</strong> : ホストとコンテナでポートフォワードを行うポートを指定します。<br>
+コロンより前がホスト側、後がコンテナ側で、今回はコンテナ内で 3000 ポートで動いているアプリケーションに、ホストの 3000 を割り当てています。<br>
+これにより、React アプリケーションの起動後に <a href="http://localhost:3000/">http://localhost:3000/</a> でアクセスができるわけです。</li>
+<li><strong>tty:true</strong> : これを書いておくことで、<code class="language-text">docker-compose up</code> 後に実行するコマンドがなく即コンテナが終了することなく、待機状態となります。<br>
 ドキュメント：<a href="https://docs.docker.com/compose/compose-file/#domainname-hostname-ipc-mac_address-privileged-read_only-shm_size-stdin_open-tty-user-working_dir">https://docs.docker.com/compose/compose-file/#domainname-hostname-ipc-mac<em>address-privileged-read</em>only-shm<em>size-stdin</em>open-tty-user-working_dir</a></li>
 </ul>
 </li>
@@ -133,7 +133,7 @@ Creating app_node_1 ... done
 Attaching to app_node_1
 node_1  | Welcome to Node.js v12.14.1.
 node_1  | Type &quot;.help&quot; for more information.</code></pre></div>
-<p>初回は、** node:12.14.1 ** イメージをダウンロードするので pull したりするログが流れますが、最後に node が起動してるっぽいログが出てきたらOKです。  </p>
+<p>初回は、** node:12.14.1 ** イメージをダウンロードするので pull したりするログが流れますが、最後に node が起動してるっぽいログが出てきたら OK です。</p>
 <p>今回実行した <code class="language-text">docker-compose up</code> は、docker-compose.yml に記載されているサービスを全部起動するという処理になっています。<br>
 今回 services には node しか書いていませんので <code class="language-text">docker-compose up node</code> と同義となります。</p>
 <p>ただし、現在フォアグラウンドで実行中、かつ何も動作をしない状態なので、これ以上動けず、ログを吐き出し続けます。<br>
@@ -151,7 +151,7 @@ root@cf0b2b9f6a64:/usr/src/app#</code></pre></div>
 <p>次に、react アプリを作成します。<br>
 node のイメージを使用しているので、node はもちろん入っています。<br>
 ** react-sample ** という名前で新規の React アプリを作成します。<br>
-create-react-app は結構時間がかかります（私の環境では20分ぐらい）。のんびり待ちましょう。</p>
+create-react-app は結構時間がかかります（私の環境では 20 分ぐらい）。のんびり待ちましょう。</p>
 <div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">root@cf0b2b9f6a64:/usr/src/app# node --version
 v12.14.1
 root@cf0b2b9f6a64:/usr/src/app# npm --version
@@ -212,10 +212,10 @@ To create a production build, use yarn build.</code></pre></div>
       />
     </span></p>
 <p>これで React アプリが起動しました。<br>
-ホストPCとは3000ポートがすでにフォワーディングされていますので、ブラウザで ** <a href="http://localhost:3000/">http://localhost:3000/</a> ** にアクセスすると、 React の Welcome ページが出てくるはずです。お疲れさまでした！</p>
+ホスト PC とは 3000 ポートがすでにフォワーディングされていますので、ブラウザで ** <a href="http://localhost:3000/">http://localhost:3000/</a> ** にアクセスすると、 React の Welcome ページが出てくるはずです。お疲れさまでした！</p>
 <p><code class="language-text">yarn start</code> についてですが、今回のようにいちいちコンテナに入って打つよりも、参考記事にあった<br>
 「docker-compose.yml 内に起動時のコマンドとして <code class="language-text">cd react-sample &amp;&amp; yarn start</code> を指定する」<br>
-という方法もあるようですが、私の環境では1回目は成功するのですが、一度落として再度 ** docker-compose up **しようとすると、  </p>
+という方法もあるようですが、私の環境では 1 回目は成功するのですが、一度落として再度 ** docker-compose up **しようとすると、</p>
 <div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">Error: ENOENT: no such file or directory, uv_cwd</code></pre></div>
 <p>のようなエラーが出てきてしまい実行できない、という状況になってしまいました。<br>
 （調べてみるとどうやら node.js のエラーらしいです）<br>
