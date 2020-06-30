@@ -61,6 +61,17 @@ const Layout = ({ title, children, description }) => {
       >
         {header}
       </header>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      {/* nabalog-page-top */}
+      <ins className="adsbygoogle"
+          style={{ display: `block` }}
+          data-ad-client="ca-pub-3277188906130312"
+          data-ad-slot="3844360834"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
       <div
         style={{
           margin: `0 auto`,
@@ -71,6 +82,17 @@ const Layout = ({ title, children, description }) => {
       >
         <main>{children}</main>
       </div>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      {/* nabalog-page-bottom */}
+      <ins className="adsbygoogle"
+          style={{ display: `block`}}
+          data-ad-client="ca-pub-3277188906130312"
+          data-ad-slot="7520167372"
+          data-ad-format="auto"
+          data-full-width-responsive="true"></ins>
+      <script>
+          (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
       <div
         style={{
           padding: `${rhythm(1.5)} 5%`,
