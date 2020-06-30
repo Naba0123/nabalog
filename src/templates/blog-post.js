@@ -97,6 +97,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             marginBottom: rhythm(1),
           }}
         />
+        <div className="article-table-of-contents" dangerouslySetInnerHTML={{ __html: post.tableOfContents }} />
         <section id={`article-section`} dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
@@ -125,6 +126,7 @@ export const pageQuery = graphql`
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
+      tableOfContents(pathToSlugField: "fields.slug")
       frontmatter {
         title
         date(formatString: "YYYY/MM/DD HH:mm")

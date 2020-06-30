@@ -47,6 +47,7 @@ module.exports = {
             },
           },
           `gatsby-remark-images-zoom`,
+          `gatsby-remark-autolink-headers`, // must place before gatsby-remark-prismjs
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
