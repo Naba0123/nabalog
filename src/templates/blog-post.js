@@ -110,6 +110,16 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       <Share postPath={slug} postNode={post}/>
       {relatedPostCont}
 
+      <div
+          dangerouslySetInnerHTML={{
+            __html: `
+              <script>
+                  (adsbygoogle = window.adsbygoogle || []).push({});
+              </script>
+            `,
+          }}
+        />
+
     </Layout>
   )
 }

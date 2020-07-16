@@ -69,7 +69,7 @@ const Layout = ({ title, children, description }) => {
           maxWidth: `75em`,
         }}
       >
-        <div
+        <div className='ads_container'
           dangerouslySetInnerHTML={{
             __html: `
               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -87,7 +87,7 @@ const Layout = ({ title, children, description }) => {
           }}
         />
         <main>{children}</main>
-        <div
+        <div className='ads_container'
           dangerouslySetInnerHTML={{
             __html: `
               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

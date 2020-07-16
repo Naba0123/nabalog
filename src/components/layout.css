@@ -39,3 +39,7 @@ p.date {
   font-style: italic;
   color: gray;
 }
+
+div.ads_container {
+  margin: 1em auto;
+}
