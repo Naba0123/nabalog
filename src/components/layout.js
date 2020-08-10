@@ -6,6 +6,7 @@ import { faTag } from "@fortawesome/free-solid-svg-icons"
 import Bio from "../components/bio"
 import { rhythm } from "../utils/typography"
 import "./layout.css"
+import AdSense from 'react-adsense'
 
 const Layout = ({ title, children, description }) => {
   const data = useStaticQuery(graphql`
@@ -69,40 +70,16 @@ const Layout = ({ title, children, description }) => {
           maxWidth: `75em`,
         }}
       >
-        <div className='ads_container'
-          dangerouslySetInnerHTML={{
-            __html: `
-              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-              <!-- nabalog-page-top -->
-              <ins class="adsbygoogle"
-                  style="display:block"
-                  data-ad-client="ca-pub-3277188906130312"
-                  data-ad-slot="3844360834"
-                  data-ad-format="auto"
-                  data-full-width-responsive="true"></ins>
-              <script>
-                  (adsbygoogle = window.adsbygoogle || []).push({});
-              </script>
-            `,
-          }}
+        <AdSense.Google
+          client='ca-pub-3277188906130312'
+          slot='3844360834'
+          responsive='true'
         />
         <main>{children}</main>
-        <div className='ads_container'
-          dangerouslySetInnerHTML={{
-            __html: `
-              <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-              <!-- nabalog-page-bottom -->
-              <ins class="adsbygoogle"
-                  style="display:block"
-                  data-ad-client="ca-pub-3277188906130312"
-                  data-ad-slot="7520167372"
-                  data-ad-format="auto"
-                  data-full-width-responsive="true"></ins>
-              <script>
-                  (adsbygoogle = window.adsbygoogle || []).push({});
-              </script>
-            `,
-          }}
+        <AdSense.Google
+          client='ca-pub-3277188906130312'
+          slot='7520167372'
+          responsive='true'
         />
       </div>
       <div
