@@ -3,12 +3,21 @@ import {graphql} from "gatsby"
 import Img from "gatsby-image"
 
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
 import {faUtensils, faCheckSquare} from "@fortawesome/free-solid-svg-icons"
 
-export default ({data}) => (
+export default ({data, location}) => (
   <Layout>
+    <SEO
+      pageTitle="ESSENTIALSについて"
+      pageDesc="食べ物についての情報を発信しているサイトです。"
+      pagePath={location.pathname}
+      pageImg={data.about.childImageSharp.original.src}
+      pageImgW={data.about.childImageSharp.original.width}
+      pageImgH={data.about.childImageSharp.original.height}
+    />
     <div>
       <div className="eyecatch">
         <figure>
@@ -49,6 +58,11 @@ query {
     childImageSharp {
       fluid(maxWidth: 1600) {
         ...GatsbyImageSharpFluid_withWebp
+      }
+      original {
+        height
+        src
+        width
       }
     }
   }
