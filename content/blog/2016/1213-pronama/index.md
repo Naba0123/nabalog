@@ -8,8 +8,6 @@ date: "2016-12-13 23:13:53"
 はてなブログからの移行記事
 </div>
 
-![](20151215224746.jpg)
-
 すみません大遅刻しました。 プロ生ちゃん Advent Calender 11日目です。
 
 [http://www.adventar.org/calendars/1631](http://www.adventar.org/calendars/1631)
